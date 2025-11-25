@@ -2,6 +2,7 @@ baseURL = "https://ortabels.github.io/Projet_Jardin/"
 languageCode = "fr-fr"
 title = "Ortabels"
 theme = "ortabels-theme"
+canonifyURLs = true
 
 [params]
   description = "Micro-ferme Ortabels — projets, agroécologie et vie associative."
