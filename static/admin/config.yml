@@ -1,11 +1,10 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: Ortabels/Projet_Jardin
   branch: main
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
-
-local_backend: true
 
 collections:
   - name: "projects"
@@ -16,9 +15,6 @@ collections:
     slug: "{{slug}}"
     extension: "md"
     format: "frontmatter"
-    filter:
-      field: "title"
-      value: "dummy-filter-disabled"
     fields:
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime", required: false }
@@ -29,7 +25,7 @@ collections:
       - { label: "Année", name: "annee", widget: "number", required: false }
       - { label: "Budget estimé (€)", name: "budget_estime", widget: "number", required: false }
       - { label: "Subvention demandée mairie (€)", name: "subvention_demandee_mairie", widget: "number", required: false }
-      - { label: "Contenu (inclure la section PUBLIC, laisser la partie INTERNAL en bas)", name: "body", widget: "markdown" }
+      - { label: "Contenu (partie publique + INTERNAL en bas)", name: "body", widget: "markdown" }
 
   - name: "pages"
     label: "Pages"
