@@ -46,7 +46,6 @@ Des ateliers de découverte de la faune et de la flore aquatiques pourront être
 - Créer une zone humide pérenne favorisant la biodiversité locale.
 - Proposer un support d’observation et d’éducation pour les jeunes publics.
 - Organiser des ateliers nature autour de la mare.
-- Contribuer à la gestion durable de l’eau sur la parcelle.
 
 ### 4. Description du projet
 
