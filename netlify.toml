@@ -1,8 +1,0 @@
-[build]
-  command = "hugo"
-  publish = "public"
-
-[build.environment]
-  HUGO_VERSION = "0.125.1"
-  # If you need the extended Hugo build (Sass/SCSS support), also add:
-  # HUGO_EXTENDED = "true"

@@ -1,6 +1,0 @@
-{{ define "main" }}
-  <h2>{{ .Title }}</h2>
-  {{ $raw := .RawContent }}
-  {{ $public := replaceRE "(?s)# INTERNAL.*" "" $raw }}
-  {{ $public | markdownify }}
-{{ end }}
