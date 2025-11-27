@@ -1,0 +1,14 @@
+{{- if .Site.Params.editAccess.enabled | default false -}}
+  <style id="edit-access-guard">
+    [data-edit-link] {
+      display: none !important;
+    }
+
+    html.has-edit-access [data-edit-link] {
+      display: inline-flex !important;
+    }
+  </style>
+  {{- $alg := .Site.Params.fingerprintAlgorithm | default "sha512" -}}
+  {{- $editJS := resources.Get "js/edit-access.js" | resources.ExecuteAsTemplate "js/edit-access.js" . | resources.Minify | resources.Fingerprint $alg -}}
+  <script defer type="text/javascript" src="{{ $editJS.RelPermalink }}" integrity="{{ $editJS.Data.Integrity }}"></script>
+{{- end -}}

@@ -7,6 +7,10 @@ pageRef = "projets"
 identifier = "V0PUZHk4T4"
 weight = 1
 
+[[main]]
+name = "Photos"
+pageRef = "galery"
+weight = 2
 
 [[main]]
 name = "Contact"
@@ -14,12 +18,19 @@ pageRef = "contact"
 identifier = "sN7eWLbU2a"
 weight = 3
 
+
 [[main]]
 name = ""
 pre = "facebook"
 url = "https://www.facebook.com/"
 identifier = "AsPwTA5qym"
 weight = 9_999
+
+[[main]]
+name = "HelloAsso"
+url = "https://www.helloasso.com/associations/ortabels"
+identifier = "BLsWrlLa5D"
+weight = 4
 
 [[footer]]
 none = "none"

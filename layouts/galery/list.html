@@ -1,0 +1,74 @@
+{{ define "main" }}
+  {{ $images := .Resources.Match "img/*" }}
+  {{ .Scratch.Set "scope" "list" }}
+
+  <header class="mt-6 mb-8">
+    <h1 class="text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+    {{ with .Description }}
+      <p class="mt-2 text-neutral-600 dark:text-neutral-400">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  <section class="mt-0 prose dark:prose-invert max-w-full">
+    {{ .Content }}
+  </section>
+
+  {{ if $images }}
+    <section class="gallery-grid">
+      {{ range $i, $img := $images }}
+        {{ $thumb := $img.Fill "900x650 smart q75" }}
+        <a class="gallery-card" href="#lb-{{ $i }}">
+          <img src="{{ $thumb.RelPermalink }}" alt="{{ $img.Name }}">
+        </a>
+      {{ end }}
+    </section>
+
+    {{ $count := len $images }}
+    {{ range $i, $img := $images }}
+      {{ $prev := cond (eq $i 0) (sub $count 1) (sub $i 1) }}
+      {{ $next := mod (add $i 1) $count }}
+      <div id="lb-{{ $i }}" class="gallery-lightbox">
+        <a class="gallery-lightbox__backdrop" href="#close" aria-label="Fermer"></a>
+        <div class="gallery-lightbox__content">
+          <a class="gallery-lightbox__close" href="#close" aria-label="Fermer">✕</a>
+          <a class="gallery-lightbox__nav gallery-lightbox__nav--prev" href="#lb-{{ $prev }}" aria-label="Image précédente">‹</a>
+          <a class="gallery-lightbox__image" href="#close">
+            <img src="{{ $img.RelPermalink }}" alt="{{ $img.Name }}">
+          </a>
+          <a class="gallery-lightbox__nav gallery-lightbox__nav--next" href="#lb-{{ $next }}" aria-label="Image suivante">›</a>
+        </div>
+      </div>
+    {{ end }}
+  {{ else }}
+    <p class="text-neutral-500 dark:text-neutral-400">Aucune image trouvée dans <code>content/galery/img</code>.</p>
+  {{ end }}
+
+  <script>
+    (() => {
+      const boxes = Array.from(document.querySelectorAll(".gallery-lightbox")).filter((n) => n.id);
+      if (!boxes.length) return;
+      const ids = boxes.map((n) => n.id);
+      const indexById = Object.fromEntries(ids.map((id, i) => [id, i]));
+
+      const go = (delta) => {
+        const hash = window.location.hash.replace("#", "");
+        if (!hash || !(hash in indexById)) return;
+        const idx = indexById[hash];
+        const next = (idx + delta + ids.length) % ids.length;
+        window.location.hash = `#${ids[next]}`;
+      };
+
+      window.addEventListener("keydown", (e) => {
+        if (e.key === "ArrowLeft") {
+          e.preventDefault();
+          go(-1);
+        } else if (e.key === "ArrowRight") {
+          e.preventDefault();
+          go(1);
+        } else if (e.key === "Escape") {
+          window.location.hash = "#close";
+        }
+      });
+    })();
+  </script>
+{{ end }}

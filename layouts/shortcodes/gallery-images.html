@@ -1,0 +1,12 @@
+{{ $dir := .Get "dir" | default "img" }}
+{{ $pattern := printf "%s/*" $dir }}
+{{ $images := .Page.Resources.Match $pattern }}
+{{ $classes := .Get "class" | default "grid-w50 md:grid-w33 xl:grid-w25" }}
+
+{{ if not $images }}
+  <p>Aucune image trouvée dans {{ $pattern }}.</p>
+{{ end }}
+
+{{ range $images }}
+  <img src="{{ .RelPermalink }}" alt="{{ .Name }}" loading="lazy" class="{{ $classes }}">
+{{ end }}

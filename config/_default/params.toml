@@ -9,6 +9,7 @@ replyByEmail = false
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = false
+disableImageZoom = true
 hotlinkFeatureImage = false
 fingerprintAlgorithm = "sha512"
 giteaDefaultServer = "https://git.fsfe.org"
@@ -58,7 +59,7 @@ layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
 showDraftLabel = true
-showEdit = true
+showEdit = false
 editURL = "https://github.com/Ortabels/Projet_Jardin/edit/main/content"
 editAppendPath = true
 seriesOpened = false
@@ -73,6 +74,14 @@ showAuthorsBadges = true
 showWordCount = false
 showZenMode = false
 showAuthorBottom = true
+
+[editAccess]
+enabled = true
+password = "ortabels123"
+cookieName = "edit_access"
+cookieDurationDays = 7
+queryParam = "edit"
+allowedSections = [ "projets" ]
 
 [list]
 showHero = false

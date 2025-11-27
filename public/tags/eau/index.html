@@ -90,14 +90,12 @@
     
   
   
-    
-  
   
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.bb7f7120feb1cc5f451177dd3f898359fba9616575e4304363a93942692ed244cf82786d420461e6767c6e868a646e7d6e402ddf68e524d22dde3f4bf29b98bd.css"
-    integrity="sha512-u39xIP6xzF9FEXfdP4mDWfupYWV15DBDY6k5Qmku0kTPgnhtQgRh5nZ8boaKZG59bkAt32jlJNIt3j9L8puYvQ==">
+    href="/css/main.bundle.min.67f40bcbdfa768f7af56479da1cd40658108158cf1cae67065a1c916cc68f17ecf9a57fcfb5f726e37122d26971d4219ffb6432d4f5f54333dae2c4fa05ccd83.css"
+    integrity="sha512-Z/QLy9&#43;naPevVkedoc1AZYEIFYzxyuZwZaHJFsxo8X7Pmlf8&#43;19ybjcSLSaXHUIZ/7ZDLU9fVDM9rixPoFzNgw==">
 
   
   
@@ -110,9 +108,6 @@
   
   
   
-  
-    
-    <script src="/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js" integrity="sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7&#43;kfJ6kKCJxQGC&#43;8wm&#43;Bz9JucDjDTGNew=="></script>
   
 
   
@@ -229,6 +224,16 @@
 
   
   
+    <style id="edit-access-guard">
+    [data-edit-link] {
+      display: none !important;
+    }
+
+    html.has-edit-access [data-edit-link] {
+      display: inline-flex !important;
+    }
+  </style><script defer type="text/javascript" src="/js/edit-access.min.807f0d704e774f7261bd16ec5c376db5b590acebc5902c3d0b8005370195163b313e22368686611483458df79aba12ea4769648d3b7c1da9ba8113db6e425588.js" integrity="sha512-gH8NcE53T3JhvRbsXDdttbWQrOvFkCw9C4AFNwGVFjsxPiI2hoZhFINFjfeauhLqR2lkjTt8Ham6gRPbbkJViA=="></script>
+  
 
   
   
@@ -344,6 +349,24 @@
       
         
   <a
+  href="/galery/"
+  
+  class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
+  aria-label="Photos"
+  title="Galerie">
+  
+  
+    <p class="text-base font-medium">
+      Photos
+    </p>
+  
+</a>
+
+
+
+      
+        
+  <a
   href="/contact/"
   
   class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
@@ -353,6 +376,24 @@
   
     <p class="text-base font-medium">
       Contact
+    </p>
+  
+</a>
+
+
+
+      
+        
+  <a
+  href="https://www.helloasso.com/associations/ortabels"
+  target="_blank"
+  class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
+  aria-label="HelloAsso"
+  title="">
+  
+  
+    <p class="text-base font-medium">
+      HelloAsso
     </p>
   
 </a>
@@ -463,6 +504,26 @@
               
   <li class="mt-1">
   <a
+    href="/galery/"
+    
+    class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
+    aria-label="Photos"
+    title="Galerie">
+    
+    
+      <p class="text-bg font-bg">
+        Photos
+      </p>
+    
+  </a>
+</li>
+
+
+
+            
+              
+  <li class="mt-1">
+  <a
     href="/contact/"
     
     class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
@@ -472,6 +533,28 @@
     
       <p class="text-bg font-bg">
         Contact
+      </p>
+    
+  </a>
+</li>
+
+
+
+            
+              
+  <li class="mt-1">
+  <a
+    href="https://www.helloasso.com/associations/ortabels"
+    
+      target="_blank"
+    
+    class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
+    aria-label="HelloAsso"
+    title="">
+    
+    
+      <p class="text-bg font-bg">
+        HelloAsso
       </p>
     
   </a>
@@ -712,6 +795,13 @@
   
 
   
+  
+  
+  
+    
+  
+  
+  
 
   
 
@@ -820,14 +910,6 @@
     
     
   </div>
-  
-    <script>
-      mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
-        margin: 24,
-        background: "rgba(0,0,0,0.5)",
-        scrollOffset: 0,
-      });
-    </script>
   
   
   
