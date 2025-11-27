@@ -1,0 +1,21 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Òrtabels"
+
+[params]
+displayName = "FR"
+isoCode = "fr"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "logo_ortabels_notitle.png"
+description = "Ortabels est un lieu partagé en construction, dédié au maraîchage sur sol vivant et à l’agroécologie.L’association a pour vocation de devenir un espace d’expérimentation et de transmission, où se développent — et ont vocation à se développer — des projets collaboratifs avec ses membres, des écoles et les acteurs du territoire.Notre ambition : cultiver un sol vivant et créer un lieu où l’on apprend ensemble, pas à pas."
+
+  [params.author]
+  links = [ ]
+
+["params.author"]
+name = "Ortabels"
+headline = "Association"
+bio = ""

@@ -1,0 +1,210 @@
+/* Change la grande bande bleue en haut (hero) */
+.single_hero_background {
+    background: #9ebca6 !important;
+    /* vert Ortabels par ex. */
+}
+
+#menu-blur {
+    background: #dae7dd;
+    transition: opacity 0.05s ease;
+}
+
+a,
+.main-menu a,
+.card a,
+.prose a {
+    color: inherit;
+    text-decoration-color: #336666;
+}
+
+a:hover,
+.main-menu a:hover,
+.card a:hover,
+.prose a:hover {
+    color: #4b4b4b;
+    text-decoration-color: #336666;
+}
+
+
+section.prose.dark\:prose-invert.w-full,
+section.prose.dark\:prose-invert.w-full p {
+    text-align: justify;
+}
+
+.main-menu nav a.text-base.font-medium {
+    font-size: 2.5rem !important;
+}
+
+/* Remonter le bloc titre + sous-titre de 20px
+article.h-full.flex.flex-col.items-center.justify-center.text-center {
+    transform: translateY(-120px);
+} */
+
+/* Mise en valeur de la photo d'accueil */
+.home-photo {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto 0;
+}
+
+.home-photo img {
+    width: min(100%, 960px);
+    border-radius: 12px;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.15);
+}
+
+/* Page contact */
+.contact-hero {
+    background: linear-gradient(135deg, #f2f7f4 0%, #e6efe8 100%);
+    border-radius: 18px;
+    padding: 2.5rem clamp(1.25rem, 4vw, 3rem);
+    margin: 2rem auto;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.08);
+}
+
+.contact-intro {
+    max-width: 640px;
+    margin: 0 auto 2rem;
+    text-align: center;
+}
+
+.contact-intro .eyebrow {
+    display: inline-block;
+    padding: 0.35rem 0.75rem;
+    border-radius: 999px;
+    background: rgba(57, 103, 67, 0.1);
+    color: #396743;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    margin-bottom: 0.5rem;
+}
+
+.contact-intro h1 {
+    font-size: clamp(2rem, 4vw, 2.6rem);
+    margin: 0.25rem 0;
+}
+
+.contact-intro .lede {
+    color: #4b5563;
+    margin-top: 0.5rem;
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.contact-card {
+    background: #fff;
+    border-radius: 14px;
+    padding: 1.25rem 1.35rem;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.06);
+    border: 1px solid #e5e7eb;
+}
+
+.contact-card .icon {
+    font-size: 1.5rem;
+    margin-bottom: 0.25rem;
+}
+
+.contact-card h3 {
+    margin: 0.25rem 0;
+    font-size: 1.1rem;
+}
+
+.contact-card p {
+    margin: 0.15rem 0 0.5rem;
+    color: #4b5563;
+}
+
+.contact-link {
+    color: #396743;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.contact-link:hover {
+    text-decoration: underline;
+}
+
+.contact-form .form-card {
+    background: #fff;
+    border-radius: 14px;
+    padding: clamp(1.5rem, 3vw, 2rem);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e5e7eb;
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.contact-form h2 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.contact-form p {
+    margin: 0.35rem 0 1rem;
+    color: #4b5563;
+}
+
+.form-row {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    margin-bottom: 1rem;
+}
+
+.form-row label {
+    font-weight: 600;
+    color: #374151;
+}
+
+.form-row input,
+.form-row textarea {
+    border: 1px solid #d1d5db;
+    border-radius: 10px;
+    padding: 0.75rem 0.9rem;
+    font-size: 1rem;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.form-row input:focus,
+.form-row textarea:focus {
+    outline: none;
+    border-color: #396743;
+    box-shadow: 0 0 0 3px rgba(57, 103, 67, 0.15);
+}
+
+.contact-button {
+    background: #396743;
+    color: #fff;
+    font-weight: 700;
+    padding: 0.85rem 1.4rem;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.1s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.contact-button:hover {
+    background: #2f5338;
+    box-shadow: 0 10px 30px rgba(57, 103, 67, 0.25);
+}
+
+.contact-button:active {
+    transform: translateY(1px);
+}
+
+@media (max-width: 640px) {
+    .contact-hero {
+        padding: 1.5rem 1.25rem;
+    }
+}
+
+/* Centrer le conteneur principal */
+div.min-w-0.min-h-0.max-w-prose {
+    margin-left: auto;
+    margin-right: auto;
+}
