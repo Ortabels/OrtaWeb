@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/Projet_Jardin/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Projet_Jardin/projets/mareecologique/</loc>
+    <loc>http://localhost:1313/projets/mareecologique/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Projet_Jardin/projets/</loc>
+    <loc>http://localhost:1313/projets/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Projet_Jardin/projets/arrossage_arbre_durable/arrosagedurablearbre/</loc>
+    <loc>http://localhost:1313/projets/arrossage_arbre_durable/arrosagedurablearbre/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/Projet_Jardin/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

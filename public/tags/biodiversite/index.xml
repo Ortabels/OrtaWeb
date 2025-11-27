@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biodiversite on Òrtabels</title>
-    <link>http://localhost:1313/Projet_Jardin/tags/biodiversite/</link>
+    <link>http://localhost:1313/tags/biodiversite/</link>
     <description>Recent content in Biodiversite on Òrtabels</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Projet_Jardin/tags/biodiversite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/biodiversite/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Création d’une mare écologique</title>
-      <link>http://localhost:1313/Projet_Jardin/projets/mareecologique/</link>
+      <link>http://localhost:1313/projets/mareecologique/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Projet_Jardin/projets/mareecologique/</guid>
+      <guid>http://localhost:1313/projets/mareecologique/</guid>
       <description></description>
       
     </item>
