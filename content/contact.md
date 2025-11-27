@@ -3,7 +3,6 @@ title: "Contact"
 description: "Écrivez-nous pour parler d'Ortabels, d'un projet ou d'une visite."
 showDate: false
 showDateUpdated: false
-showDateUpdated: false
 showEdit: false
 ---
 
