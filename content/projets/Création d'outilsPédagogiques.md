@@ -1,13 +1,13 @@
 ---
 title: "Création d’outils pédagogiques Sol vivant & Agroécologie"
-date: 2025-11-26
-description: "L’association organise un chantier bénévole pour fabriquer une série d’outils pédagogiques manipulables (puzzles, tests, maquettes) permettant d’expliquer aux enfants le fonctionnement du sol vivant, la faune du sol, et les chaînes alimentaires souterraines.
+date: 2025-12-06
+description: "L’association organise un chantier bénévole pour fabriquer une série d’outils pédagogiques permettant d’expliquer aux enfants le fonctionnement du sol vivant, la faune du sol, et les chaînes alimentaires souterraines.
 Ces outils seront ensuite utilisés lors d’interventions éducatives auprès des écoles, centres de loisirs et structures de jeunesse du territoire."
 tags: ["Pédagogie", "tag"]
 authors: "Jérémy"
 ---
 
-Chantier participatif : fabrication de puzzles pédagogiques pour comprendre le sol vivant
+L’association organise un chantier bénévole pour fabriquer une série d’outils pédagogiques manipulables permettant d’expliquer aux enfants le fonctionnement du sol vivant, la faune du sol, et les chaînes alimentaires souterraines.
 
 ---
 
