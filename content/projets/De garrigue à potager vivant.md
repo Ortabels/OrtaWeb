@@ -7,8 +7,6 @@ authors: "Jérémy"
 
 ---
 
-# Potager perpétuel & pédagogie : transformer la garrigue en espace vivant
-
 ## Pourquoi ce projet
 Nous proposons de reconvertir une friche de garrigue en un potager perpétuel pédagogique, pensé non comme une ferme productiviste, mais comme un lieu d’apprentissage, d’expérimentation et de nature vivante. L’idée est de montrer concrètement qu’avec des principes simples — arbres fruitiers, plantes vivaces, haies, sol respecté, gestion douce de l’eau — on peut créer un espace fertile, durable, accueillant la biodiversité, accessible à tous.
 Ce potager perpétuel servira d’outil pédagogique : un terrain d’observation, d’expérimentation, de partage de savoir-faire — pour que chacun puisse apprendre à concevoir, entretenir et soutenir un espace vert durable, sans avoir besoin d’équipements lourds ni d’intrants chimiques.
