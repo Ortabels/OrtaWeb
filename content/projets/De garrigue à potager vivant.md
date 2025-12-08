@@ -1,5 +1,5 @@
 ---
-title: "Potager perpétuel & pédagogie : transformer la garrigue en espace vivant"
+title: "Potager perpétuel"
 date: 2025-10-01
 description: "Transformer une friche de garrigue en potager perpétuel"
 tags: ["Pédagogie", "tag"]
