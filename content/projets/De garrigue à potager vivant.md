@@ -4,7 +4,7 @@ date: en cours depuis 10/2025
 description: "Transformer unenfrixhe de garrigue en potager perpétuel"
 tags: ["Pédagogie", "tag"]
 authors: "Jérémy"
-
+---
 
 # Potager perpétuel & pédagogie : transformer la garrigue en espace vivant
 
