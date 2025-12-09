@@ -1,6 +1,6 @@
 ---
 title: "Rénovation de la serre semi-walipini"
-date: 2026
+date: 2026-01-01
 description: "L’association lance un chantier bénévole pour reprendre entièrement la conception de notre serre semi-enterrée. "
 tags: ["Construction", "tag"]
 authors: "Jérémy"
