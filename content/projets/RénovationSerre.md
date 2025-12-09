@@ -1,8 +1,14 @@
+---
+title: "Rénovation de la serre semi-walipini"
+date: 2026
+description: "L’association lance un chantier bénévole pour reprendre entièrement la conception de notre serre semi-enterrée. "
+tags: ["Construction", "tag"]
+authors: "Jérémy"
 
-Rénovation de la serre semi-walipini : refaire correctement, ensemble.
-L’association lance un chantier bénévole pour reprendre entièrement la conception de notre serre semi-enterrée. La structure actuelle, fabriquée rapidement, présente de nombreux défauts : infiltrations d’air, mauvaise isolation, jonctions approximatives entre plexiglas, planches et polycarbonate.
+---
+La structure actuelle, fabriquée rapidement, présente de nombreux défauts : infiltrations d’air, mauvaise isolation, jonctions approximatives entre plexiglas, planches et polycarbonate.
 Résultat, une serre peu efficace, difficile à chauffer naturellement et inutilisable comme support pédagogique.
-Ce projet vise à corriger ces erreurs, repartir sur une base saine et construire une serre durable, performante et exemplaire pour nos ateliers agroécologiques.
+Ce projet vise à corriger ces erreurs, repartir sur une base saine et construire une serre durable, performante et exemplaire pour nos ateliers.
 
 
 ## 🎓 Objectifs pédagogiques
@@ -15,11 +21,11 @@ Disposer enfin d’un outil pédagogique opérationnel, utilisable toute l’ann
 ---
 
 ## 🔍 Diagnostic : ce qui ne fonctionne pas aujourd’hui
-Jours importants entre les plaques : pertes thermiques majeures.
-Étanchéité nulle : vents parasites, condensation, refroidissement nocturne.
-Matériaux hétérogènes et posés sans profils adaptés.
-Inclinaison de façade non optimisée → mauvaise captation hivernale.
-Aucune gestion active des flux d’air : pas d’ouverture contrôlée.
+- Jours importants entre les plaques : pertes thermiques majeures.
+- Étanchéité nulle : vents parasites, condensation, refroidissement nocturne.
+- Matériaux hétérogènes et posés sans profils adaptés.
+- Inclinaison de façade non optimisée → mauvaise captation hivernale.
+- Aucune gestion active des flux d’air : pas d’ouverture contrôlée.
 Absence d’inertie thermique : la serre ne stocke ni ne restitue la chaleur.
 
 ---
@@ -27,32 +33,31 @@ Absence d’inertie thermique : la serre ne stocke ni ne restitue la chaleur.
 ## 🛠️ Travaux prévus
 
 ### 🧱 1. Reprise complète de la structure
-Vérification / correction des fondations.
-Correction des angles et remise à niveau.
-Renfort bois ou métal.
+- Correction des angles et remise à niveau.
+- Renfort bois ou métal.
 
 
 ### 🪟 2. Refonte de la façade transparente
-Pose de polycarbonate alvéolaire 16 mm (norme serre).
-Profils de jonction anti-condensation.
-Joints, bandes d’étanchéité, visserie inox.
+- Pose de polycarbonate alvéolaire 16 mm (norme serre).
+- Profils de jonction anti-condensation.
+- Joints, bandes d’étanchéité, visserie inox.
 
 
 ### 🌡️ 3. Optimisation thermique
-Ajout d’inertie : bidons d’eau, murets de stockage.
-Isolation périphérique.
-Protection nocturne.
+- Ajout d’inertie : bidons d’eau, murets de stockage.
+- Isolation périphérique.
+- Protection nocturne.
 
 
 ### 🌬️ 4. Ventilation maîtrisée
-Création d’aérations hautes/basses réglables.
-Suppression des ouvertures parasites.
+- Création d’aérations hautes/basses réglables.
+- Suppression des ouvertures parasites.
 
 
 ### 🌱 5. Refonte intérieure
-Zones de culture stables.
-Table de semis / pépinière.
-Circulation fluide.
+- Zones de culture stables.
+- Table de semis / pépinière.
+- Cuve à eaux.
 
 ---
 
@@ -87,7 +92,7 @@ Petits consommables & outils d’atelier : 20–40 €
 - Valorisation temps bénévole	Offert (≈35–50 h)
 - Budget global demandé	1 200 à 1 800 €
 
-> Ce budget peut être affiné selon dimensions exactes, réemploi de matériaux existants et quantité de polycarbonate à remplacer.
+> Ce budget peut être affiné avec le réemploi de matériaux existants et quantité de materiel à remplacer.
 
 ---
 
@@ -119,8 +124,6 @@ Un support pédagogique pour comprendre thermique passive, isolation, gestion de
 Une montée en compétence collective sur la construction écologique.
 Un équipement structurant et durable pour l’association.
 Un projet cohérent avec les enjeux énergie / climat / autonomie en semis.
-
-
 
 ---
 
