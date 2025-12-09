@@ -1,4 +1,5 @@
 ---
+
 title: "Rénovation de la serre semi-walipini"
 date: 2026-01-01
 description: "L’association lance un chantier bénévole pour reprendre entièrement la conception de notre serre semi-enterrée. "
@@ -6,6 +7,7 @@ tags: ["Construction", "tag"]
 authors: "Jérémy"
 
 ---
+
 La structure actuelle, fabriquée rapidement, présente de nombreux défauts : infiltrations d’air, mauvaise isolation, jonctions approximatives entre plexiglas, planches et polycarbonate.
 Résultat, une serre peu efficace, difficile à chauffer naturellement et inutilisable comme support pédagogique.
 Ce projet vise à corriger ces erreurs, repartir sur une base saine et construire une serre durable, performante et exemplaire pour nos ateliers.
