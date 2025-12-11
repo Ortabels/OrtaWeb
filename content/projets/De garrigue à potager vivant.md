@@ -1,299 +1,419 @@
 ---
-title: "Potager perpétuel"
-date: 2025-10-01
-description: "Transformer une friche de garrigue en potager perpétuel"
-tags: ["Pédagogie", "tag"]
-authors: "Jérémy"
+title: "Création d’outils pédagogiques Sol vivant & Agroécologie"
+date: 2025-12-06
+description: >
+  Chantier bénévole pour fabriquer une série d’outils pédagogiques manipulables afin d’expliquer aux enfants le fonctionnement du sol vivant, la faune du sol et les chaînes alimentaires souterraines, utilisés ensuite lors d’interventions éducatives auprès des écoles, centres de loisirs et structures de jeunesse du territoire.
+tags:
+  - "Pédagogie"
+  - "Sol vivant"
+  - "Agroécologie"
+authors:
+  - "Jérémy"
 ---
+
+<div class="hero-shell" style="min-height:100vh; display:flex; align-items:center; padding:6rem 0 4rem 0;" data-scroll="parallax" data-cursor="morph">
+
+<section style="display:grid; grid-template-columns:minmax(0,2fr) minmax(0,1.2fr); gap:3rem; align-items:center; width:100%; max-width:1080px; margin:0 auto;">
+
+<div data-depth="2">
+
+<div class="typewriter" data-scroll-sync="true">
+<h1 style="font-size:clamp(2.6rem, 4vw, 3.6rem); line-height:1.05; letter-spacing:-0.03em; margin-bottom:1.5rem;">
+Création d’outils pédagogiques<br><span class="split">Sol vivant &amp; Agroécologie</span>
+</h1>
+</div>
 
 {{< lead >}}
-Transformer une friche de garrigue en un <strong>potager perpétuel vivant</strong>, pédagogique et collectif : un lieu où le sol, les arbres et les humains apprennent à cohabiter sur le long terme.
+Un chantier bénévole pour sculpter, à plusieurs mains, une boîte à outils pédagogique dédiée au sol vivant : puzzles, bocaux, vermicomposteur vitré… Autant d’objets à manipuler pour que les enfants voient enfin ce qui se passe sous leurs pieds.
 {{< /lead >}}
 
-{{< typeit
-  tag=h2
-  lifeLike=true
-  speed=45
-  startDelay=400
-  breakLines=false
->}}
-De la friche à la forêt-jardin pédagogique.
-{{< /typeit >}}
+<div style="margin-top:2rem; display:flex; flex-wrap:wrap; gap:0.75rem;" data-hover="expand">
+  {{< badge >}}Chantier bénévole{{< /badge >}}
+  {{< badge >}}Sol vivant{{< /badge >}}
+  {{< badge >}}Agroécologie{{< /badge >}}
+</div>
 
-{{< badge >}}Pédagogie vivante{{< /badge >}}  
-{{< badge >}}Agroécologie locale{{< /badge >}}  
-{{< badge >}}Biodiversité en mouvement{{< /badge >}}
+<div style="margin-top:2.5rem;">
+  {{< button href="#chantier" >}}Participer au chantier{{< /button >}}
+</div>
+
+</div>
+
+<div data-depth="3" data-layer="depth-3" style="position:relative;">
+
+<section style="
+  border-radius:1.5rem;
+  padding:1.75rem;
+  background:linear-gradient(140deg, rgba(22,28,40,0.96), rgba(70,110,130,0.96));
+  box-shadow:0 24px 60px rgba(0,0,0,0.35);
+  color:#f4f7fb;">
+  <p style="font-size:0.9rem; text-transform:uppercase; letter-spacing:0.18em; margin-bottom:0.75rem; opacity:0.9;">
+    Chantier pédagogique – forêt, potager &amp; sol vivant
+  </p>
+  <p style="font-size:0.98rem; line-height:1.6;">
+    <strong>Durée globale :</strong> 1 semaine de préparation · 1 journée de fabrication collective · 1 à 3 jours de finitions.<br>
+    <strong>Public final :</strong> classes du CP au CM2, centres de loisirs, périscolaire, associations jeunesse, événements familles.
+  </p>
+</section>
+
+</div>
+
+</section>
+
+</div>
 
 ---
 
-## Pourquoi ce projet ?
+<section id="chantier" style="padding:3rem 0 1rem 0;" data-scroll="fade">
+
+### 🎓 Objectifs pédagogiques des futurs ateliers
+
+<section style="display:grid; grid-template-columns:minmax(0,1.4fr) minmax(0,1fr); gap:2.5rem; align-items:flex-start;">
+
+<div>
+
+* Comprendre les **horizons du sol** et leur rôle respectif.
+* Identifier les **organismes du sol** (décomposeurs, prédateurs, ingénieurs du sol).
+* Visualiser les **chaînes alimentaires souterraines** via un puzzle dédié.
+* Observer la **décomposition en direct** grâce à un vermicomposteur vitré.
+* Relier ces observations aux principes de **l’agroécologie** : paillage, compostage, cycles naturels.
+
+</div>
+
+<div data-depth="2">
+{{< alert >}}
+Ces outils sont pensés pour être manipulés en cercle, sur une bâche ou au pied d’un arbre, afin de transformer chaque séance en petit laboratoire de terrain.
+{{< /alert >}}
+</div>
+
+</section>
+
+</section>
+
+---
+
+<section style="padding:2rem 0 0 0;" data-scroll="fade">
+
+### 🔧 Les outils pédagogiques à fabriquer
+
+<div style="display:grid; grid-template-columns:minmax(0,1.4fr) minmax(0,1fr); gap:2.75rem; align-items:start; margin-top:1.5rem;">
+
+<div>
+
+#### 🧩 1. Puzzle « Horizons du sol »
+
+Inspiré du module « Horizons sous nos pieds ».
+
+* 6 à 7 pièces distinctes :
+
+  * paillage / litière  
+  * humus  
+  * horizon organo-minéral  
+  * sous-sol  
+  * roche mère  
+  * nappes / eau souterraine  
+
+* Format **A4 maximum**, manipulable par un petit groupe d’enfants.  
+* Assemblage pensé pour être posé au sol ou sur une grande table.
+
+{{< details title="Astuce d’animation : faire parler les horizons" >}}
+Proposer aux enfants de « donner une voix » à chaque horizon : que dirait la litière ? que ressent la roche mère ? Cet exercice permet de mémoriser les rôles de chaque couche tout en nourrissant l’imaginaire.
+{{< /details >}}
+
+#### 🐛 2. Puzzle « Qui vit dans le sol ? »
+
+Inspiré du module « Qui vit là-dessous ? ».
+
+* Silhouettes d’animaux : vers de terre, cloportes, collemboles, carabes, acariens, etc.
+* **Cartes explicatives associées** :
+
+  * rôle écologique (décomposeur, prédateur, ingénieur du sol…)  
+  * régime alimentaire  
+  * milieu préféré (litière, racines, galeries…)  
+
+* Association possible « silhouette → carte rôle » sous forme de jeu coopératif.
+
+#### 🧩 3. Puzzle « Chaîne alimentaire du sol »
+
+Un puzzle pour raconter les flux d’énergie souterraine.
+
+Pièces représentant :
+
+* débris végétaux  
+* champignons et bactéries  
+* décomposeurs  
+* prédateurs du sol  
+* plante / système racinaire  
+
+Objectif : reconstituer plusieurs **chaînes alimentaires** possibles en partant des débris végétaux jusqu’à la plante.
+
+</div>
+
+<div data-layer="depth-3" style="position:relative;">
+
+<section style="
+  border-radius:1.5rem;
+  padding:1.75rem;
+  background:linear-gradient(155deg, rgba(26,34,48,0.97), rgba(72,104,120,0.97));
+  box-shadow:0 20px 40px rgba(0,0,0,0.35);
+  color:#f4f7fb;">
+
+#### 🧪 4. Série de « Tests du bocal »
+
+Bocaux en verre remplis de sols différents :
+
+* sol sableux  
+* sol argileux  
+* sol limoneux  
+* sol du potager (**à deviner**)  
+
+Utilisation en atelier :
+
+1. Remplir les bocaux d’eau, agiter, laisser décanter.  
+2. Observer les couches qui se séparent (sables, limons, argiles, matière organique).  
+3. Discuter **texture & structure** du sol à partir de ce simple test.  
+
+#### 🪱 5. Vermicomposteur vitré
+
+Petit modèle (50–60 cm de haut), visible par les enfants à hauteur d’yeux.
+
+* Structure : plexiglas + bois ou carton rigide consolidé.  
+* Contenu : vers Eisenia, compost, litière, couches de matière végétale.  
+* Usage pédagogique :
+
+  * suivre la **décomposition de la matière** dans le temps ;  
+  * observer les galeries, les zones plus riches en vers ;  
+  * parler des cycles de nutriments.  
+
+</section>
+
+</div>
+
+</div>
+
+</section>
+
+---
+
+<section style="padding:3rem 0 1rem 0;" data-scroll="fade">
+
+### 👥 Qui participe au chantier de fabrication ?
+
+<section style="display:grid; grid-template-columns:minmax(0,1.2fr) minmax(0,1fr); gap:2.5rem;">
+
+<div>
+
+* Bénévoles de l’association  
+* Adhérents et adhérentes  
+* Parents, habitants et habitantes intéressé·es  
+* Étudiants, volontaires, membres du CA  
+
+> Un chantier où l’on fabrique autant des objets pédagogiques que du lien entre générations, entre celles et ceux qui ont les mains dans la terre et celles et ceux qui y mettent pour la première fois les doigts.
+
+</div>
+
+<div data-depth="2">
+  {{< alert >}}
+  Aucun prérequis technique n’est nécessaire : les tâches sont réparties entre découpe, peinture, collage, rédaction de fiches pédagogiques, préparation des bocaux, etc.
+  {{< /alert >}}
+</div>
+
+</section>
+
+</section>
+
+---
+
+<section style="padding:2.5rem 0 1.5rem 0;" data-scroll="fade">
+
+### 🧒 Public bénéficiaire final
+
+* Classes **CP → CM2**  
+* Centres de loisirs  
+* Périscolaire / ALSH  
+* Associations jeunesse  
+* Événements familles / nature, fêtes de l’école, journées du sol, etc.
+
+</section>
+
+---
+
+<section style="padding:3rem 0 1.5rem 0;" data-scroll="fade">
+
+### 📅 Organisation du chantier
+
+<section style="display:grid; grid-template-columns:minmax(0,1.2fr) minmax(0,1fr); gap:2.5rem; align-items:flex-start;">
+
+<div>
+
+#### Phase 1 – Préparation (≈ 1 semaine)
+
+* Achat et **récupération du matériel**  
+* Impression des visuels (puzzles, cartes, fiches)  
+* Découpe des formats bruts (bois, carton, plexiglas)  
+
+#### Phase 2 – Fabrication collective (1 journée)
+
+Ateliers simultanés :
+
+* Puzzle **horizons du sol**  
+* Puzzle **faune du sol**  
+* Puzzle **chaînes alimentaires**  
+* Préparation des bocaux pour les tests  
+* Assemblage du **vermicomposteur vitré**  
+
+#### Phase 3 – Finitions (1 à 3 jours)
+
+* Application d’un **vernis écologique**  
+* Plastification des cartes pédagogiques  
+* Assemblage final de tous les modules  
+* Test d’usage et de **solidité** avec un petit groupe pilote  
+
+</div>
+
+<div data-layer="depth-3">
+
+<section style="
+  border-radius:1.25rem;
+  padding:1.5rem;
+  background:rgba(20,24,32,0.97);
+  border:1px solid rgba(255,255,255,0.06);
+  color:#f5f7fa;">
+  <h4 style="margin-top:0;">Micro-organisation de la journée chantier</h4>
+  <ul>
+    <li>Accueil café &amp; rappel des objectifs pédagogiques.</li>
+    <li>Répartition en petits groupes (bois, peinture, écriture, montage).</li>
+    <li>Temps photo/vidéo pour documenter le chantier et communiquer.</li>
+    <li>Temps de clôture : tour de cercle, retours, ajustements.</li>
+  </ul>
+</section>
+
+</div>
+
+</section>
+
+</section>
+
+---
+
+<section style="padding:3rem 0 1.5rem 0;" data-scroll="fade">
+
+### 🧰 Matériel nécessaire
+
+<section style="display:grid; grid-template-columns:minmax(0,1.2fr) minmax(0,1fr); gap:2.5rem;">
+
+<div>
+
+**Pour les puzzles**
+
+* Planches de récupération (bois ou carton épais)  
+* Outils de coupe et de travail du bois ou carton  
+* Feutres, peintures **non toxiques**  
+* Vernis écologique de protection  
+
+**Pour les tests du bocal**
+
+* Bocaux en verre (x4 minimum)  
+* Sols variés + un échantillon du potager  
+* Étiquettes résistantes (intérieur / extérieur)  
+
+**Pour le vermicomposteur**
+
+* Plexiglas 2–3 mm (petit format)  
+* Bois fin ou carton renforcé  
+* Vers Eisenia  
+* Compost / litière  
+* Fiches pédagogiques imprimées  
+* Petits outils : loupes, pinceaux, petites cuillères…  
+
+</div>
+
+<div data-depth="2">
+
+{{< details title="Précautions & sécurité autour des outils" >}}
+
+* Prévoir un espace de coupe séparé de la zone enfants.  
+* Toujours désigner un·e référent·e « outillage ».  
+* Proposer aux volontaires des lunettes de protection et gants simples lors des découpes.  
+* Anticiper une zone de séchage pour peintures et vernis, à l’abri des manipulations.  
+
+{{< /details >}}
+
+</div>
+
+</section>
+
+</section>
+
+---
+
+<section style="padding:3rem 0 1.5rem 0;" data-scroll="fade">
+
+### 💶 Budget prévisionnel
+
+<section style="overflow-x:auto; margin-bottom:1.5rem;">
+
+| Poste                           | Montant estimé (€) |
+| ------------------------------- | ------------------ |
+| Matériel puzzles                | 80 – 120           |
+| Matériel vermicomposteur        | 50 – 80            |
+| Bocaux & fournitures            | 20 – 40            |
+| Impressions / plastification    | 30 – 50            |
+| Consommables (colles, feutres…) | 20 – 40            |
+| **Total matériel**              | **200 – 330**      |
+
+</section>
+
+* **Valorisation du temps bénévole** : offert.  
+* **Budget global demandé** : **200 – 350 €**, selon ce qui peut être récupéré ou donné.  
 
 {{< alert >}}
-Nous proposons de reconvertir une **friche de garrigue** en **potager perpétuel pédagogique**, pensé non comme une ferme productiviste, mais comme un lieu :
-
-- d’**apprentissage sensible du vivant**,  
-- d’**expérimentation agroécologique**,  
-- de **nature vivante partagée** au cœur du territoire.
-
-Avec quelques principes simples :
-
-- arbres fruitiers,  
-- plantes vivaces et pérennes,  
-- haies variées et refuges à biodiversité,  
-- sol respecté et toujours couvert,  
-- gestion douce, sobre et locale de l’eau,
-
-nous pouvons créer un espace **fertile, durable, accueillant pour la faune et la flore**, et accessible à tous.
-
-Ce potager perpétuel deviendra un **outil pédagogique concret** :
-
-- un terrain d’observation,  
-- un espace d’essais et de tâtonnements,  
-- un lieu de partage de savoir-faire,
-
-pour que chacun puisse apprendre à concevoir et entretenir un espace vert durable, **sans équipements lourds ni intrants chimiques**.
+Un projet **très bas coût** dont le cœur de valeur repose sur l’investissement bénévole, la récupération de matériaux et la réutilisation des outils sur plusieurs années.
 {{< /alert >}}
 
-
-Réhabiliter une friche, c’est réécrire une histoire : celle d’un sol que l’on écoute, d’une biodiversité que l’on observe, et d’un territoire que l’on cultive ensemble.
-
-
-{{< figure src="/TODO.jpg" caption="TODO : ajouter ici un schéma ou croquis d’intention du potager perpétuel (zones, arbres, haies, cheminements)." >}}
-
-{{< gallery >}}
-  <img src="/TODO-zonage-1.jpg" class="grid-w50" />
-  <img src="/TODO-zonage-2.jpg" class="grid-w50" />
-{{< /gallery >}}
+</section>
 
 ---
 
-## 📚 Objectifs pédagogiques et éducatifs
+<section style="padding:3rem 0 2rem 0;" data-scroll="fade">
 
-### Comprendre le vivant
+### 🌍 Retombées du projet
 
-{{< details "Comprendre le vivant" >}}
-Dans ce potager perpétuel, le sol n’est pas un simple support de culture : c’est **le cœur du système**.
+* Outils **réutilisables** pendant plusieurs années.  
+* Mise en place d’animations de **qualité professionnelle**, adaptées aux cycles scolaires.  
+* Forte visibilité de l’association auprès des **écoles et structures jeunesse** du territoire.  
+* Sensibilisation durable aux thèmes : sol vivant, biodiversité, décomposition, agroécologie.  
+* Création d’un **socle éducatif** aligné avec les programmes scolaires et les enjeux écologiques actuels.  
 
-- Découvrir le fonctionnement du sol (structure, matière organique, cycles).  
-- Observer les interactions entre plantes, sol, champignons, microfaune et insectes.  
-- Comprendre le rôle des arbres, arbustes et plantes pérennes dans la santé d’un écosystème.
+<section style="margin-top:1.5rem; display:grid; grid-template-columns:minmax(0,1.4fr) minmax(0,1fr); gap:2rem;">
 
-L’idée : faire ressentir que chaque racine, chaque insecte, chaque couche de terre participe à l’équilibre du lieu, comme les voix d’un même chœur.
-{{< /details >}}
+<div>
 
-### Sensibiliser aux pratiques agroécologiques
+### ✔️ Points forts pour la commission
 
-{{< details "Sensibiliser aux pratiques agroécologiques" >}}
-Ici, on apprend **en faisant** :
+* Projet à **bas coût** avec **impact massif**.  
+* Outils ludiques + approche scientifique dès le **CP**.  
+* Forte **mobilisation citoyenne** et bénévolat.  
+* Projet **duplicable** sur plusieurs années et dans d’autres structures.  
+* Ancrage dans les enjeux de **transition écologique** et de **préservation des sols**.  
 
-- Mettre en place compost, paillage, entretien d’un sol vivant.  
-- Favoriser les cultures pérennes, les haies, les zones refuges et la gestion douce de l’eau.  
-- Montrer des gestes simples, reproductibles et respectueux de l’environnement.
+</div>
 
-Cette approche s’inspire du **jardinage durable**, de la **permaculture** et de l’**agroforesterie**, en les rendant accessibles au plus grand nombre, **sans jargon ni technicisme inutile**.
-{{< /details >}}
+<div data-depth="2">
 
-### Favoriser l’engagement collectif et local
+<section style="
+  border-radius:1.25rem;
+  padding:1.5rem;
+  background:linear-gradient(145deg, rgba(20,24,32,0.97), rgba(56,96,80,0.97));
+  box-shadow:0 18px 40px rgba(0,0,0,0.4);
+  color:#f4f7fb;">
+  <p style="font-size:0.98rem; line-height:1.6; margin:0;">
+    Chaque puzzle, chaque bocal, chaque poignée de compost devient un support concret pour faire sentir aux enfants que le sol est un milieu vivant, fragile, mais puissant s’il est respecté.
+  </p>
+</section>
 
-{{< details "Favoriser l’engagement collectif et local" >}}
-Le potager perpétuel est pensé comme un **projet de territoire** :
+</div>
 
-- Mobiliser adhérents, bénévoles, habitants, familles.  
-- Impliquer chacun dans les travaux, les plantations, les ateliers, l’observation et l’entretien.  
-- Faire de chaque participant un **acteur de la transformation** d’un espace en friche.
+</section>
 
-On ne vient pas seulement visiter un jardin :  
-on participe à le faire naître, évoluer et s’enraciner dans le paysage local.
-{{< /details >}}
-
-### Créer un “laboratoire vivant” sur le long terme
-
-{{< details "Créer un “laboratoire vivant” sur le long terme" >}}
-Le lieu est conçu comme un **laboratoire à ciel ouvert** :
-
-- Observer le sol, les plantes et la biodiversité sur plusieurs années.  
-- Mesurer concrètement les effets des pratiques agroécologiques.  
-- Offrir un lieu d’expérimentation, de suivi et de retours d’expérience partagés.
-
-Au fil des saisons, le potager devient une mémoire vivante :  
-celle des essais, des réussites, des ajustements et des apprentissages collectifs.
-{{< /details >}}
-
----
-
-## 🛠️ Principes et organisation du projet
-
-### Un design agroécologique
-
-{{< details "Un design agroécologique" >}}
-Le potager perpétuel repose sur un **design pensé comme un écosystème** :
-
-- plantations d’arbres fruitiers et d’arbustes adaptés à la garrigue,  
-- introduction de plantes vivaces nourricières ou utiles,  
-- création de haies champêtres pour les oiseaux, insectes et petits mammifères,  
-- zones de litière, de pierres et de bois mort pour la biodiversité discrète,  
-- zones potagères en sous-étage, à l’abri des vents et du soleil brûlant.
-
-Cette approche permet de recréer un système **équilibré, résilient, favorable à la vie**, déclinaison de la permaculture adaptée au contexte local.
-{{< /details >}}
-
-{{< chart >}}
-type: 'doughnut',
-data: {
-  labels: ['Arbres & haies', 'Plantes vivaces', 'Zones potagères', 'Refuges sauvages'],
-  datasets: [{
-    label: 'Exemple de répartition des intentions de plantation',
-    data: [35, 25, 25, 15],
-  }]
-}
-{{< /chart >}}
-
-### Une gestion écologique des sols et de l’eau
-
-{{< details "Une gestion écologique des sols et de l’eau" >}}
-L’eau et le sol sont considérés comme des **ressources précieuses** :
-
-- Favoriser un **sol vivant** : compostage, paillage, absence d’intrants chimiques.  
-- Imaginer un système d’irrigation sobre et adapté (eau de pluie, gravitaire si la topographie le permet).  
-- Réduire les besoins en arrosage tout en préservant la fertilité et la vie du sol.
-
-L’objectif : **faire mieux avec moins**, en s’appuyant sur l’intelligence du paysage plutôt que sur la mécanique et la chimie.
-{{< /details >}}
-
-### Une participation collective au cœur du projet
-
-{{< details "Une participation collective au cœur du projet" >}}
-Le projet se construit **avec** les personnes, pas seulement pour elles :
-
-- Chantiers collectifs : plantations, aménagements, entretien, observation.  
-- Ateliers pédagogiques et temps de partage d’expérience.  
-- Construction du projet avec les bénévoles et les adhérents, en valorisant les savoir-faire existants.
-
-Le jardin devient un prétexte à se rencontrer, échanger, co-créer.  
-La parcelle se transforme, mais le lien social aussi.
-{{< /details >}}
-
-### Un projet évolutif et pérenne
-
-{{< details "Un projet évolutif et pérenne" >}}
-Le jardin est pensé sur le **moyen et long terme** :
-
-- Il grandit, évolue et s’ajuste au fil des saisons.  
-- Il s’enrichit progressivement, année après année, en fonction des observations de terrain.  
-- Il intègre les retours des participants pour adapter les aménagements.
-
-Rien n’est figé : le potager perpétuel est une **œuvre vivante**, co-écrite dans le temps et dans le paysage.
-{{< /details >}}
-
----
-
-## 🌱 Valeur ajoutée et portée du projet
-
-### Un outil pédagogique concret
-
-{{< details "Un outil pédagogique concret" >}}
-Il ne s’agit pas seulement d’affiches ou de discours, mais d’un **espace réel, vivant et tangible** :
-
-- pour apprendre à jardiner autrement,  
-- pour respecter la nature et ses cycles,  
-- pour s’initier à l’agroécologie, les mains dans la terre.
-
-Chaque visite, chaque atelier devient une expérience sensorielle :  
-observer, toucher, sentir, expérimenter, plutôt que simplement écouter.
-{{< /details >}}
-
-### Un projet accessible
-
-{{< details "Un projet accessible" >}}
-Ce potager perpétuel reste **réaliste et reproductible** :
-
-- Peu d’équipements techniques nécessaires.  
-- Priorité à la **simplicité**, à la **durabilité** et à l’**adaptation locale**.  
-- Un modèle de potager réalisable même avec des moyens modestes.
-
-Le message est clair : on peut transformer une friche, même sans gros budget,  
-dès lors qu’on dispose d’une vision, de temps et de forces collectives.
-{{< /details >}}
-
-### Un lieu de lien social et de partage
-
-{{< details "Un lieu de lien social et de partage" >}}
-Le jardin devient un **point de rencontre** :
-
-- Participation des bénévoles, adhérents, habitants.  
-- Création de **lien, d’engagement et de coopération**.  
-- Support idéal pour des animations associatives et des temps conviviaux.
-
-On y vient pour le jardin,  
-et on y revient pour les rencontres qu’il rend possibles.
-{{< /details >}}
-
-### Un modèle inspirant et reproductible
-
-{{< details "Un modèle inspirant et reproductible" >}}
-Ce potager perpétuel peut devenir :
-
-- un **démonstrateur** d’agroécologie locale,  
-- une **source d’inspiration** pour d’autres projets,  
-- un point de départ pour développer des pratiques plus durables sur d’autres territoires.
-
-En réhabilitant une friche, le projet montre qu’il est possible de **recréer de la fertilité et de la biodiversité** avec peu de moyens, mais une vision à long terme.
-{{< /details >}}
-
----
-
-## ✅ Pourquoi soutenir ce projet
-
-### Un fort impact pédagogique
-
-{{< details "Un fort impact pédagogique" >}}
-Le potager perpétuel offre un **support concret** pour sensibiliser :
-
-- adultes,  
-- jeunes,  
-- familles,
-
-aux enjeux du sol, de la biodiversité et de l’agroécologie.
-
-Les notions abstraites deviennent visibles, palpables, incarnées dans un lieu.
-{{< /details >}}
-
-### Un coût modéré pour un impact durable
-
-{{< details "Un coût modéré pour un impact durable" >}}
-- Un investissement initial raisonnable : plantations, aménagements, matériel de base.  
-- Un bénéfice qui s’étale sur plusieurs années :  
-  - pour la nature,  
-  - pour les participants,  
-  - pour le lien social local.
-
-Chaque arbre planté, chaque haie créée est un **patrimoine vivant** pour le territoire.
-{{< /details >}}
-
-### Un projet aligné avec des valeurs fortes
-
-{{< details "Un projet aligné avec des valeurs fortes" >}}
-- Éducation à l’environnement.  
-- Durabilité et sobriété.  
-- Partage de connaissances et de pratiques.  
-- Vision respectueuse de la nature, tournée vers l’humain et le bien commun.
-
-Soutenir ce projet, c’est encourager un modèle de développement  
-**plus sobre, plus juste, plus vivant**.
-{{< /details >}}
-
-### Un potentiel de diffusion
-
-{{< details "Un potentiel de diffusion" >}}
-Ce potager perpétuel peut devenir :
-
-- un **démonstrateur** d’agroécologie locale,  
-- une **source d’inspiration** pour d’autres projets,  
-- un point d’appui pour diffuser des pratiques plus durables sur d’autres territoires.
-
-Ce qui se teste ici peut ensuite se raconter, se transmettre, se dupliquer ailleurs.
-{{< /details >}}
-
-{{< button >}}
-✅ Je soutiens la création de ce potager perpétuel pédagogique
-{{< /button >}}
+</section>
