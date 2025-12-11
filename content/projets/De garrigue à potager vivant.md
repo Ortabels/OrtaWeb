@@ -1,5 +1,5 @@
 ---
-title: "Potager perpétuel pédagogique : de la friche à la forêt-jardin"
+title: "Potager perpétuel pédagogique : de la friche au potager résilient"
 description: "Transformer une friche de garrigue en un potager perpétuel vivant, pédagogique et collectif : un paysage apprenant où le sol, les arbres et les humains co-évoluent sur le long terme."
 date: 2025-12-11
 draft: true
