@@ -4,9 +4,15 @@ title: "Création d’outils pédagogiques Sol vivant & Agroécologie"
 date: 2025-12-06
 description: >
 Chantier bénévole pour fabriquer une série d’outils pédagogiques manipulables afin d’expliquer aux enfants le fonctionnement du sol vivant, la faune du sol et les chaînes alimentaires souterraines, utilisés ensuite lors d’interventions éducatives auprès des écoles, centres de loisirs et structures de jeunesse du territoire.
-tags: ["Pédagogie", "Sol vivant", "Agroécologie"]
-authors: ["Jérémy"]
--------------------
+tags:
+
+* "Pédagogie"
+* "Sol vivant"
+* "Agroécologie"
+  authors:
+* "Jérémy"
+
+---
 
 <div class="hero-shell" style="min-height:100vh; display:flex; align-items:center; padding:6rem 0 4rem 0;" data-scroll="parallax" data-cursor="morph">
 
