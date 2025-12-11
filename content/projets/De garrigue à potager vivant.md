@@ -5,8 +5,7 @@ description: "Transformer une friche de garrigue en potager perpétuel, vivant, 
 tags:
   - "Pédagogie"
   - "Potager perpétuel"
-authors:
-  - "Jérémy"
+authors: "Jérémy"
 ---
 
 <section class="hero-potager" style="min-height:100vh; display:flex; flex-wrap:wrap; align-items:center; gap:3rem;" data-scroll="parallax" data-scroll-sync="true" data-cursor="morph">
