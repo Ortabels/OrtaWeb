@@ -3,12 +3,9 @@
 title: "Potager perpétuel"
 date: 2025-10-01
 description: "Transformer une friche de garrigue en potager perpétuel, vivant, pédagogique et collectif."
-tags:
-
-"Pédagogie"
+tags: "Pédagogie"
 "Potager perpétuel"
-
-  authors: "Jérémy"
+authors: "Jérémy"
 
 ---
 
