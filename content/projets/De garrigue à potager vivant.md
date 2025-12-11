@@ -5,10 +5,10 @@ date: 2025-10-01
 description: "Transformer une friche de garrigue en potager perpétuel, vivant, pédagogique et collectif."
 tags:
 
-* "Pédagogie"
-* "Potager perpétuel"
-* "Agroécologie"
-  authors: * "Jérémy"
+ "Pédagogie"
+ "Potager perpétuel"
+ "Agroécologie"
+  authors:  "Jérémy"
 
 ---
 
