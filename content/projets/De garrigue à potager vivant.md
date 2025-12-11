@@ -1,12 +1,15 @@
 ---
+
 title: "Potager perpétuel"
 date: 2025-10-01
 description: "Transformer une friche de garrigue en potager perpétuel, vivant, pédagogique et collectif."
 tags:
-  - "Pédagogie"
-  - "Potager perpétuel"
-authors:
-  - "Jérémy"
+
+* "Pédagogie"
+* "Potager perpétuel"
+  authors:
+* "Jérémy"
+
 ---
 
 <section class="hero-potager" style="min-height:100vh; display:flex; flex-wrap:wrap; align-items:center; gap:3rem; padding:4rem 0 3rem 0;" data-scroll="parallax" data-scroll-sync="true" data-cursor="morph">
@@ -18,7 +21,7 @@ authors:
 {{< badge >}}Biodiversité en mouvement{{< /badge >}}
 
 {{< lead >}}
-Transformer une friche de garrigue en un <strong>potager perpétuel vivant</strong>, pédagogique et collectif : un paysage apprenant où le sol, les arbres et les humains co-évoluent sur le long terme.
+Transformer une friche de garrigue en un <strong>potager perpétuel vivant</strong>, pédagogique et collectif : un paysage apprenant où le sol, les arbres et les humains co-évoluent sur le long terme.
 {{< /lead >}}
 
 {{< typeit
@@ -71,7 +74,7 @@ breakLines=false
 
 <section style="padding:3rem 0 2rem 0;" data-scroll="parallax">
 
-## <span class="split">Pourquoi</span> ce projet ?
+## <span class="split">Pourquoi</span> ce projet ?
 
 <p data-hover="expand">
   Réhabiliter une friche, c’est <strong>réécrire une histoire</strong>&nbsp;: celle d’un sol que l’on écoute, d’une biodiversité que l’on observe, et d’un territoire que l’on cultive ensemble, sans chercher la performance mais la durabilité et la transmission.
@@ -84,7 +87,7 @@ Nous proposons de reconvertir une friche de garrigue en <strong>potager perpétu
 * d’<strong>expérimentation agroécologique</strong>,
 * de <strong>nature vivante partagée</strong> au cœur du territoire.
 
-Avec quelques principes simples :
+Avec quelques principes simples :
 
 * arbres fruitiers,
 * plantes vivaces et pérennes,
@@ -154,13 +157,13 @@ pour que chacun puisse apprendre à concevoir et entretenir un espace vert durab
 </p>
 
 {{< details "Comprendre le vivant — approfondir" >}}
-Dans ce potager perpétuel, le sol n’est pas un simple support de culture : c’est le cœur du système.
+Dans ce potager perpétuel, le sol n’est pas un simple support de culture : c’est le cœur du système.
 
 * Découvrir le fonctionnement du sol (structure, matière organique, cycles).
 * Observer les interactions entre plantes, sol, champignons, microfaune et insectes.
 * Comprendre le rôle des arbres, arbustes et plantes pérennes dans la santé d’un écosystème.
 
-L’idée : faire ressentir que chaque racine, chaque insecte, chaque couche de terre participe à l’équilibre du lieu, comme les voix d’un même chœur.
+L’idée : faire ressentir que chaque racine, chaque insecte, chaque couche de terre participe à l’équilibre du lieu, comme les voix d’un même chœur.
 {{< /details >}}
 
 ### Sensibiliser aux pratiques agroécologiques
@@ -170,7 +173,7 @@ L’idée : faire ressentir que chaque racine, chaque insecte, chaque couche de
 </p>
 
 {{< details "Sensibiliser aux pratiques agroécologiques — approfondir" >}}
-Ici, on apprend en faisant :
+Ici, on apprend en faisant :
 
 * Mettre en place compost, paillage, entretien d’un sol vivant.
 * Favoriser les cultures pérennes, les haies, les zones refuges et la gestion douce de l’eau.
@@ -186,13 +189,13 @@ Cette approche s’inspire du jardinage durable, de la permaculture et de l’ag
 </p>
 
 {{< details "Favoriser l’engagement collectif et local — approfondir" >}}
-Le potager perpétuel est pensé comme un projet de territoire :
+Le potager perpétuel est pensé comme un projet de territoire :
 
 * Mobiliser adhérents, bénévoles, habitants, familles.
 * Impliquer chacun dans les travaux, les plantations, les ateliers, l’observation et l’entretien.
 * Faire de chaque participant un acteur de la transformation d’un espace en friche.
 
-On ne vient pas seulement visiter un jardin :
+On ne vient pas seulement visiter un jardin :
 on participe à le faire naître, évoluer et s’enraciner dans le paysage local.
 {{< /details >}}
 
@@ -203,13 +206,13 @@ on participe à le faire naître, évoluer et s’enraciner dans le paysage loca
 </p>
 
 {{< details "Créer un “laboratoire vivant” — approfondir" >}}
-Le lieu est conçu comme un laboratoire à ciel ouvert :
+Le lieu est conçu comme un laboratoire à ciel ouvert :
 
 * Observer le sol, les plantes et la biodiversité sur plusieurs années.
 * Mesurer concrètement les effets des pratiques agroécologiques.
 * Offrir un lieu d’expérimentation, de suivi et de retours d’expérience partagés.
 
-Au fil des saisons, le potager devient une mémoire vivante :
+Au fil des saisons, le potager devient une mémoire vivante :
 celle des essais, des réussites, des ajustements et des apprentissages collectifs.
 {{< /details >}}
 
@@ -226,7 +229,7 @@ celle des essais, des réussites, des ajustements et des apprentissages collecti
 </p>
 
 {{< details "Un design agroécologique — approfondir" >}}
-Le potager perpétuel repose sur un design pensé comme un écosystème :
+Le potager perpétuel repose sur un design pensé comme un écosystème :
 
 * plantations d’arbres fruitiers et d’arbustes adaptés à la garrigue,
 * introduction de plantes vivaces nourricières ou utiles,
@@ -257,13 +260,13 @@ Cette approche permet de recréer un système équilibré, résilient, favorable
 </p>
 
 {{< details "Une gestion écologique des sols et de l’eau — approfondir" >}}
-L’eau et le sol sont considérés comme des ressources précieuses :
+L’eau et le sol sont considérés comme des ressources précieuses :
 
-* Favoriser un sol vivant : compostage, paillage, absence d’intrants chimiques.
+* Favoriser un sol vivant : compostage, paillage, absence d’intrants chimiques.
 * Imaginer un système d’irrigation sobre et adapté (eau de pluie, gravitaire si la topographie le permet).
 * Réduire les besoins en arrosage tout en préservant la fertilité et la vie du sol.
 
-L’objectif : faire mieux avec moins, en s’appuyant sur l’intelligence du paysage plutôt que sur la mécanique et la chimie.
+L’objectif : faire mieux avec moins, en s’appuyant sur l’intelligence du paysage plutôt que sur la mécanique et la chimie.
 {{< /details >}}
 
 ### Une participation collective au cœur du projet
@@ -273,9 +276,9 @@ L’objectif : faire mieux avec moins, en s’appuyant sur l’intelligence du 
 </p>
 
 {{< details "Une participation collective au cœur du projet — approfondir" >}}
-Le projet se construit avec les personnes, pas seulement pour elles :
+Le projet se construit avec les personnes, pas seulement pour elles :
 
-* Chantiers collectifs : plantations, aménagements, entretien, observation.
+* Chantiers collectifs : plantations, aménagements, entretien, observation.
 * Ateliers pédagogiques et temps de partage d’expérience.
 * Construction du projet avec les bénévoles et les adhérents, en valorisant les savoir-faire existants.
 
@@ -290,13 +293,13 @@ La parcelle se transforme, mais le lien social aussi.
 </p>
 
 {{< details "Un projet évolutif et pérenne — approfondir" >}}
-Le jardin est pensé sur le moyen et long terme :
+Le jardin est pensé sur le moyen et long terme :
 
 * Il grandit, évolue et s’ajuste au fil des saisons.
 * Il s’enrichit progressivement, année après année, en fonction des observations de terrain.
 * Il intègre les retours des participants pour adapter les aménagements.
 
-Rien n’est figé : le potager perpétuel est une œuvre vivante, co-écrite dans le temps et dans le paysage.
+Rien n’est figé : le potager perpétuel est une œuvre vivante, co-écrite dans le temps et dans le paysage.
 {{< /details >}}
 
 </section>
@@ -312,13 +315,13 @@ Rien n’est figé : le potager perpétuel est une œuvre vivante, co-écrite d
 </p>
 
 {{< details "Un outil pédagogique concret — approfondir" >}}
-Il ne s’agit pas seulement d’affiches ou de discours, mais d’un espace réel, vivant et tangible :
+Il ne s’agit pas seulement d’affiches ou de discours, mais d’un espace réel, vivant et tangible :
 
 * pour apprendre à jardiner autrement,
 * pour respecter la nature et ses cycles,
 * pour s’initier à l’agroécologie, les mains dans la terre.
 
-Chaque visite, chaque atelier devient une expérience sensorielle :
+Chaque visite, chaque atelier devient une expérience sensorielle :
 observer, toucher, sentir, expérimenter, plutôt que simplement écouter.
 {{< /details >}}
 
@@ -329,13 +332,13 @@ observer, toucher, sentir, expérimenter, plutôt que simplement écouter.
 </p>
 
 {{< details "Un projet accessible — approfondir" >}}
-Ce potager perpétuel reste réaliste et reproductible :
+Ce potager perpétuel reste réaliste et reproductible :
 
 * Peu d’équipements techniques nécessaires.
 * Priorité à la simplicité, à la durabilité et à l’adaptation locale.
 * Un modèle de potager réalisable même avec des moyens modestes.
 
-Le message est clair : on peut transformer une friche, même sans gros budget,
+Le message est clair : on peut transformer une friche, même sans gros budget,
 dès lors qu’on dispose d’une vision, de temps et de forces collectives.
 {{< /details >}}
 
@@ -346,7 +349,7 @@ dès lors qu’on dispose d’une vision, de temps et de forces collectives.
 </p>
 
 {{< details "Un lieu de lien social et de partage — approfondir" >}}
-Le jardin devient un point de rencontre :
+Le jardin devient un point de rencontre :
 
 * Participation des bénévoles, adhérents, habitants.
 * Création de lien, d’engagement et de coopération.
@@ -363,7 +366,7 @@ et on y revient pour les rencontres qu’il rend possibles.
 </p>
 
 {{< details "Un modèle inspirant et reproductible — approfondir" >}}
-Ce potager perpétuel peut devenir :
+Ce potager perpétuel peut devenir :
 
 * un démonstrateur d’agroécologie locale,
 * une source d’inspiration pour d’autres projets,
@@ -385,7 +388,7 @@ En réhabilitant une friche, le projet montre qu’il est possible de recréer d
 </p>
 
 {{< details "Un fort impact pédagogique — approfondir" >}}
-Le potager perpétuel offre un support concret pour sensibiliser :
+Le potager perpétuel offre un support concret pour sensibiliser :
 
 * adultes,
 * jeunes,
@@ -403,9 +406,9 @@ Les notions abstraites deviennent visibles, palpables, incarnées dans un lieu.
 </p>
 
 {{< details "Un coût modéré pour un impact durable — approfondir" >}}
-Un investissement initial raisonnable : plantations, aménagements, matériel de base.
+Un investissement initial raisonnable : plantations, aménagements, matériel de base.
 
-Un bénéfice qui s’étale sur plusieurs années :
+Un bénéfice qui s’étale sur plusieurs années :
 
 * pour la nature,
 * pour les participants,
@@ -438,7 +441,7 @@ plus sobre, plus juste, plus vivant.
 </p>
 
 {{< details "Un potentiel de diffusion — approfondir" >}}
-Ce potager perpétuel peut devenir :
+Ce potager perpétuel peut devenir :
 
 * un démonstrateur d’agroécologie locale,
 * une source d’inspiration pour d’autres projets,
@@ -453,3 +456,4 @@ Ce qui se teste ici peut ensuite se raconter, se transmettre, se dupliquer aille
   {{< /button >}}
 </div>
 </section>
+::contentReference[oaicite:0]{index=0}
