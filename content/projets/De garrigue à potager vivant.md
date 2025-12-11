@@ -9,7 +9,6 @@ tags:
 authors: "Jérémy"
 ---
 
-
 <section class="hero-potager" style="min-height:100vh; display:flex; flex-wrap:wrap; align-items:center; gap:3rem; padding:3rem 0;" data-scroll="parallax" data-scroll-sync="true" data-cursor="morph">
   <div class="hero-potager__texte" style="flex:1 1 320px; max-width:720px;" data-depth="3">
 
@@ -21,13 +20,8 @@ authors: "Jérémy"
 Transformer une friche de garrigue en un <strong>potager perpétuel vivant</strong>, pédagogique et collectif : un lieu où le sol, les arbres et les humains apprennent à cohabiter sur le long terme.
 {{< /lead >}}
 
-{{< typeit
-tag=h1
-lifeLike=true
-speed=45
-startDelay=400
-breakLines=false
-}} <span class="split">De la friche</span> à la forêt-jardin pédagogique.
+{{< typeit tag="h1" lifeLike="true" speed="45" startDelay="400" breakLines="false" >}}
+<span class="split">De la friche</span> à la forêt-jardin pédagogique.
 {{< /typeit >}}
 
 <p data-hover="expand">
