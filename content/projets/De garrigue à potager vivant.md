@@ -20,7 +20,7 @@ authors: "Jérémy"
 Transformer une friche de garrigue en un <strong>potager perpétuel vivant</strong>, pédagogique et collectif : un lieu où le sol, les arbres et les humains apprennent à cohabiter sur le long terme.
 {{< /lead >}}
 
-{{< typeit tag="h1" lifeLike="true" speed="45" startDelay="400" breakLines="false" >}}
+{{< typeit tag="h1" lifeLike="true" speed="70" startDelay="400" breakLines="false" >}}
 <span class="split">De la friche</span> à la forêt-jardin pédagogique.
 {{< /typeit >}}
 
