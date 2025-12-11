@@ -7,7 +7,7 @@ authors: "Jérémy"
 ---
 
 {{< lead >}}
-Transformer une friche de garrigue en un **potager perpétuel vivant, pédagogique et collectif** : un paysage qui ne se contente pas de produire, mais qui raconte, saison après saison, comment le vivant s’organise, se régénère et nous rassemble.
+Ransformer une friche de garrigue en un **potager perpétuel vivant, pédagogique et collectif** : un paysage qui ne se contente pas de produire, mais qui raconte, saison après saison, comment le vivant s’organise, se régénère et nous rassemble.
 {{< /lead >}}
 
 {{< badge >}}Pédagogie vivante{{< /badge >}}  
