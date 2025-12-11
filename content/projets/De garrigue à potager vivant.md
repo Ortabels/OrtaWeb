@@ -5,11 +5,11 @@ description: "Transformer une friche de garrigue en potager perpétuel, vivant, 
 tags:
   - "Pédagogie"
   - "Potager perpétuel"
-  - "Agroécologie"
-authors: "Jérémy"
+authors:
+  - "Jérémy"
 ---
 
-<section class="hero-potager" style="min-height:100vh; display:flex; flex-wrap:wrap; align-items:center; gap:3rem; padding:3rem 0;" data-scroll="parallax" data-scroll-sync="true" data-cursor="morph">
+<section class="hero-potager" style="min-height:100vh; display:flex; flex-wrap:wrap; align-items:center; gap:3rem;" data-scroll="parallax" data-scroll-sync="true" data-cursor="morph">
   <div class="hero-potager__texte" style="flex:1 1 320px; max-width:720px;" data-depth="3">
 
 {{< badge >}}Pédagogie vivante{{< /badge >}}
@@ -20,20 +20,26 @@ authors: "Jérémy"
 Transformer une friche de garrigue en un <strong>potager perpétuel vivant</strong>, pédagogique et collectif : un lieu où le sol, les arbres et les humains apprennent à cohabiter sur le long terme.
 {{< /lead >}}
 
-{{< typeit tag="h1" lifeLike="true" speed="170" startDelay="400" breakLines="false" >}}
+{{< typeit
+tag=h1
+lifeLike=true
+speed=45
+startDelay=400
+breakLines=false
+}}
 <span class="split">De la friche</span> à la forêt-jardin pédagogique.
 {{< /typeit >}}
 
 <p data-hover="expand">
-  Ici, chaque racine, chaque pierre et chaque goutte de pluie participent à une même histoire : celle d’un <strong>jardin qui ne s’arrête jamais</strong>, qui mûrit avec le temps, avec les saisons et avec les personnes qui l’habitent.
+  Ici, chaque racine, chaque pierre et chaque goutte de pluie participent à une même histoire&nbsp;: celle d’un <strong>jardin qui ne s’arrête jamais</strong>, qui mûrit avec le temps, avec les saisons et avec les personnes qui l’habitent.
 </p>
 
 <div style="margin-top:2rem; display:flex; flex-wrap:wrap; gap:1rem; align-items:center;">
   <span style="font-size:0.9rem; opacity:0.8;">Un projet à inventer, pas à consommer.</span>
 
-{{< button >}}
-✅ Je soutiens la création de ce potager perpétuel pédagogique
-{{< /button >}}
+  {{< button >}}
+  ✅ Je soutiens la création de ce potager perpétuel pédagogique
+  {{< /button >}}
 
 </div>
 </div>
@@ -49,79 +55,79 @@ Transformer une friche de garrigue en un <strong>potager perpétuel vivant</stro
     backdrop-filter:blur(12px);
     border:1px solid rgba(255,255,255,0.08);"
     data-hover="expand">
-    {{< figure src="/TODO.jpg" caption="Croquis d’intention : une friche de garrigue qui glisse vers une forêt-jardin nourricière." >}}
+    {{< figure src="/TODO.jpg" caption="Croquis d’intention&nbsp;: une friche de garrigue qui glisse vers une forêt-jardin nourricière." >}}
   </div>
 
-  <div style="position:absolute; inset:auto -12% -8% auto; max-width:260px; transform:rotate(-3deg);" data-depth="5">
-    <div style="
-      padding:1rem 1.2rem;
-      border-radius:1.2rem;
-      background:rgba(8,10,16,0.94);
-      box-shadow:0 18px 40px rgba(0,0,0,0.45);
-      border:1px solid rgba(255,255,255,0.08);
-      font-size:0.9rem;
-      line-height:1.5;"
-      data-hover="expand">
-      <p style="margin:0;">
-        D’une terre oubliée à un <strong>paysage apprenant</strong>.
-      </p>
-    </div>
+  <div style="position:absolute; inset:auto -12% -8% auto; max-width:220px; transform:rotate(-3deg);" data-depth="5">
+    {{< quote >}}
+    D’une terre oubliée à un <strong>paysage apprenant</strong>.
+    {{< /quote >}}
   </div>
 </div>
 </section>
 
 <section style="padding-top:3rem;" data-scroll="parallax">
-<h2 data-hover="expand">Pourquoi ce projet ?</h2>
+Pourquoi ce projet ?
 
 <p data-hover="expand">
-  Réhabiliter une friche, c’est <strong>réécrire une histoire</strong> : celle d’un sol que l’on écoute, d’une biodiversité que l’on observe et d’un territoire que l’on cultive ensemble, sans chercher la performance mais la durabilité et la transmission.
+  Réhabiliter une friche, c’est <strong>réécrire une histoire</strong>&nbsp;: celle d’un sol que l’on écoute, d’une biodiversité que l’on observe, et d’un territoire que l’on cultive ensemble, sans chercher la performance mais la durabilité et la transmission.
 </p>
 
 {{< alert >}}
-Nous proposons de reconvertir une friche de garrigue en potager perpétuel pédagogique.
+Nous proposons de reconvertir une friche de garrigue en potager perpétuel pédagogique, pensé non comme une ferme productiviste, mais comme un lieu :
 
-<ul>
-  <li>Apprentissage sensible du vivant</li>
-  <li>Expérimentation agroécologique</li>
-  <li>Nature vivante partagée au cœur du territoire</li>
-</ul>
+d’apprentissage sensible du vivant,
 
-Principes fondateurs :
+d’expérimentation agroécologique,
 
-<ul>
-  <li>Arbres fruitiers</li>
-  <li>Plantes vivaces et pérennes</li>
-  <li>Haies variées et refuges à biodiversité</li>
-  <li>Sol respecté et toujours couvert</li>
-  <li>Gestion douce, sobre et locale de l’eau</li>
-</ul>
+de nature vivante partagée au cœur du territoire.
 
-Ce potager perpétuel devient un outil pédagogique concret : observation, essais, partage de savoir-faire, apprentissage collectif sans intrants chimiques.
+Avec quelques principes simples :
+
+arbres fruitiers,
+
+plantes vivaces et pérennes,
+
+haies variées et refuges à biodiversité,
+
+sol respecté et toujours couvert,
+
+gestion douce, sobre et locale de l’eau,
+
+nous pouvons créer un espace fertile, durable, accueillant pour la faune et la flore, et accessible à tous.
+
+Ce potager perpétuel deviendra un outil pédagogique concret :
+
+un terrain d’observation,
+
+un espace d’essais et de tâtonnements,
+
+un lieu de partage de savoir-faire,
+
+pour que chacun puisse apprendre à concevoir et entretenir un espace vert durable, sans équipements lourds ni intrants chimiques.
 {{< /alert >}}
 
 </section>
 
 <section class="layout-zonage" style="margin:4rem 0;" data-scroll="parallax">
   <div style="display:grid; grid-template-columns:minmax(0,2fr) minmax(0,2fr); gap:1.5rem; align-items:start;">
-
     <div data-depth="2">
       <h2 data-hover="expand">Lire le lieu avant d’y planter</h2>
       <p>
-        Avant les plantations, le potager perpétuel commence par un <strong>geste d’écoute</strong> : observer les courbes du terrain, les vents dominants, les zones d’ombre et les traces du vivant.
+        Avant les plantations, le potager perpétuel commence par un <strong>geste d’écoute</strong>&nbsp;: observer les courbes du terrain, les vents dominants, les zones d’ombre, les traces déjà laissées par le vivant.
       </p>
       <p>
         Ce travail de lecture permet de dessiner un <strong>design sobre et intelligent</strong>, qui s’appuie sur la topographie plutôt que de la contraindre.
       </p>
     </div>
 
-    <div>
-
+    <div data-layer="depth-3" style="position:relative;">
       {{< gallery >}}
-        <img src="/TODO-zonage-1.jpg" class="grid-w50" data-hover="zoom-lateral" />
-        <img src="/TODO-zonage-2.jpg" class="grid-w50" data-hover="zoom-lateral" />
+      <img src="/TODO-zonage-1.jpg" class="grid-w50" data-hover="zoom-lateral" />
+      <img src="/TODO-zonage-2.jpg" class="grid-w50" data-hover="zoom-lateral" />
       {{< /gallery >}}
 
-      <div style="margin-top:1rem; max-width:180px;">
+      <div style="position:absolute; top:-10%; left:-6%; max-width:180px; transform:rotate(-4deg);" data-depth="4">
         <div style="
           padding:0.75rem 1rem;
           border-radius:999px;
@@ -130,207 +136,351 @@ Ce potager perpétuel devient un outil pédagogique concret : observation, essai
           background:rgba(22,28,40,0.92);
           color:#f5f7fa;
           border:1px solid rgba(255,255,255,0.12);">
-          <span class="split">Haies</span> · 
-          <span class="split">Refuges</span> · 
-          <span class="split">Cheminements</span>
+          <span class="split">Haies</span> · <span class="split">Refuges</span> · <span class="split">Cheminements</span>
         </div>
       </div>
 
     </div>
-
   </div>
 </section>
 
 <section data-scroll="parallax">
-<h2 data-hover="expand">📚 Objectifs pédagogiques et éducatifs</h2>
+📚 Objectifs pédagogiques et éducatifs
 
-<h3 data-hover="expand">Comprendre le vivant</h3>
-
-<p data-hover="expand">
-  Le potager perpétuel devient une <strong>fenêtre ouverte sur le sol</strong> et ses habitants invisibles.
-</p>
-
-<ul>
-  <li>Fonctionnement du sol</li>
-  <li>Interactions plantes-sol-champignons</li>
-  <li>Rôle des arbres et arbustes</li>
-  <li>Compréhension des équilibres vivants</li>
-</ul>
-
-<h3 data-hover="expand">Sensibiliser aux pratiques agroécologiques</h3>
+Comprendre le vivant
 
 <p data-hover="expand">
-  Ici, on apprend en <strong>passant de la théorie à la terre</strong>.
+  Le potager perpétuel devient une <strong>fenêtre ouverte sur le sol</strong> et ses habitants invisibles. On y découvre que la fertilité n’est pas un produit, mais une relation.
 </p>
 
-<ul>
-  <li>Compost, paillage et sol vivant</li>
-  <li>Haies, refuges et gestion douce de l’eau</li>
-  <li>Gestes simples et reproductibles</li>
-  <li>Approches durables sans technicisme</li>
-</ul>
+{{< details "Comprendre le vivant" >}}
+Dans ce potager perpétuel, le sol n’est pas un simple support de culture : c’est le cœur du système.
 
-<h3 data-hover="expand">Favoriser l’engagement collectif et local</h3>
+Découvrir le fonctionnement du sol (structure, matière organique, cycles).
+
+Observer les interactions entre plantes, sol, champignons, microfaune et insectes.
+
+Comprendre le rôle des arbres, arbustes et plantes pérennes dans la santé d’un écosystème.
+
+L’idée : faire ressentir que chaque racine, chaque insecte, chaque couche de terre participe à l’équilibre du lieu, comme les voix d’un même chœur.
+{{< /details >}}
+
+Sensibiliser aux pratiques agroécologiques
 
 <p data-hover="expand">
-  Le potager est un <strong>catalyseur de participation</strong>.
+  Ici, on apprend en <strong>passant de la théorie à la terre</strong>&nbsp;: gestes simples, reproductibles, qui montrent qu’une autre manière de cultiver est possible, même à petite échelle.
 </p>
 
-<ul>
-  <li>Mobilisation d’habitants et de bénévoles</li>
-  <li>Ateliers collaboratifs</li>
-  <li>Travaux partagés et observation</li>
-  <li>Construction collective</li>
-</ul>
+{{< details "Sensibiliser aux pratiques agroécologiques" >}}
+Ici, on apprend en faisant :
 
-<h3 data-hover="expand">Créer un laboratoire vivant</h3>
+Mettre en place compost, paillage, entretien d’un sol vivant.
+
+Favoriser les cultures pérennes, les haies, les zones refuges et la gestion douce de l’eau.
+
+Montrer des gestes simples, reproductibles et respectueux de l’environnement.
+
+Cette approche s’inspire du jardinage durable, de la permaculture et de l’agroforesterie, en les rendant accessibles au plus grand nombre, sans jargon ni technicisme inutile.
+{{< /details >}}
+
+Favoriser l’engagement collectif et local
 
 <p data-hover="expand">
-  Année après année, le lieu devient un <strong>laboratoire à ciel ouvert</strong>.
+  Le potager est pensé comme un <strong>catalyseur de participation</strong>&nbsp;: on vient y planter, mais aussi y débattre, y apprendre, y transmettre.
 </p>
 
-<ul>
-  <li>Observation du sol et des plantes</li>
-  <li>Mesure des effets agroécologiques</li>
-  <li>Retour d’expérience partagé</li>
-  <li>Évolution continue du projet</li>
-</ul>
+{{< details "Favoriser l’engagement collectif et local" >}}
+Le potager perpétuel est pensé comme un projet de territoire :
+
+Mobiliser adhérents, bénévoles, habitants, familles.
+
+Impliquer chacun dans les travaux, les plantations, les ateliers, l’observation et l’entretien.
+
+Faire de chaque participant un acteur de la transformation d’un espace en friche.
+
+On ne vient pas seulement visiter un jardin :
+on participe à le faire naître, évoluer et s’enraciner dans le paysage local.
+{{< /details >}}
+
+Créer un “laboratoire vivant” sur le long terme
+
+<p data-hover="expand">
+  Année après année, le lieu se transforme en <strong>laboratoire à ciel ouvert</strong>&nbsp;: on y documente les essais, on y lit les erreurs, on y partage les réussites.
+</p>
+
+{{< details "Créer un “laboratoire vivant” sur le long terme" >}}
+Le lieu est conçu comme un laboratoire à ciel ouvert :
+
+Observer le sol, les plantes et la biodiversité sur plusieurs années.
+
+Mesurer concrètement les effets des pratiques agroécologiques.
+
+Offrir un lieu d’expérimentation, de suivi et de retours d’expérience partagés.
+
+Au fil des saisons, le potager devient une mémoire vivante :
+celle des essais, des réussites, des ajustements et des apprentissages collectifs.
+{{< /details >}}
 
 </section>
 
 <section data-scroll="parallax" data-layer="depth-2">
-<h2 data-hover="expand">🛠️ Principes et organisation du projet</h2>
+🛠️ Principes et organisation du projet
 
-<h3 data-hover="expand">Un design agroécologique</h3>
+Un design agroécologique
 
 <p data-hover="expand">
-  Le design s’inspire des <strong>forêts naturelles</strong>.
+  Le design du potager perpétuel s’inspire des <strong>forêts naturelles</strong>&nbsp;: plusieurs strates, des rôles complémentaires, un maillage d’habitats pour la faune et la flore.
 </p>
 
-<ul>
-  <li>Arbres fruitiers adaptés</li>
-  <li>Plantes vivaces nourricières</li>
-  <li>Haies champêtres</li>
-  <li>Zones de litière et bois mort</li>
-  <li>Potager en sous-étage</li>
-</ul>
+{{< details "Un design agroécologique" >}}
+Le potager perpétuel repose sur un design pensé comme un écosystème :
+
+plantations d’arbres fruitiers et d’arbustes adaptés à la garrigue,
+
+introduction de plantes vivaces nourricières ou utiles,
+
+création de haies champêtres pour les oiseaux, insectes et petits mammifères,
+
+zones de litière, de pierres et de bois mort pour la biodiversité discrète,
+
+zones potagères en sous-étage, à l’abri des vents et du soleil brûlant.
+
+Cette approche permet de recréer un système équilibré, résilient, favorable à la vie, déclinaison de la permaculture adaptée au contexte local.
+{{< /details >}}
 
 <div style="max-width:520px; margin:2rem auto 0;" data-depth="3">
-
-| Catégories         | % plantation |
-|-------------------:|:------------:|
-| Arbres & haies     | 35 %         |
-| Plantes vivaces    | 25 %         |
-| Zones potagères    | 25 %         |
-| Refuges sauvages   | 15 %         |
-
+  {{< chart >}}
+  type: 'doughnut',
+  data: {
+    labels: ['Arbres & haies', 'Plantes vivaces', 'Zones potagères', 'Refuges sauvages'],
+    datasets: [{
+      label: 'Exemple de répartition des intentions de plantation',
+      data: [35, 25, 25, 15],
+    }]
+  }
+  {{< /chart >}}
 </div>
 
-<h3 data-hover="expand">Une gestion écologique des sols et de l’eau</h3>
+Une gestion écologique des sols et de l’eau
 
-<ul>
-  <li>Sol vivant sans intrants</li>
-  <li>Irrigation adaptée et sobre</li>
-  <li>Réduction des besoins en eau</li>
-  <li>Utilisation intelligente de la topographie</li>
-</ul>
+<p data-hover="expand">
+  L’eau est rare, le sol est précieux&nbsp;: le projet cherche à <strong>faire mieux avec moins</strong>, en s’appuyant sur l’intelligence du paysage.
+</p>
 
-<h3 data-hover="expand">Une participation collective</h3>
+{{< details "Une gestion écologique des sols et de l’eau" >}}
+L’eau et le sol sont considérés comme des ressources précieuses :
 
-<ul>
-  <li>Chantiers collectifs</li>
-  <li>Ateliers pédagogiques</li>
-  <li>Valorisation des savoir-faire</li>
-  <li>Lien social renforcé</li>
-</ul>
+Favoriser un sol vivant : compostage, paillage, absence d’intrants chimiques.
 
-<h3 data-hover="expand">Un projet évolutif et pérenne</h3>
+Imaginer un système d’irrigation sobre et adapté (eau de pluie, gravitaire si la topographie le permet).
 
-<ul>
-  <li>Évolution saisonnière</li>
-  <li>Enrichissement continu</li>
-  <li>Adaptation selon observations</li>
-  <li>Projet vivant inscrit dans le territoire</li>
-</ul>
+Réduire les besoins en arrosage tout en préservant la fertilité et la vie du sol.
+
+L’objectif : faire mieux avec moins, en s’appuyant sur l’intelligence du paysage plutôt que sur la mécanique et la chimie.
+{{< /details >}}
+
+Une participation collective au cœur du projet
+
+<p data-hover="expand">
+  Le potager devient un <strong>atelier permanent</strong>&nbsp;: chantiers, ateliers, temps d’observation et de discussion rythment l’année.
+</p>
+
+{{< details "Une participation collective au cœur du projet" >}}
+Le projet se construit avec les personnes, pas seulement pour elles :
+
+Chantiers collectifs : plantations, aménagements, entretien, observation.
+
+Ateliers pédagogiques et temps de partage d’expérience.
+
+Construction du projet avec les bénévoles et les adhérents, en valorisant les savoir-faire existants.
+
+Le jardin devient un prétexte à se rencontrer, échanger, co-créer.
+La parcelle se transforme, mais le lien social aussi.
+{{< /details >}}
+
+Un projet évolutif et pérenne
+
+<p data-hover="expand">
+  Rien n’est figé&nbsp;: le potager perpétuel est pensé comme une <strong>œuvre vivante</strong>, qui s’ajuste au fil des saisons et des usages.
+</p>
+
+{{< details "Un projet évolutif et pérenne" >}}
+Le jardin est pensé sur le moyen et long terme :
+
+Il grandit, évolue et s’ajuste au fil des saisons.
+
+Il s’enrichit progressivement, année après année, en fonction des observations de terrain.
+
+Il intègre les retours des participants pour adapter les aménagements.
+
+Rien n’est figé : le potager perpétuel est une œuvre vivante, co-écrite dans le temps et dans le paysage.
+{{< /details >}}
 
 </section>
 
 <section data-scroll="parallax">
-<h2 data-hover="expand">🌱 Valeur ajoutée et portée du projet</h2>
+🌱 Valeur ajoutée et portée du projet
 
-<h3 data-hover="expand">Un outil pédagogique concret</h3>
+Un outil pédagogique concret
 
-<ul>
-  <li>Apprentissage par la pratique</li>
-  <li>Respect de la nature</li>
-  <li>Découverte sensorielle</li>
-</ul>
+<p data-hover="expand">
+  Le potager n’est pas un concept, mais un <strong>terrain réel</strong>&nbsp;: on y revient les mains tachées de terre, les poches pleines de graines et la tête pleine d’idées.
+</p>
 
-<h3 data-hover="expand">Un projet accessible</h3>
+{{< details "Un outil pédagogique concret" >}}
+Il ne s’agit pas seulement d’affiches ou de discours, mais d’un espace réel, vivant et tangible :
 
-<ul>
-  <li>Peu de matériel nécessaire</li>
-  <li>Modèle reproductible</li>
-  <li>Transformation d’une friche avec peu de moyens</li>
-</ul>
+pour apprendre à jardiner autrement,
 
-<h3 data-hover="expand">Un lieu de lien social</h3>
+pour respecter la nature et ses cycles,
 
-<ul>
-  <li>Participation habitants et bénévoles</li>
-  <li>Rencontres et coopération</li>
-  <li>Vie associative</li>
-</ul>
+pour s’initier à l’agroécologie, les mains dans la terre.
 
-<h3 data-hover="expand">Un modèle inspirant</h3>
+Chaque visite, chaque atelier devient une expérience sensorielle :
+observer, toucher, sentir, expérimenter, plutôt que simplement écouter.
+{{< /details >}}
 
-<ul>
-  <li>Démonstrateur d’agroécologie</li>
-  <li>Diffusion des pratiques</li>
-  <li>Transmission sur d’autres territoires</li>
-</ul>
+Un projet accessible
+
+<p data-hover="expand">
+  Le modèle proposé se veut <strong>sobre et reproductible</strong>&nbsp;: il montre qu’on peut agir avec peu de moyens, mais avec une vision claire.
+</p>
+
+{{< details "Un projet accessible" >}}
+Ce potager perpétuel reste réaliste et reproductible :
+
+Peu d’équipements techniques nécessaires.
+
+Priorité à la simplicité, à la durabilité et à l’adaptation locale.
+
+Un modèle de potager réalisable même avec des moyens modestes.
+
+Le message est clair : on peut transformer une friche, même sans gros budget,
+dès lors qu’on dispose d’une vision, de temps et de forces collectives.
+{{< /details >}}
+
+Un lieu de lien social et de partage
+
+<p data-hover="expand">
+  Au fil des saisons, le jardin devient un <strong>point de rendez-vous</strong> pour le quartier, le village, le territoire.
+</p>
+
+{{< details "Un lieu de lien social et de partage" >}}
+Le jardin devient un point de rencontre :
+
+Participation des bénévoles, adhérents, habitants.
+
+Création de lien, d’engagement et de coopération.
+
+Support idéal pour des animations associatives et des temps conviviaux.
+
+On y vient pour le jardin,
+et on y revient pour les rencontres qu’il rend possibles.
+{{< /details >}}
+
+Un modèle inspirant et reproductible
+
+<p data-hover="expand">
+  En documentant le projet, le potager perpétuel peut devenir un <strong>récit à transmettre</strong> ailleurs&nbsp;: carnets de terrain, visites, formations.
+</p>
+
+{{< details "Un modèle inspirant et reproductible" >}}
+Ce potager perpétuel peut devenir :
+
+un démonstrateur d’agroécologie locale,
+
+une source d’inspiration pour d’autres projets,
+
+un point de départ pour développer des pratiques plus durables sur d’autres territoires.
+
+En réhabilitant une friche, le projet montre qu’il est possible de recréer de la fertilité et de la biodiversité avec peu de moyens, mais une vision à long terme.
+{{< /details >}}
 
 </section>
 
 <section data-scroll="parallax" data-layer="depth-3">
-<h2 data-hover="expand">✅ Pourquoi soutenir ce projet</h2>
+✅ Pourquoi soutenir ce projet
 
-<h3 data-hover="expand">Un fort impact pédagogique</h3>
+Un fort impact pédagogique
 
-<ul>
-  <li>Sensibilisation adultes et jeunes</li>
-  <li>Notions écologiques rendues visibles</li>
-  <li>Apprentissages concrets</li>
-</ul>
+<p data-hover="expand">
+  Le potager perpétuel offre un support <strong>simple, concret et incarné</strong> pour parler de sol, d’eau, de biodiversité, de climat, d’alimentation.
+</p>
 
-<h3 data-hover="expand">Un coût modéré pour un impact durable</h3>
+{{< details "Un fort impact pédagogique" >}}
+Le potager perpétuel offre un support concret pour sensibiliser :
 
-<ul>
-  <li>Investissements raisonnables</li>
-  <li>Bénéfices sur plusieurs années</li>
-  <li>Patrimoine vivant local</li>
-</ul>
+adultes,
 
-<h3 data-hover="expand">Un projet aligné avec des valeurs fortes</h3>
+jeunes,
 
-<ul>
-  <li>Éducation à l’environnement</li>
-  <li>Durabilité</li>
-  <li>Bien commun</li>
-</ul>
+familles,
 
-<h3 data-hover="expand">Un potentiel de diffusion</h3>
+aux enjeux du sol, de la biodiversité et de l’agroécologie.
 
-<ul>
-  <li>Démonstrateur local</li>
-  <li>Source d’inspiration</li>
-  <li>Diffusion des pratiques durables</li>
-</ul>
+Les notions abstraites deviennent visibles, palpables, incarnées dans un lieu.
+{{< /details >}}
+
+Un coût modéré pour un impact durable
+
+<p data-hover="expand">
+  Quelques investissements bien ciblés aujourd’hui deviennent un <strong>patrimoine vivant</strong> pour demain.
+</p>
+
+{{< details "Un coût modéré pour un impact durable" >}}
+Un investissement initial raisonnable : plantations, aménagements, matériel de base.
+
+Un bénéfice qui s’étale sur plusieurs années :
+
+pour la nature,
+
+pour les participants,
+
+pour le lien social local.
+
+Chaque arbre planté, chaque haie créée est un patrimoine vivant pour le territoire.
+{{< /details >}}
+
+Un projet aligné avec des valeurs fortes
+
+<p data-hover="expand">
+  En soutenant ce projet, on défend une vision <strong>sobre, juste et profondément vivante</strong> de l’aménagement du territoire.
+</p>
+
+{{< details "Un projet aligné avec des valeurs fortes" >}}
+Éducation à l’environnement.
+
+Durabilité et sobriété.
+
+Partage de connaissances et de pratiques.
+
+Vision respectueuse de la nature, tournée vers l’humain et le bien commun.
+
+Soutenir ce projet, c’est encourager un modèle de développement
+plus sobre, plus juste, plus vivant.
+{{< /details >}}
+
+Un potentiel de diffusion
+
+<p data-hover="expand">
+  Ce qui s’expérimente ici peut se <strong>raconter</strong>, se <strong>transmettre</strong>, se <strong>dupliquer</strong> ailleurs, au service d’autres territoires.
+</p>
+
+{{< details "Un potentiel de diffusion" >}}
+Ce potager perpétuel peut devenir :
+
+un démonstrateur d’agroécologie locale,
+
+une source d’inspiration pour d’autres projets,
+
+un point d’appui pour diffuser des pratiques plus durables sur d’autres territoires.
+
+Ce qui se teste ici peut ensuite se raconter, se transmettre, se dupliquer ailleurs.
+{{< /details >}}
 
 <div style="margin-top:2.5rem; text-align:center;">
   {{< button >}}
   ✅ Je soutiens la création de ce potager perpétuel pédagogique
   {{< /button >}}
 </div>
-
 </section>
