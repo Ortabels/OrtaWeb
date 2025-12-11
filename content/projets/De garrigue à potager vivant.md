@@ -19,7 +19,7 @@ Transformer une friche de garrigue en un **potager perpétuel vivant, pédagogiq
 ## Pourquoi ce projet ?
 
 {{< alert >}}
-ous proposons de reconvertir une **friche de garrigue** en **potager perpétuel pédagogique**, pensé non comme une ferme productiviste, mais comme un lieu :
+Nous proposons de reconvertir une **friche de garrigue** en **potager perpétuel pédagogique**, pensé non comme une ferme productiviste, mais comme un lieu :
 
 - d’**apprentissage**,  
 - d’**expérimentation**,  
