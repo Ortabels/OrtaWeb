@@ -54,9 +54,9 @@ Ce potager perpétuel deviendra un **outil pédagogique concret** :
 pour que chacun puisse apprendre à concevoir et entretenir un espace vert durable, **sans équipements lourds ni intrants chimiques**.
 {{< /alert >}}
 
-{{< quote >}}
+
 Réhabiliter une friche, c’est réécrire une histoire : celle d’un sol que l’on écoute, d’une biodiversité que l’on observe, et d’un territoire que l’on cultive ensemble.
-{{< /quote >}}
+
 
 {{< figure src="/TODO.jpg" caption="TODO : ajouter ici un schéma ou croquis d’intention du potager perpétuel (zones, arbres, haies, cheminements)." >}}
 
