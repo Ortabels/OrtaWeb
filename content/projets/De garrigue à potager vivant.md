@@ -8,8 +8,7 @@ tags:
 * "Pédagogie"
 * "Potager perpétuel"
 * "Agroécologie"
-  authors:
-* "Jérémy"
+  authors: * "Jérémy"
 
 ---
 
