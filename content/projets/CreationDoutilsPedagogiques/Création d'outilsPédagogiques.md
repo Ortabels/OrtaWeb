@@ -72,11 +72,11 @@ Un chantier bénévole pour sculpter, à plusieurs mains, une boîte à outils p
 
 <div>
 
-* Comprendre les **horizons du sol** et leur rôle respectif.
-* Identifier les **organismes du sol** (décomposeurs, prédateurs, ingénieurs du sol).
-* Visualiser les **chaînes alimentaires souterraines** via un puzzle dédié.
-* Observer la **décomposition en direct** grâce à un vermicomposteur vitré.
-* Relier ces observations aux principes de **l’agroécologie** : paillage, compostage, cycles naturels.
+- Comprendre les **horizons du sol** et leur rôle respectif.
+- Identifier les **organismes du sol** (décomposeurs, prédateurs, ingénieurs du sol).
+- Visualiser les **chaînes alimentaires souterraines** via un puzzle dédié.
+- Observer la **décomposition en direct** grâce à un vermicomposteur vitré.
+- Relier ces observations aux principes de **l’agroécologie** : paillage, compostage, cycles naturels.
 
 </div>
 
@@ -92,6 +92,12 @@ Ces outils sont pensés pour être manipulés en cercle, sur une bâche ou au pi
 
 ---
 
+{{< gallery >}}
+<img src="img/IMG_4787.jpeg" class="grid-w100 sm:grid-w33" />
+<img src="/img/jerem.png" class="grid-w100 sm:grid-w33" />
+<img src="/img/marc.png" class="grid-w100 sm:grid-w33" />
+{{< /gallery >}}
+
 <section style="padding:2rem 0 0 0;" data-scroll="fade">
 
 ### 🔧 Les outils pédagogiques à fabriquer
@@ -104,17 +110,17 @@ Ces outils sont pensés pour être manipulés en cercle, sur une bâche ou au pi
 
 Inspiré du module « Horizons sous nos pieds ».
 
-* 6 à 7 pièces distinctes :
+- 6 à 7 pièces distinctes :
 
-  * paillage / litière  
-  * humus  
-  * horizon organo-minéral  
-  * sous-sol  
-  * roche mère  
-  * nappes / eau souterraine  
+  - paillage / litière
+  - humus
+  - horizon organo-minéral
+  - sous-sol
+  - roche mère
+  - nappes / eau souterraine
 
-* Format **A4 maximum**, manipulable par un petit groupe d’enfants.  
-* Assemblage pensé pour être posé au sol ou sur une grande table.
+- Format **A4 maximum**, manipulable par un petit groupe d’enfants.
+- Assemblage pensé pour être posé au sol ou sur une grande table.
 
 {{< details title="Astuce d’animation : faire parler les horizons" >}}
 Proposer aux enfants de « donner une voix » à chaque horizon : que dirait la litière ? que ressent la roche mère ? Cet exercice permet de mémoriser les rôles de chaque couche tout en nourrissant l’imaginaire.
@@ -124,14 +130,14 @@ Proposer aux enfants de « donner une voix » à chaque horizon : que dirait la 
 
 Inspiré du module « Qui vit là-dessous ? ».
 
-* Silhouettes d’animaux : vers de terre, cloportes, collemboles, carabes, acariens, etc.
-* **Cartes explicatives associées** :
+- Silhouettes d’animaux : vers de terre, cloportes, collemboles, carabes, acariens, etc.
+- **Cartes explicatives associées** :
 
-  * rôle écologique (décomposeur, prédateur, ingénieur du sol…)  
-  * régime alimentaire  
-  * milieu préféré (litière, racines, galeries…)  
+  - rôle écologique (décomposeur, prédateur, ingénieur du sol…)
+  - régime alimentaire
+  - milieu préféré (litière, racines, galeries…)
 
-* Association possible « silhouette → carte rôle » sous forme de jeu coopératif.
+- Association possible « silhouette → carte rôle » sous forme de jeu coopératif.
 
 #### 🧩 3. Puzzle « Chaîne alimentaire du sol »
 
@@ -139,11 +145,11 @@ Un puzzle pour raconter les flux d’énergie souterraine.
 
 Pièces représentant :
 
-* débris végétaux  
-* champignons et bactéries  
-* décomposeurs  
-* prédateurs du sol  
-* plante / système racinaire  
+- débris végétaux
+- champignons et bactéries
+- décomposeurs
+- prédateurs du sol
+- plante / système racinaire
 
 Objectif : reconstituer plusieurs **chaînes alimentaires** possibles en partant des débris végétaux jusqu’à la plante.
 
@@ -162,28 +168,28 @@ Objectif : reconstituer plusieurs **chaînes alimentaires** possibles en partant
 
 Bocaux en verre remplis de sols différents :
 
-* sol sableux  
-* sol argileux  
-* sol limoneux  
-* sol du potager (**à deviner**)  
+- sol sableux
+- sol argileux
+- sol limoneux
+- sol du potager (**à deviner**)
 
 Utilisation en atelier :
 
-1. Remplir les bocaux d’eau, agiter, laisser décanter.  
-2. Observer les couches qui se séparent (sables, limons, argiles, matière organique).  
-3. Discuter **texture & structure** du sol à partir de ce simple test.  
+1. Remplir les bocaux d’eau, agiter, laisser décanter.
+2. Observer les couches qui se séparent (sables, limons, argiles, matière organique).
+3. Discuter **texture & structure** du sol à partir de ce simple test.
 
 #### 🪱 5. Vermicomposteur vitré
 
 Petit modèle (50–60 cm de haut), visible par les enfants à hauteur d’yeux.
 
-* Structure : plexiglas + bois ou carton rigide consolidé.  
-* Contenu : vers Eisenia, compost, litière, couches de matière végétale.  
-* Usage pédagogique :
+- Structure : plexiglas + bois ou carton rigide consolidé.
+- Contenu : vers Eisenia, compost, litière, couches de matière végétale.
+- Usage pédagogique :
 
-  * suivre la **décomposition de la matière** dans le temps ;  
-  * observer les galeries, les zones plus riches en vers ;  
-  * parler des cycles de nutriments.  
+  - suivre la **décomposition de la matière** dans le temps ;
+  - observer les galeries, les zones plus riches en vers ;
+  - parler des cycles de nutriments.
 
 </section>
 
@@ -203,10 +209,10 @@ Petit modèle (50–60 cm de haut), visible par les enfants à hauteur d’yeux.
 
 <div>
 
-* Bénévoles de l’association  
-* Adhérents et adhérentes  
-* Parents, habitants et habitantes intéressé·es  
-* Étudiants, volontaires, membres du CA  
+- Bénévoles de l’association
+- Adhérents et adhérentes
+- Parents, habitants et habitantes intéressé·es
+- Étudiants, volontaires, membres du CA
 
 > Un chantier où l’on fabrique autant des objets pédagogiques que du lien entre générations, entre celles et ceux qui ont les mains dans la terre et celles et ceux qui y mettent pour la première fois les doigts.
 
@@ -228,11 +234,11 @@ Petit modèle (50–60 cm de haut), visible par les enfants à hauteur d’yeux.
 
 ### 🧒 Public bénéficiaire final
 
-* Classes **CP → CM2**  
-* Centres de loisirs  
-* Périscolaire / ALSH  
-* Associations jeunesse  
-* Événements familles / nature, fêtes de l’école, journées du sol, etc.
+- Classes **CP → CM2**
+- Centres de loisirs
+- Périscolaire / ALSH
+- Associations jeunesse
+- Événements familles / nature, fêtes de l’école, journées du sol, etc.
 
 </section>
 
@@ -248,26 +254,26 @@ Petit modèle (50–60 cm de haut), visible par les enfants à hauteur d’yeux.
 
 #### Phase 1 – Préparation (≈ 1 semaine)
 
-* Achat et **récupération du matériel**  
-* Impression des visuels (puzzles, cartes, fiches)  
-* Découpe des formats bruts (bois, carton, plexiglas)  
+- Achat et **récupération du matériel**
+- Impression des visuels (puzzles, cartes, fiches)
+- Découpe des formats bruts (bois, carton, plexiglas)
 
 #### Phase 2 – Fabrication collective (1 journée)
 
 Ateliers simultanés :
 
-* Puzzle **horizons du sol**  
-* Puzzle **faune du sol**  
-* Puzzle **chaînes alimentaires**  
-* Préparation des bocaux pour les tests  
-* Assemblage du **vermicomposteur vitré**  
+- Puzzle **horizons du sol**
+- Puzzle **faune du sol**
+- Puzzle **chaînes alimentaires**
+- Préparation des bocaux pour les tests
+- Assemblage du **vermicomposteur vitré**
 
 #### Phase 3 – Finitions (1 à 3 jours)
 
-* Application d’un **vernis écologique**  
-* Plastification des cartes pédagogiques  
-* Assemblage final de tous les modules  
-* Test d’usage et de **solidité** avec un petit groupe pilote  
+- Application d’un **vernis écologique**
+- Plastification des cartes pédagogiques
+- Assemblage final de tous les modules
+- Test d’usage et de **solidité** avec un petit groupe pilote
 
 </div>
 
@@ -306,25 +312,25 @@ Ateliers simultanés :
 
 **Pour les puzzles**
 
-* Planches de récupération (bois ou carton épais)  
-* Outils de coupe et de travail du bois ou carton  
-* Feutres, peintures **non toxiques**  
-* Vernis écologique de protection  
+- Planches de récupération (bois ou carton épais)
+- Outils de coupe et de travail du bois ou carton
+- Feutres, peintures **non toxiques**
+- Vernis écologique de protection
 
 **Pour les tests du bocal**
 
-* Bocaux en verre (x4 minimum)  
-* Sols variés + un échantillon du potager  
-* Étiquettes résistantes (intérieur / extérieur)  
+- Bocaux en verre (x4 minimum)
+- Sols variés + un échantillon du potager
+- Étiquettes résistantes (intérieur / extérieur)
 
 **Pour le vermicomposteur**
 
-* Plexiglas 2–3 mm (petit format)  
-* Bois fin ou carton renforcé  
-* Vers Eisenia  
-* Compost / litière  
-* Fiches pédagogiques imprimées  
-* Petits outils : loupes, pinceaux, petites cuillères…  
+- Plexiglas 2–3 mm (petit format)
+- Bois fin ou carton renforcé
+- Vers Eisenia
+- Compost / litière
+- Fiches pédagogiques imprimées
+- Petits outils : loupes, pinceaux, petites cuillères…
 
 </div>
 
@@ -332,10 +338,10 @@ Ateliers simultanés :
 
 {{< details title="Précautions & sécurité autour des outils" >}}
 
-* Prévoir un espace de coupe séparé de la zone enfants.  
-* Toujours désigner un·e référent·e « outillage ».  
-* Proposer aux volontaires des lunettes de protection et gants simples lors des découpes.  
-* Anticiper une zone de séchage pour peintures et vernis, à l’abri des manipulations.  
+- Prévoir un espace de coupe séparé de la zone enfants.
+- Toujours désigner un·e référent·e « outillage ».
+- Proposer aux volontaires des lunettes de protection et gants simples lors des découpes.
+- Anticiper une zone de séchage pour peintures et vernis, à l’abri des manipulations.
 
 {{< /details >}}
 
@@ -364,8 +370,8 @@ Ateliers simultanés :
 
 </section>
 
-* **Valorisation du temps bénévole** : offert.  
-* **Budget global demandé** : **200 – 350 €**, selon ce qui peut être récupéré ou donné.  
+- **Valorisation du temps bénévole** : offert.
+- **Budget global demandé** : **200 – 350 €**, selon ce qui peut être récupéré ou donné.
 
 {{< alert >}}
 Un projet **très bas coût** dont le cœur de valeur repose sur l’investissement bénévole, la récupération de matériaux et la réutilisation des outils sur plusieurs années.
@@ -379,11 +385,11 @@ Un projet **très bas coût** dont le cœur de valeur repose sur l’investissem
 
 ### 🌍 Retombées du projet
 
-* Outils **réutilisables** pendant plusieurs années.  
-* Mise en place d’animations de **qualité professionnelle**, adaptées aux cycles scolaires.  
-* Forte visibilité de l’association auprès des **écoles et structures jeunesse** du territoire.  
-* Sensibilisation durable aux thèmes : sol vivant, biodiversité, décomposition, agroécologie.  
-* Création d’un **socle éducatif** aligné avec les programmes scolaires et les enjeux écologiques actuels.  
+- Outils **réutilisables** pendant plusieurs années.
+- Mise en place d’animations de **qualité professionnelle**, adaptées aux cycles scolaires.
+- Forte visibilité de l’association auprès des **écoles et structures jeunesse** du territoire.
+- Sensibilisation durable aux thèmes : sol vivant, biodiversité, décomposition, agroécologie.
+- Création d’un **socle éducatif** aligné avec les programmes scolaires et les enjeux écologiques actuels.
 
 <section style="margin-top:1.5rem; display:grid; grid-template-columns:minmax(0,1.4fr) minmax(0,1fr); gap:2rem;">
 
@@ -391,11 +397,11 @@ Un projet **très bas coût** dont le cœur de valeur repose sur l’investissem
 
 ### ✔️ Points forts pour la commission
 
-* Projet à **bas coût** avec **impact massif**.  
-* Outils ludiques + approche scientifique dès le **CP**.  
-* Forte **mobilisation citoyenne** et bénévolat.  
-* Projet **duplicable** sur plusieurs années et dans d’autres structures.  
-* Ancrage dans les enjeux de **transition écologique** et de **préservation des sols**.  
+- Projet à **bas coût** avec **impact massif**.
+- Outils ludiques + approche scientifique dès le **CP**.
+- Forte **mobilisation citoyenne** et bénévolat.
+- Projet **duplicable** sur plusieurs années et dans d’autres structures.
+- Ancrage dans les enjeux de **transition écologique** et de **préservation des sols**.
 
 </div>
 
