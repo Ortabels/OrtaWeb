@@ -30,15 +30,14 @@ Les supports imaginés puzzles illustrant les horizons du sol, la diversité des
 - Encourager le **lien social intergénérationnel et inclusif** entre bénévoles et participants  
 - Fournir des outils **réutilisables et adaptables** dans divers contextes éducatifs
 
-{{< figure src="/images/bocaux.png" caption="Bocaux d’observation : visualiser la texture et la stratification (sable/limon/argile)." alt="Bocaux d'observation avec strates de sol" >}}
+{{< figure src="/img/bocaux.png" caption="Bocaux d’observation : visualiser la texture et la stratification (sable/limon/argile)." alt="Bocaux d'observation avec strates de sol" >}}
 
-{{< figure src="/images/strates-du-sol.png" caption="Puzzle des horizons du sol : relier strates, racines et matière organique." alt="Illustration des strates du sol pour puzzle pédagogique" >}}
+{{< figure src="/img/strates-du-sol.png" caption="Puzzle des horizons du sol : relier strates, racines et matière organique." alt="Illustration des strates du sol pour puzzle pédagogique" >}}
 
 ## Ce que les enfants apprendrons grace à ces outils
 
 {{< typeit >}}Un monde invisible travaille en silence.{{< /typeit >}}
 
-{{< alert icon="puzzle-piece" >}}
 Avec ces outils, les enfants n’apprennent pas seulement “des notions”. Ils entrent dans une histoire.
 
 Ils découvrent d’abord qu’il existe un monde caché, juste sous leurs chaussures. Un monde qui ne fait pas de bruit, mais qui travaille sans relâche : ça creuse, ça découpe, ça transforme, ça relie. Le puzzle devient alors une carte au trésor : on y replace les morceaux comme on reconstitue un paysage secret, avec ses étages, ses galeries, ses habitants.
@@ -54,16 +53,11 @@ Les bocaux et l’observation, eux, font naître un réflexe précieux : regarde
 
 Et puis il y a le vermicomposteur : une fenêtre sur une transformation presque magique. Les enfants voient le temps à l’œuvre. Ce qui semblait “sale” ou “inutile” devient une richesse. Ils comprennent que la nature ne jette rien : elle recycle, elle répare, elle fabrique du fertile avec des restes.
 
-À la fin, ce qu’ils emportent, c’est souvent simple et puissant :
-
+À la fin, ce qu’ils emportent, c’est souvent simple :
 Sous nos pieds, ça vit.
-
 Ce qui nourrit la terre nourrit aussi les plantes, et donc… nous.
-
 Protéger le sol, c’est protéger un monde entier.
-
-Et dans ce monde, même le plus petit être a une place.
-{{< /alert >}}
+Et dans ce monde, même le plus petit être a sa place et son importance.
 
 ## Action & budgétisation
 
