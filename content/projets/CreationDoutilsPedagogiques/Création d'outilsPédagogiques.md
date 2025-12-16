@@ -28,11 +28,15 @@ Les supports imaginés puzzles illustrant les horizons du sol, la diversité des
 - Favoriser une **pédagogie active** par la manipulation et l’observation directe  
 - Faire expérimenter et assimiler les **principes agroécologiques** au travers de l’expérience  
 - Encourager le **lien social intergénérationnel et inclusif** entre bénévoles et participants  
-- Fournir des outils **réutilisables et adaptables** dans divers contextes éducatifs  
+- Fournir des outils **réutilisables et adaptables** dans divers contextes éducatifs
 
-## Ce que les enfants apprendrons grace a ces outils
+{{< figure src="/images/bocaux.png" caption="Bocaux d’observation : visualiser la texture et la stratification (sable/limon/argile)." alt="Bocaux d'observation avec strates de sol" >}}
 
-{{< typeit >}}Sous nos pieds, un monde invisible travaille en silence : comprendre le sol vivant, c’est apprendre à prendre soin du futur.{{< /typeit >}}
+{{< figure src="/images/strates-du-sol.png" caption="Puzzle des horizons du sol : relier strates, racines et matière organique." alt="Illustration des strates du sol pour puzzle pédagogique" >}}
+
+## Ce que les enfants apprendrons grace à ces outils
+
+{{< typeit >}}Un monde invisible travaille en silence.{{< /typeit >}}
 
 {{< alert icon="puzzle-piece" >}}
 Avec ces outils, les enfants n’apprennent pas seulement “des notions”. Ils entrent dans une histoire.
