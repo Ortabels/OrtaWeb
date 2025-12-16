@@ -8,7 +8,7 @@ author: "Jérémy"
 
 ## Ambition du projet
 
-###{{< typeit >}}Sous nos pieds, un monde fourmille de vie.{{< /typeit >}}###
+{{< typeit >}}Sous nos pieds, un monde fourmille de vie.{{< /typeit >}}
 
 {{< lead >}}Ce projet vise à créer collectivement des **outils pédagogiques ludiques et manipulables**, pour sensibiliser les enfants aux notions de **sol vivant** et d’**agroécologie**. Il s’agit de leur offrir une expérience concrète et immersive des processus biologiques et écologiques cachés sous leurs pieds.{{< /lead >}}
 
@@ -32,27 +32,21 @@ Les supports imaginés puzzles illustrant les horizons du sol, la diversité des
 
 
 {{< figure
-  src="/img/CreationDoutilsPedagogiques/bocaux.png"
+  src="/img/bocaux.png"
   alt="Bocaux d'observation avec strates de sol"
-  caption="Bocaux d’observation : visualiser la texture et la stratification (sable/limon/argile)."
+  caption="Bocaux d’observation : visualiser la texture et la stratification."
 >}}
 
 {{< figure
-  src="/img/CreationDoutilsPedagogiques/strat-sol.png"
+  src="/img/strat-sol.png"
   alt="Illustration des strates du sol pour puzzle pédagogique"
   caption="Puzzle des horizons du sol : relier strates, racines et matière organique."
 >}}
 
-{{< gallery >}}
- <img src="img/bocaux.png" class="grid-w50" />
- <img src="img/strat-sol.png" class="grid-w50" />
-{{< /gallery >}}
-
-
 
 ## Ce que les enfants apprendrons grace à ces outils
 
-###{{< typeit >}}Un monde invisible travaille en silence.{{< /typeit >}}###
+{{< typeit >}}Un monde invisible travaille en silence.{{< /typeit >}}
 
 Avec ces outils, les enfants n’apprennent pas seulement “des notions”. Ils entrent dans une histoire.
 
