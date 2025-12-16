@@ -1,128 +1,92 @@
 ---
 title: "Création d’une mare écologique"
-date: 2025-11-26
-description: "a description"
-tags: ["biodiversite", "tag"]
-authors: "jeremy"
+date: 2025-11-01
+description: "Projet pédagogique autour de la création d’une mare écologique à Ortabels : construction, sensibilisation, ateliers et valorisation de la biodiversité."
+tags: ["biodiversité", "éducation", "collectif", "nature", "pédagogie", "projet écologique"]
+author: "Etienne"
 ---
 
-# Présentation publique
+{{< lead >}}
+Au cœur d’Ortabels, une mare écologique tisse un lien entre terre, eau et vie. Un sanctuaire vibrant, refuge du vivant, et source d’éveil pour tous.
+{{< /lead >}}
 
-La mare écologique Ortabels vise à créer une **zone humide pérenne** sur la micro-ferme,
-pour favoriser la biodiversité (insectes, amphibiens, oiseaux) et servir de support
-pédagogique aux familles et aux écoles.
+{{< badge color="green" >}}Biodiversité{{< /badge >}}
+{{< badge color="teal" >}}Transmission{{< /badge >}}
+{{< badge color="blue" >}}Découverte{{< /badge >}}
+{{< badge color="yellow" >}}Collectif{{< /badge >}}
 
-Le projet prévoit notamment :
+{{< callout color="blue" >}}
+Créer une mare, c’est renforcer la biodiversité locale et offrir un lieu d’apprentissage vivant aux générations présentes et futures.
+{{< /callout >}}
 
-- le creusement d’une mare peu profonde ;
-- la mise en place d’un géotextile et de plantations adaptées ;
-- l’installation d’une signalétique pédagogique.
+{{< lead >}}
+Un projet pour la vie : des habitats, des cycles, un éveil partagé à la richesse du sauvage.
+{{< /lead >}}
 
-Des ateliers de découverte de la faune et de la flore aquatiques pourront être proposés
-à partir du printemps 2026.
+{{< button color="green" href="#action" >}}
+Découvrir les étapes clés
+{{< /button >}}
 
 ---
 
-# INTERNAL
+{{< lead >}}
+Action : jalons et cheminement vers la mare écologique
+{{< /lead >}}
 
-## Cahier des charges complet
+{{< timeline >}}
 
-### 1. Informations générales
+  {{< timelineItem title="Repérage et validation du site" date="Février - Mars" >}}
+  Interventions : Écologues, bénévoles  
+  Ressources : Outils de mesure, zone à délimiter.
+  {{< /timelineItem >}}
 
-- **Titre du projet** : Mare écologique (zone à préciser)
-- **Référence interne** : 2026-MARE-01
-- **Porteur(s)** : _à renseigner_
-- **Autres membres impliqués** : _à renseigner_
-- **Statut** : Idée | Étude | Validé CA | En cours | Terminé
+  {{< timelineItem title="Creusement et formation" date="Avril" >}}
+  Terrassiers, spécialistes écologie  
+  Matériel : Pelles, minipelle, géotextile ou béton écologique.
+  {{< /timelineItem >}}
 
-### 2. Contexte
+  {{< timelineItem title="Mise en eau et plantation" date="Mai" >}}
+  Techniciens, botanistes  
+  Eau de pluie, plantes aquatiques/berge.
+  {{< /timelineItem >}}
 
-- Développer la biodiversité sur la micro-ferme (insectes, amphibiens, oiseaux).
-- Offrir un support pédagogique aux enfants, familles, écoles.
-- Utiliser une partie du terrain pour créer un écosystème humide autonome.
+  {{< timelineItem title="Installation de la signalétique" date="Mai" >}}
+  Animateurs pédagogiques, bénévoles  
+  Bois, panneaux explicatifs.
+  {{< /timelineItem >}}
 
-### 3. Objectifs
+  {{< timelineItem title="Ateliers pédagogiques" date="Dès juin 2026" >}}
+  Animateurs nature, naturalistes  
+  Supports d’ateliers, matériel de terrain.
+  {{< /timelineItem >}}
 
-- Créer une zone humide pérenne favorisant la biodiversité locale.
-- Proposer un support d’observation et d’éducation pour les jeunes publics.
-- Organiser des ateliers nature autour de la mare.
+{{< /timeline >}}
 
-### 4. Description du projet
+---
 
-- **Localisation** : zone à préciser sur la micro-ferme.
-- **Type de mare** :
-  - mare naturelle (creusée + bâche), ou
-  - mare semi-durable (structure béton écologique) si besoin.
-- **Dimensions estimées** : largeur ~X m, profondeur ~Y cm.
-- **Sécurité** : pente douce, clôture légère si nécessaire, signalétique pédagogique.
-- **Étapes** :
-  1. Repérage et validation de la zone.
-  2. Creusement.
-  3. Pose du géotextile ou de la structure.
-  4. Mise en eau progressive (pluie / récupération).
-  5. Plantation de végétaux aquatiques et de berge.
-  6. Installation de panneaux pédagogiques.
+{{< lead >}}
+Budgétisation
+{{< /lead >}}
 
-### 5. Calendrier prévisionnel
+{{< budgétisation >}}
+| Étapes clés                        | Calendrier    | Ressources Humaines                       | Matériel / Budget                                   |
+|------------------------------------|---------------|-------------------------------------------|-----------------------------------------------------|
+| Repérage et validation du site     | Fév. - Mars   | Écologues, bénévoles                      | Outils, délimitation                                |
+| Creusement et formation de la mare | Avril         | Terrassiers, écologie                     | Pelles, minipelle, géotextile/béton écologique      |
+| Mise en eau et plantation          | Mai           | Techniciens, botanistes                   | Eau récoltée, plantes aquatiques/berge              |
+| Installation signalétique          | Mai           | Animateurs, bénévoles                     | Bois, panneaux explicatifs                          |
+| Ateliers pédagogiques              | Dès juin 2026 | Animateurs, naturalistes                  | Supports pédagogiques, terrain                      |
+{{< /budgétisation >}}
 
-- Février–mars : préparation du terrain.
-- Avril : creusement + structure.
-- Mai : mise en eau + plantations.
-- Juin : premiers ateliers familles / scolaires.
+---
 
-### 6. Bénéficiaires
+{{< button color="blue" href="#participez" >}}
+S’engager pour la nature
+{{< /button >}}
 
-- Familles et enfants de Grabels.
-- Classes / centres de loisirs.
-- Adhérents actuels et futurs membres.
-- Plus largement, la biodiversité locale.
+---
 
-### 7. Ressources nécessaires
-
-#### 7.1. Humain
-
-- Compétences : terrassement léger, écologie, animation pédagogique.
-- Bénévoles pressentis : _à lister_.
-- Potentiels intervenants extérieurs : naturaliste / association environnement.
-
-#### 7.2. Matériel
-
-- Outils de creusement (pelles, éventuellement minipelle).
-- Géotextile / bâche EPDM.
-- Plantes aquatiques et de berge.
-- Roches, copeaux, paillage.
-- Panneaux bois ou supports pour la signalétique.
-
-#### 7.3. Budget prévisionnel (ordre de grandeur)
-
-| Poste                      | Montant estimé (€) |
-| -------------------------- | ------------------ |
-| Géotextile / bâche         |                    |
-| Plantes aquatiques / berge |                    |
-| Roches / paillage          |                    |
-| Signalétique               |                    |
-| **Total**                  |                    |
-
-- Autofinancement possible : adhésions, dons.
-- Subvention espérée (Mairie, autres) : à préciser.
-
-### 8. Évaluation du projet
-
-- Nombre de participants aux ateliers.
-- Nombre d’espèces observées (suivi biodiversité).
-- Fréquentation (familles, écoles) sur une saison.
-- Photos avant / après.
-
-### 9. Décision CA
-
-- Date de présentation :
-- Décision : Accepté | À retravailler | Refusé.
-- Commentaires du CA :
-
-### 10. Suivi & Bilan
-
-- Travaux réalisés (dates, description).
-- Difficultés rencontrées.
-- Points positifs.
-- Points à améliorer.
-- Pistes pour une version 2 ou projets liés.
+{{< typeit speed="medium" >}}
+Écouter l’eau, accueillir le vivant, transmettre la nature :  
+ici, chaque geste façonne un élan commun pour une biodiversité retrouvée.
+{{< /typeit >}}
