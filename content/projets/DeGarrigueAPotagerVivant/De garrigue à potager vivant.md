@@ -1,224 +1,59 @@
 ---
-title: "Potager perpétuel pédagogique : de la friche au potager résilient"
-description: "Transformer une friche de garrigue en un potager perpétuel vivant, pédagogique et collectif : un paysage apprenant où le sol, les arbres et les humains co-évoluent sur le long terme."
-date: 2025-12-11
+title: Potager perpétuel
+date: 2025-10-01
+description: Un projet de jardin collectif et agroécologique, pour régénérer la garrigue, transmettre des savoirs et bâtir une communauté résiliente, à travers des actions concrètes, pérennes et pédagogiques.
 tags:
-  - "Agroécologie"
-  - "Pédagogie"
-  - "Forêt-jardin"
-  - "Potager perpétuel"
-  - "Garrigue"
-categories:
-  - "Projets"
+  - terre
+  - biodiversité
+  - agroécologie
+  - transmission
+  - résilience
+  - communauté
+  - pédagogie
+author: Jérémy
 ---
 
-{{< badge >}}Pédagogie vivante{{< /badge >}} {{< badge >}}Agroécologie locale{{< /badge >}} {{< badge >}}Biodiversité en mouvement{{< /badge >}}
+## Intention
 
-{{< lead >}}
-Transformer une friche de garrigue en un potager perpétuel vivant, pédagogique et collectif : un paysage apprenant où le sol, les arbres et les humains co-évoluent sur le long terme.
-{{< /lead >}}
+Renaître avec la garrigue, cultiver le vivant : ce projet de potager n’est pas qu’un espace de culture, c’est la manifestation d’un lien profond retrouvé avec notre terre. Il s’agit de bâtir ensemble un écosystème vivant, éducatif et nourricier, où la biodiversité et les humains se valorisent mutuellement, dans un esprit d’écoute et de respect.
 
-{{< typeit tag="h1" lifeLike="true" speed="45" startDelay="400" breakLines="false" >}}
-De la friche à la forêt-jardin pédagogique.
-{{< /typeit >}}
+## Pourquoi c'est important
 
-Ici, chaque racine, chaque pierre et chaque goutte de pluie participent à une même histoire : celle d’un jardin qui ne s’arrête jamais, qui mûrit avec le temps, au rythme des saisons et des personnes qui l’habitent.
+Face à la dégradation des sols, à l'érosion de la biodiversité et à la fragilité du lien social, repenser notre façon de “faire jardin” devient une urgence collective. Un potager durable contribue à restaurer le vivant, à incarner des alternatives concrètes et à transmettre des pratiques respectueuses, tout en fédérant citoyens et générations autour d’un projet commun.
 
-## Un projet à inventer, pas à consommer
+## Ce que ça apporte concrètement
 
-Un projet à inventer, pas à consommer : un lieu où l’on vient autant pour apprendre que pour récolter, où chaque geste est pensé pour durer.
+- Restauration de la fertilité du sol, augmentation de la biodiversité locale.
+- Création d’un espace de transmission, d’apprentissage et de partage accessible à tous.
+- Réduction de l’empreinte écologique liée à l’alimentation et à la gestion des déchets organiques.
+- Renforcement de la cohésion sociale et valorisation de la mémoire collective liée au territoire.
+- Apport d’une méthode reproductible pour d'autres jardins collectifs ou initiatives écologiques.
 
-{{< button >}}
-✅ Je soutiens la création de ce potager perpétuel pédagogique
-{{< /button >}}
+## Illustration / preuve
 
-{{< figure src="/TODO.jpg" alt="Croquis d’intention d’une friche de garrigue qui se transforme en forêt-jardin nourricière." caption="Croquis d’intention : une friche de garrigue qui glisse vers une forêt-jardin nourricière." >}}
+Ce projet s’appuie sur des méthodes éprouvées d’agroécologie régénérative (diagnostic du sol, compostage, association végétale, haies comestibles). Les retours d’expérience issues d’autres jardins collectifs montrent une amélioration mesurable de la faune du sol, la fertilité, et un impact positif sur la dynamique de quartier. L'ouverture à des ateliers et la documentation du projet garantissent la transmission des apprentissages.
 
-## D’une terre oubliée à un paysage apprenant
+## Action & Budgétisation
 
-### Pourquoi ce projet ?
+Voici notre plan d’action détaillé, chiffré, adaptable selon les compétences disponibles et le rythme des saisons :
 
-Réhabiliter une friche, c’est réécrire une histoire : celle d’un sol que l’on écoute, d’une biodiversité que l’on observe, et d’un territoire que l’on cultive ensemble, sans chercher la performance mais la durabilité et la transmission.
+[timeline]
+  [timelineItem title="Diagnostic et observation" duration="1 mois" cost="2 000 EUR"]Étude complète du site : topographie, biodiversité, ressources en eau, qualité du sol. Interventions d’experts et participation des bénévoles sur le terrain.[/timelineItem]
+  [timelineItem title="Conception du design" duration="1 mois" cost="1 500 EUR"]Planification des différentes zones pour intégrer de manière harmonieuse la diversité du vivant, en collaboration avec l’équipe projet.[/timelineItem]
+  [timelineItem title="Préparation du sol" duration="2 semaines" cost="1 000 EUR"]Travaux de nettoyage, paillage et compostage, afin de favoriser l’accueil des nouvelles plantations.[/timelineItem]
+  [timelineItem title="Plantation et aménagement" duration="1 mois" cost="3 000 EUR"]Mise en place des arbres, haies et plantes vivaces, encadrée par des bénévoles engagés.[/timelineItem]
+  [timelineItem title="Animation et pédagogie" duration="continu" cost="2 500 EUR /an"]Organisation d’ateliers, échanges et rencontres pour fédérer les participants et transmettre les connaissances.[/timelineItem]
+  [timelineItem title="Suivi et documentation" duration="continu" cost="1 000 EUR /an"]Observation régulière, ajustements et conservation des savoirs pour assurer la pérennité du projet.[/timelineItem]
+[/timeline]
 
-{{< alert >}}
-Nous proposons de reconvertir une friche de garrigue en **potager perpétuel pédagogique**, pensé non comme une ferme productiviste, mais comme un lieu :
-
-- d’apprentissage sensible du vivant,
-- d’expérimentation agroécologique,
-- de nature vivante partagée au cœur du territoire.
-
-Avec quelques principes simples :
-
-- arbres fruitiers,
-- plantes vivaces et pérennes,
-- haies variées et refuges à biodiversité,
-- sol respecté et toujours couvert,
-- gestion douce, sobre et locale de l’eau,
-
-nous pouvons créer un espace fertile, durable, accueillant pour la faune et la flore, et accessible à tous.
-
-Ce potager perpétuel deviendra un **outil pédagogique concret** :
-
-- un terrain d’observation,
-- un espace d’essais et de tâtonnements,
-- un lieu de partage de savoir-faire,
-
-pour que chacun puisse apprendre à concevoir et entretenir un espace vert durable, sans équipements lourds ni intrants chimiques.
-{{< /alert >}}
-
-## Lire le lieu avant d’y planter
-
-Avant les plantations, le potager perpétuel commence par un geste d’écoute : observer les courbes du terrain, les vents dominants, les zones d’ombre, les passages de l’eau, les traces déjà laissées par le vivant.
-
-Ce travail de lecture permet de dessiner un **design sobre et intelligent**, qui s’appuie sur la topographie plutôt que de la contraindre.
-
-{{< gallery >}}
-<img src="/TODO-zonage-1.jpg" class="grid-w50 md:grid-w50" />
-<img src="/TODO-zonage-2.jpg" class="grid-w50 md:grid-w50" />
-{{< /gallery >}}
-
-## Haies · refuges · cheminements
-
-Le paysage se structure par petites touches : des haies qui découpent les espaces, des refuges pour la faune, des cheminements doux qui invitent à parcourir le lieu et à l’observer.
+**Investissement initial estimé** : 9 500 EUR  
+**Coûts annuels approximatifs** : 3 500 EUR  
+Un projet collectif, à structure légère, conçu pour durer.
 
 ---
 
-## 📚 Objectifs pédagogiques et éducatifs
-
-### Comprendre le vivant
-
-Le potager perpétuel devient une fenêtre ouverte sur le sol et ses habitants invisibles. On y découvre que la fertilité n’est pas un produit, mais une relation.
-
-Dans ce potager perpétuel, le sol n’est pas un simple support de culture : c’est le cœur du système. On y apprend à :
-
-- découvrir le fonctionnement du sol (structure, matière organique, cycles),
-- observer les interactions entre plantes, sol, champignons, microfaune et insectes,
-- comprendre le rôle des arbres et des plantes pérennes dans la santé d’un écosystème.
-
-### Sensibiliser aux pratiques agroécologiques
-
-On apprend en passant de la théorie à la terre : des gestes simples, reproductibles, à la portée de tous.
-
-- Compost, paillage, entretien d’un sol vivant.
-- Cultures pérennes, haies, refuges à biodiversité.
-- Gestion douce et économe de l’eau.
-
-Des gestes simples, adaptables et respectueux de l’environnement, qui peuvent être reproduits dans un jardin, une cour d’école ou un espace public.
-
-### Favoriser l’engagement collectif
-
-Le potager est un **catalyseur de participation** : on vient planter, apprendre, transmettre.
-
-- Mobiliser adhérents, bénévoles, habitants.
-- Impliquer chacun dans les ateliers et travaux collectifs.
-- Co-construire un projet de territoire, ancré dans le réel.
-
-### Créer un laboratoire vivant
-
-Année après année, le lieu devient un **laboratoire à ciel ouvert** : essais, observations, retours d’expérience.
-
-- Observer sol, plantes et biodiversité sur plusieurs années.
-- Mesurer les effets des pratiques agroécologiques.
-- Documenter, partager, transmettre les apprentissages.
+Un jardin au cœur de la garrigue, espace d’écoute et d’apprentissages, où chaque jour s’écrit la mémoire du vivant et le récit partagé d’une terre en renaissance.
 
 ---
 
-## 🛠️ Principes et organisation du projet
-
-### Un design agroécologique
-
-Le design du potager perpétuel s’inspire des forêts naturelles : plusieurs strates, des rôles complémentaires, des habitats pour la biodiversité.
-
-- Arbres fruitiers adaptés au climat local.
-- Plantes vivaces nourricières et aromatiques.
-- Haies champêtres multifonctions.
-- Zones de bois mort et de pierres pour la faune.
-- Jardins potagers en sous-étage, intégrés au reste du système.
-
-{{< chart >}}
-type: 'doughnut',
-data: {
-labels: ['Arbres & haies', 'Plantes vivaces', 'Zones potagères', 'Refuges sauvages'],
-datasets: [{
-data: [35, 25, 25, 15],
-}]
-}
-{{< /chart >}}
-
-### Une gestion écologique de l’eau et du sol
-
-L’eau et le sol sont au cœur du projet.
-
-- Sol vivant : compost, paillage, absence d’intrants chimiques.
-- Irrigation douce, adaptée, sobre.
-- Réduction des besoins en eau grâce au design (ombrage, couverture du sol, haies coupe-vent).
-
-### Une participation collective
-
-Le projet se construit dans le temps avec les personnes qui le font vivre.
-
-- Chantiers collectifs ouverts.
-- Ateliers pédagogiques pour différents publics.
-- Valorisation des savoir-faire locaux et des pratiques déjà présentes sur le territoire.
-
-### Un projet évolutif
-
-Le potager perpétuel est une œuvre vivante qui s’ajuste avec le temps : les plantations, les usages, les circulations peuvent évoluer au fil des retours d’expérience, des saisons et des besoins.
-
----
-
-## 🌱 Valeur ajoutée du projet
-
-### Un outil pédagogique concret
-
-- Un terrain réel, vivant, où l’on apprend en pratiquant.
-- Un support idéal pour des ateliers, visites, temps d’observation.
-- Un lieu qui rend visibles des notions souvent abstraites : cycles du sol, biodiversité, eau, climat.
-
-### Un projet accessible
-
-- Modèle sobre, reproductible.
-- Peu d’équipements nécessaires.
-- Adapté à des budgets modestes et à des contextes variés (écoles, associations, collectivités, tiers-lieux).
-
-### Un lieu de lien social
-
-- Participation des habitants et des usagers du territoire.
-- Création de lien et d’engagement autour d’un lieu commun.
-- Support pour des animations, des événements, des rencontres.
-
-### Un modèle inspirant
-
-- **Démonstrateur d’agroécologie locale**.
-- Source d’inspiration pour d’autres lieux en garrigue ou en milieu méditerranéen.
-- Possibilité de dupliquer le modèle ailleurs, adapté à d’autres contextes.
-
----
-
-## ✅ Pourquoi soutenir ce projet
-
-### Un fort impact pédagogique
-
-Le potager permet de parler de sol, de biodiversité, d’eau, de climat… de manière concrète, sensible et accessible, en reliant directement les enjeux globaux aux gestes du quotidien.
-
-### Un coût modéré pour un impact durable
-
-- Investissements raisonnables.
-- Bénéfices écologiques, pédagogiques et sociaux sur plusieurs années.
-- Création d’un **patrimoine vivant pour le territoire**.
-
-### Un projet aligné avec des valeurs fortes
-
-- Éducation populaire.
-- Sobriété et soin du vivant.
-- Partage, justice environnementale et ancrage local.
-
-### Un potentiel de diffusion
-
-Ce qui s’expérimente ici peut être **transmis, documenté et reproduit** ailleurs : autres friches, cours d’écoles, jardins partagés, espaces publics.
-
----
-
-{{< button >}}
-✅ Je soutiens la création de ce potager perpétuel pédagogique
-{{< /button >}}
+[button label="S’impliquer et faire germer le projet"]
