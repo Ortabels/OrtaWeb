@@ -1,7 +1,7 @@
 ---
 title: Potager perpétuel
 date: 2025-10-01
-description: Un projet de jardin collectif et agroécologique, pour régénérer la garrigue, transmettre des savoirs et bâtir une communauté résiliente, à travers des actions concrètes, pérennes et pédagogiques.
+description: Un projet de jardin agroécologique, pour régénérer le sol sur une friche de garrigue, transmettre des savoirs et bâtir une communauté résiliente, à travers des actions concrètes, pérennes et pédagogiques.
 tags:
   - terre
   - biodiversité
