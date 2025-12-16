@@ -8,7 +8,7 @@ author: "Jérémy"
 
 ## Ambition du projet
 
-{{< typeit >}}Sous nos pieds, un monde fourmille de vie.{{< /typeit >}}
+###{{< typeit >}}Sous nos pieds, un monde fourmille de vie.{{< /typeit >}}###
 
 {{< lead >}}Ce projet vise à créer collectivement des **outils pédagogiques ludiques et manipulables**, pour sensibiliser les enfants aux notions de **sol vivant** et d’**agroécologie**. Il s’agit de leur offrir une expérience concrète et immersive des processus biologiques et écologiques cachés sous leurs pieds.{{< /lead >}}
 
@@ -37,7 +37,7 @@ Les supports imaginés puzzles illustrant les horizons du sol, la diversité des
 
 ## Ce que les enfants apprendrons grace à ces outils
 
-{{< typeit >}}Un monde invisible travaille en silence.{{< /typeit >}}
+###{{< typeit >}}Un monde invisible travaille en silence.{{< /typeit >}}###
 
 Avec ces outils, les enfants n’apprennent pas seulement “des notions”. Ils entrent dans une histoire.
 
