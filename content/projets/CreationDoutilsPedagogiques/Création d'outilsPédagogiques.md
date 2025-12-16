@@ -85,4 +85,7 @@ Et dans ce monde, même le plus petit être a sa place et son importance.
   {{< /timelineItem >}}
 {{< /timeline >}}
 
-{{< button href="#" >}}Participer au projet{{< /button >}} 
+{{< button href="https://www.ortabels.fr/contact/" target="_blank" rel="noopener noreferrer" >}}
+Participer au projet
+{{< /button >}}
+
