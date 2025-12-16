@@ -6,7 +6,7 @@ tags: ["sol vivant", "agroécologie", "pédagogie ludique", "éco-responsabilit�
 author: "Jérémy"
 ---
 
-## Intention
+## Ambition du projet
 
 {{< typeit >}}Sous nos pieds, un monde fourmille de vie.{{< /typeit >}}
 
@@ -14,13 +14,13 @@ author: "Jérémy"
 
 {{< badge >}}Sol vivant{{< /badge >}} {{< badge >}}Agroécologie{{< /badge >}} {{< badge >}}Pédagogie ludique{{< /badge >}} {{< badge >}}Éco-responsabilité{{< /badge >}}
 
-## Pourquoi c'est important
+## Pourquoi faire découvrir le sol vivant
 
 {{< alert icon="seedling" >}}
 Le sol est un écosystème complexe et vital, support de la vie et ressource précieuse. Comprendre son fonctionnement et sa richesse est essentiel pour adopter une relation respectueuse avec la nature et encourager des pratiques agroécologiques durables. En sensibilisant les enfants dès l’école primaire, le projet contribue à ancrer des comportements éco-responsables et à développer une conscience environnementale durable.
 {{< /alert >}}
 
-## Ce que ça apporte concrètement
+## Des outils concrets pour apprendre avec les mains et les yeux
 
 Les supports imaginés—puzzles illustrant les horizons du sol, la diversité des organismes et les chaînes alimentaires ; bocaux d’observation ; vermicomposteur—permettent de :
 
@@ -30,10 +30,35 @@ Les supports imaginés—puzzles illustrant les horizons du sol, la diversité d
 - Encourager le **lien social intergénérationnel et inclusif** entre bénévoles et participants  
 - Fournir des outils **réutilisables et adaptables** dans divers contextes éducatifs  
 
-## Illustration / preuve
+## Ce que les enfants apprendrons grace a ces outils
+
+{{< typeit >}}Sous nos pieds, un monde invisible travaille en silence : comprendre le sol vivant, c’est apprendre à prendre soin du futur.{{< /typeit >}}
 
 {{< alert icon="puzzle-piece" >}}
-Lors d’un chantier collectif en forêt, des bénévoles ont découpé et peint ensemble les pièces du puzzle « Qui vit dans le sol ? », partageant savoirs et anecdotes. Rapidement, les enfants regroupés autour d’une bâche ont reconstitué la chaîne alimentaire du sol en associant les formes aux rôles des organismes, captivés par cette découverte visuelle et tactile. Plus tard, l’observation d’un vermicomposteur vitré, installé à leur hauteur, a éveillé leur curiosité sur le travail des vers de terre et les processus naturels de décomposition.
+Avec ces outils, les enfants n’apprennent pas seulement “des notions”. Ils entrent dans une histoire.
+
+Ils découvrent d’abord qu’il existe un monde caché, juste sous leurs chaussures. Un monde qui ne fait pas de bruit, mais qui travaille sans relâche : ça creuse, ça découpe, ça transforme, ça relie. Le puzzle devient alors une carte au trésor : on y replace les morceaux comme on reconstitue un paysage secret, avec ses étages, ses galeries, ses habitants.
+
+Peu à peu, ils comprennent que le sol n’est pas un “support”, mais une maison vivante.
+Dans un horizon, on trouve la litière : le tapis de feuilles, le début du voyage. Plus bas, la matière se mélange, se décompose, devient plus sombre, plus riche. Chaque couche raconte une étape : ce qui tombe, ce qui se transforme, ce qui nourrit.
+
+Puis viennent les habitants. Certains sont des recycleurs : ils transforment les restes en ressources. D’autres sont des chasseurs. D’autres encore sont des bâtisseurs. Les enfants apprennent à reconnaître les rôles : qui fragmente, qui digère, qui aère, qui transporte. Et soudain, la “petite bête” n’est plus juste une petite bête : c’est un métier dans la grande ville du sol.
+
+Avec la chaîne alimentaire, ils voient que tout est lié : la vie circule comme une histoire qu’on se raconte de bouche en bouche. “Si celui-là disparaît, qu’est-ce qui change ?” Ils touchent du doigt une idée immense : la diversité rend le monde plus solide.
+
+Les bocaux et l’observation, eux, font naître un réflexe précieux : regarder avant de juger. Comparer, décrire, se poser des questions. Le sol devient un terrain d’enquête. On apprend à être curieux, précis, patient.
+
+Et puis il y a le vermicomposteur : une fenêtre sur une transformation presque magique. Les enfants voient le temps à l’œuvre. Ce qui semblait “sale” ou “inutile” devient une richesse. Ils comprennent que la nature ne jette rien : elle recycle, elle répare, elle fabrique du fertile avec des restes.
+
+À la fin, ce qu’ils emportent, c’est souvent simple et puissant :
+
+Sous nos pieds, ça vit.
+
+Ce qui nourrit la terre nourrit aussi les plantes, et donc… nous.
+
+Protéger le sol, c’est protéger un monde entier.
+
+Et dans ce monde, même le plus petit être a une place.
 {{< /alert >}}
 
 ## Action & budgétisation
