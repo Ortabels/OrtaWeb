@@ -15,9 +15,8 @@ Au cœur d’Ortabels, une mare écologique tisse un lien entre terre, eau et vi
 {{< badge color="blue" >}}Découverte{{< /badge >}}
 {{< badge color="yellow" >}}Collectif{{< /badge >}}
 
-{{< callout color="blue" >}}
 Créer une mare, c’est renforcer la biodiversité locale et offrir un lieu d’apprentissage vivant aux générations présentes et futures.
-{{< /callout >}}
+
 
 {{< lead >}}
 Un projet pour la vie : des habitats, des cycles, un éveil partagé à la richesse du sauvage.
