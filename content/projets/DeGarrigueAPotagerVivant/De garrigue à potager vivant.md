@@ -1,78 +1,80 @@
 ---
-title: Potager perpétuel
-date: 2025-10-01
-description: Un projet pédagogique de potager agroécologique sur 40m², pour transmettre des pratiques régénératives, observables et accessibles, favorisant biodiversité, lien au vivant et apprentissage collectif.
+title: "Potager perpétuel"
+date: 2025-10-10
+description: "Un projet pédagogique de potager vivrier en garrigue, pour la régénération des sols, le partage des savoirs, et la résilience collective à travers l'expérimentation écologique."
 tags:
-  - Potager
-  - Agroécologie
-  - Biodiversité
-  - Transmission
-  - Projet pédagogique
-  - Durable
-author: Jérémy
+  - écologie
+  - pédagogie
+  - permaculture
+  - biodiversité
+  - partage
+author: "Jérémy"
 ---
 
-[lead]Au creux de la garrigue, un fragment de terre révèle son secret[/lead]
+{{< lead >}}Au creux de la garrigue, naît un souffle fragile et généreux.{{< /lead >}}
 
-[callout]Renaître avec le vivant, cultiver le lien subtil entre le sol, les saisons et les gestes patients[/callout]
+{{< badge >}} Équilibre vivant {{< /badge >}} {{< badge >}} Partage & sagesse {{< /badge >}} {{< badge >}} Regénération {{< /badge >}}
 
-Ce potager modeste, de 40 mètres carrés à peine, écrit un récit d’harmonie et d’attention.  
-Chaque plante, chaque insecte, chaque pierre participe à un équilibre fragile et précieux.
+{{< typeit lifeLike=true >}}
+Quarante mètres carrés suffisent pour faire naître un potager où chaque pierre, plante ou insecte tisse un équilibre profond. Plus qu’un espace de production, ce lieu cultive une sagesse partagée entre humain et nature, célébrant le vivant dans toute sa complexité.
+{{< /typeit >}}
 
-[badge]Respect[/badge] [badge]Transmission[/badge] [badge]Agroécologie[/badge] [badge]Biodiversité[/badge]
+{{< lead >}}Regénérer la terre, ressouder les liens humains.{{< /lead >}}
 
-[callout]Un acte de soin qui dépasse la simple production alimentaire[/callout]  
-Un refuge pour la biodiversité, un point de rencontre entre humains et nature,  
-un laboratoire vivant où s’apprennent les gestes d’une agroécologie en mouvement.
+{{< badge >}} Sols vivants {{< /badge >}} {{< badge >}} Communautés solidaires {{< /badge >}}
 
-[lead]Agir concrètement, renouer avec le vivant, réinventer nos manières de faire ensemble[/lead]
+Dans un monde où sols et liens sociaux s’étiolement, ce potager démontre qu’à petite échelle, il est possible de redonner souffle à la terre et de retisser la solidarité. Restaurer la vie, du bourdonnement des abeilles aux micro-organismes invisibles, devient un acte essentiel.
 
-Dans un monde où les sols s’appauvrissent et le lien social se fragilise,  
-ce projet porte un message clair et accessible : même à petite échelle, c’est possible.
+{{< button href="#actions" target="_self" >}}Voir les actions concrètes{{< /button >}}
 
-[callout]Ce jardin ne laisse pas la place à l’utopie abstraite, mais révèle ses effets au quotidien[/callout]  
-Amélioration de la qualité des sols, protection, apport de biodiversité locale –  
-des pollinisateurs aux micro-organismes.
+{{< lead >}}Un laboratoire vivant, une expérience partagée.{{< /lead >}}
 
-Un espace d’apprentissage ouvert à toutes et tous :  
-compost, paillage, associations végétales et partage de savoir-faire.
+{{< badge >}} Biodiversité {{< /badge >}} {{< badge >}} Savoirs transmis {{< /badge >}}
 
-[badge]Compostage[/badge] [badge]Paillage[/badge] [badge]Savoirs partagés[/badge]
+On cultive le compost, on protège la terre par le paillage, on associe les plantes pour leur santé mutuelle. Le jardin s’ouvre à tous, terrain fertile pour échanger, expérimenter, transmettre ; chaque geste simple participe à la vigueur du sol et à la résilience commune.
 
-[callout]Un collectif qui transforme chaque rendez-vous en enrichissement mutuel[/callout]
+{{< lead >}}Une démarche progressive et collective{{< /lead >}}
 
-Ces pratiques agroécologiques régénératives éprouvées, adaptées à petite échelle, reposent sur :  
-- Observation attentive du terrain  
-- Maintien d’une couverture permanente du sol  
-- Compostage maîtrisé  
-- Gestion douce de l’eau
+{{< badge >}} Observation {{< /badge >}} {{< badge >}} Participation {{< /badge >}} {{< badge >}} Pédagogie {{< /badge >}}
 
-[badge]Durabilité[/badge] [badge]Simplicité[/badge] [badge]Efficacité[/badge]
+{{< button href="#budget" target="_self" >}}Découvrir la budgétisation{{< /button >}}
 
-[lead]Des techniques accessibles pour des résultats visibles rapidement[/lead]  
-La vie animale revient, les plantes gagnent en vigueur.
+{{< lead >}}Actions & étapes clés{{< /lead >}}
 
-[callout]Un projet pédagogique durable, avec ateliers et documentation pour inspirer d’autres initiatives[/callout]
+{{< timeline >}}
+{{< timelineItem icon="leaf" header="Diagnostic du terrain" badge="Départ" subheader="Analyse & observation" >}}
+Première étape : analyser sol, biodiversité, exposition afin de comprendre les forces et faiblesses du futur jardin.
+{{< /timelineItem >}}
+{{< timelineItem icon="layout" header="Conception & planification" badge="Design du potager" >}}
+Élaboration du plan de cultures, choix des associations bénéfiques, programmation saisonnière.
+{{< /timelineItem >}}
+{{< timelineItem icon="seedling" header="Préparation du sol" badge="Fertilité" >}}
+Compostage, amendement, paillage : rendre la terre accueillante, protéger et nourrir le sol naturellement.
+{{< /timelineItem >}}
+{{< timelineItem icon="flower" header="Plantation & aménagement" badge="Vie en place" >}}
+Installation des cultures, plantations, structures de protection : donner vie au plan.
+{{< /timelineItem >}}
+{{< timelineItem icon="users" header="Ateliers pédagogiques" badge="Savoir partagé" >}}
+Animations mensuelles ou trimestrielles pour apprendre ensemble et diffuser les pratiques.
+{{< /timelineItem >}}
+{{< timelineItem icon="clipboard" header="Suivi & documentation" badge="Pérennité" subheader="Évaluation continue" >}}
+Monitoring biologique, documentation, mise à disposition de ressources pour ancrer le projet dans la durée.
+{{< /timelineItem >}}
+{{< /timeline >}}
 
-[budgétisation]  
-| Étape                    | Durée estimée            | Actions principales                                   | Budget estimé (EUR) |  
-|-------------------------|-------------------------|----------------------------------------------------|--------------------|  
-| Diagnostic du terrain   | 2 à 3 demi-journées     | Tests simples (pH, texture, infiltration), observation | 150 à 300          |  
-| Conception du potager   | 1 à 2 séances           | Planification des zones, choix des cultures          | 0 à 100            |  
-| Préparation du sol      | 1 à 2 jours             | Apport de compost, paillage, récupération locale     | 200 à 600          |  
-| Plantation et aménagement | 1 à 2 jours           | Installation de plants, bordures, tuteurs             | 250 à 900          |  
-| Animation pédagogique   | Sur une année           | Ateliers, supports pédagogiques                        | 150 à 500          |  
-| Suivi et documentation  | Annuel                  | Carnet de bord, photos, observations                  | 0 à 200            |  
-[/budgétisation]
+{{< lead >}}Budgétisation{{< /lead >}}
 
-[lead]Investissement initial entre 600 et 1 900 euros — coûts de fonctionnement annuels entre 150 et 700 euros[/lead]
+| Étapes du projet              | Description                                               | Coût estimé (euros)           | Durée approximative          |
+|------------------------------|-----------------------------------------------------------|----------------------------|-----------------------------
+| Diagnostic du terrain        | Analyse du sol, de la biodiversité et des conditions     | 100 - 300                   | 1 à 2 semaines              |
+| Conception et planification  | Élaboration du plan de culture et choix des associations | 100 - 200                   | 1 semaine                   |
+| Préparation du sol           | Compostage, amendement, paillage                          | 150 - 400                  | 2 à 3 semaines              |
+| Plantation et aménagement    | Mise en place des plantes, installation des protections  | 150 - 500                   | 1 à 2 semaines              |
+| Ateliers pédagogiques        | Sessions d’apprentissage collectif et échanges           | 150 - 350                   | Régulier (mensuel/trimestriel) |
+| Suivi et documentation       | Monitoring, rapports, ressources pédagogiques            | 50 - 150                    | Continu                     |
 
-[callout]Simplicité des gestes, patience des temps longs, force collective[/callout]  
-Ce petit jardin devient un vivant espace d’expérimentation et de résilience.
+{{< button href="#rejoindre" target="_self" >}}Rejoindre le mouvement{{< /button >}}
 
-[typeit]Quarante mètres carrés à cultiver,  
-Apprendre à faire moins, mais mieux,  
-Tisser peu à peu un nouveau rapport au sol  
-Et à la vie qui l’habite.[/typeit]
-
-[button url="#contact"]Rejoindre le projet[/button]
+{{< typeit >}}
+Patience et simplicité façonnent une résilience partagée. Chaque geste humble devient espoir, chaque apprentissage, une vitalité retrouvée.
+{{< /typeit >}}
