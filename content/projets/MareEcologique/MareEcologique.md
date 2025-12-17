@@ -67,7 +67,6 @@ Action : jalons et cheminement vers la mare écologique
 Budgétisation
 {{< /lead >}}
 
-{{< budgétisation >}}
 | Étapes clés                        | Calendrier    | Ressources Humaines                       | Matériel / Budget                                   |
 |------------------------------------|---------------|-------------------------------------------|-----------------------------------------------------|
 | Repérage et validation du site     | Fév. - Mars   | Écologues, bénévoles                      | Outils, délimitation                                |
@@ -75,7 +74,6 @@ Budgétisation
 | Mise en eau et plantation          | Mai           | Techniciens, botanistes                   | Eau récoltée, plantes aquatiques/berge              |
 | Installation signalétique          | Mai           | Animateurs, bénévoles                     | Bois, panneaux explicatifs                          |
 | Ateliers pédagogiques              | Dès juin 2026 | Animateurs, naturalistes                  | Supports pédagogiques, terrain                      |
-{{< /budgétisation >}}
 
 ---
 
