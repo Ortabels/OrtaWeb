@@ -7,7 +7,6 @@ tags:
   - pédagogie
   - permaculture
   - biodiversité
-  - partage
 author: "Jérémy"
 ---
 
@@ -68,7 +67,7 @@ Monitoring biologique, documentation, mise à disposition de ressources pour anc
 |------------------------------|-----------------------------------------------------------|----------------------------|-----------------------------
 | Diagnostic du terrain        | Analyse du sol, de la biodiversité et des conditions     | 100 - 300                   | 1 à 2 semaines              |
 | Conception et planification  | Élaboration du plan de culture et choix des associations | 100 - 200                   | 1 semaine                   |
-| Préparation du sol           | Compostage, amendement, paillage                          | 150 - 400                  | 2 à 3 semaines              |
+| Préparation du sol           | Compostage, amendement, paillage                         | 150 - 400                   | 2 à 3 semaines              |
 | Plantation et aménagement    | Mise en place des plantes, installation des protections  | 150 - 500                   | 1 à 2 semaines              |
 | Ateliers pédagogiques        | Sessions d’apprentissage collectif et échanges           | 150 - 350                   | Régulier (mensuel/trimestriel) |
 | Suivi et documentation       | Monitoring, rapports, ressources pédagogiques            | 50 - 150                    | Continu                     |
