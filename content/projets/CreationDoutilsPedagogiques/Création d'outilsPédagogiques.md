@@ -31,17 +31,10 @@ Les supports imaginés puzzles illustrant les horizons du sol, la diversité des
 - Fournir des outils **réutilisables et adaptables** dans divers contextes éducatifs
 
 
-{{< figure
-  src="img_projet/bocaux.png"
-  alt="Bocaux d'observation avec strates de sol"
-  caption="Bocaux d’observation : visualiser la texture et la stratification."
->}}
-
-{{< figure
-  src="img_projet/strat-sol.png"
-  alt="Illustration des strates du sol pour puzzle pédagogique"
-  caption="Puzzle des horizons du sol : relier strates, racines et matière organique."
->}}
+{{< gallery >}}
+  <img src="img_projet/bocaux.png" alt="Bocaux d'observation avec strates de sol" class="grid-w100 md:grid-w50" />
+  <img src="img_projet/strat-sol.png" alt="Illustration des strates du sol pour puzzle pédagogique" class="grid-w100 md:grid-w50" />
+{{< /gallery >}}
 
 
 ## Ce que les enfants apprendrons grace à ces outils
