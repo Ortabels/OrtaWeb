@@ -59,7 +59,7 @@ Veiller à l’arrosage, ajuster l’ombrage, garantir une croissance harmonieus
 
 {{< lead >}}Budgétisation indicative{{< /lead >}}
 
-{{< budgétisation >}}
+
 | Étape                  | Description                                 | Durée estimée | Coût estimé (€) |
 |------------------------|---------------------------------------------|---------------|-----------------|
 | Conception des pergolas | Plans adaptés aux besoins des cultures       | 2 semaines    | 500             |
@@ -67,7 +67,7 @@ Veiller à l’arrosage, ajuster l’ombrage, garantir une croissance harmonieus
 | Installation           | Montage des pergolas et aménagements associés | 2 semaines    | 1 000           |
 | Plantation             | Mise en place des kiwis, vigne et fraisiers | 1 semaine     | 300             |
 | Suivi et ajustements   | Surveillance, arrosage et adaptation post-installation  | 3 mois        | 400             |
-{{< /budgétisation >}}
+
 
 {{< badge >}}Projet durable{{< /badge >}}  
 {{< badge >}}Nature respectée{{< /badge >}}  
