@@ -32,8 +32,12 @@ Les supports imaginés puzzles illustrant les horizons du sol, la diversité des
 
 
 {{< gallery >}}
-  <img src="img_projet/bocaux.png" alt="Bocaux d'observation avec strates de sol" class="grid-w1000 md:grid-w500" />
-  <img src="img_projet/strat-sol.png" alt="Illustration des strates du sol pour puzzle pédagogique" class="grid-w1000 md:grid-w500" />
+  <img src="img_projet/bocaux.png"
+       alt="Bocaux d'observation avec strates de sol"
+       class="grid-w100 md:grid-w50" />
+  <img src="img_projet/strat-sol.png"
+       alt="Illustration des strates du sol pour puzzle pédagogique"
+       class="grid-w100 md:grid-w50" />
 {{< /gallery >}}
 
 
