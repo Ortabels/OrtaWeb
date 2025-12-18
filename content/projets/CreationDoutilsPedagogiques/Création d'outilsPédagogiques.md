@@ -38,7 +38,7 @@ Les supports imaginés puzzles illustrant les horizons du sol, la diversité des
 >}}
 
 {{< figure
-  src=""projets/creationdoutilspedagogiques/img/strat-sol.png"
+  src="projets/creationdoutilspedagogiques/img/strat-sol.png"
   alt="Illustration des strates du sol pour puzzle pédagogique"
   caption="Puzzle des horizons du sol : relier strates, racines et matière organique."
 >}}
