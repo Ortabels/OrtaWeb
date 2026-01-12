@@ -66,7 +66,7 @@ Suivre la reprise des plantes, ajuster l’ombrage, l’arrosage et la conduite 
 | Conception des pergolas | Réflexion collective et plans adaptés aux cultures       | 2 semaines    | Bénévole        |
 | Achat des matériaux     | Bois, fixations et supports                              | 1 semaine     | 300 (financement : Etienne)            |
 | Installation            | Montage et aménagement des structures                    | 2 semaines    | Bénévole        |
-| Plantation              | Mise en place des kiwis, vigne et fraisiers              | 1 semaine     | 150 (Financement : Etienne)            |
+| Plantation              | Mise en place des kiwis, vigne et fraisiers              | 1 semaine     | 150 (financement : Etienne)            |
 | Suivi et ajustements    | Observation et adaptations post-installation             | 3 mois        | Bénévole        |
 
 {{< badge >}}Projet collectif{{< /badge >}}  
