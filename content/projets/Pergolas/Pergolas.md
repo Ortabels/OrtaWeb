@@ -18,7 +18,7 @@ author: Etienne
 {{< badge >}}Fonctionnalité agricole{{< /badge >}}
 
 {{< typeit >}}
-Les pergolas constituent des supports de culture pour la vigne et les kiwis,  
+Les pergolas constituent des supports de culture pour la vigne, l'actnidias (kiwis) et l'akébia quinata,  
 tout en créant des zones d’ombrage utiles aux fraisiers et au sol.  
 Elles participent à l’organisation de l’espace,  
 à la protection contre les excès climatiques  
@@ -43,7 +43,7 @@ Chaque élément est pensé pour renforcer la cohérence agronomique du site.
 
 {{< timeline >}}
 {{< timelineItem icon="lightbulb" header="Conception" badge="2 semaines" subheader="Adaptation aux usages agricoles" >}}
-Définir l’implantation des pergolas, leurs dimensions et leur orientation selon les cultures prévues (fraisiers, kiwis, vigne) et les contraintes du site.
+Définir l’implantation des pergolas, leurs dimensions et leur orientation selon les cultures prévues (fraisiers, actinidias, vigne, akébia quinata) et les contraintes du site.
 {{< /timelineItem >}}
 {{< timelineItem icon="package" header="Achat des matériaux" badge="1 semaine" subheader="Bois et éléments de fixation" >}}
 Choisir des matériaux robustes, réparables et compatibles avec une utilisation extérieure durable.
@@ -64,9 +64,9 @@ Suivre la reprise des plantes, ajuster l’ombrage, l’arrosage et la conduite 
 | Étape                   | Description                                              | Durée estimée | Coût estimé (€) |
 |-------------------------|----------------------------------------------------------|---------------|-----------------|
 | Conception des pergolas | Réflexion collective et plans adaptés aux cultures       | 2 semaines    | Bénévole        |
-| Achat des matériaux     | Bois, fixations et supports                              | 1 semaine     | 300             |
+| Achat des matériaux     | Bois, fixations et supports                              | 1 semaine     | 300 (financement : Etienne)            |
 | Installation            | Montage et aménagement des structures                    | 2 semaines    | Bénévole        |
-| Plantation              | Mise en place des kiwis, vigne et fraisiers              | 1 semaine     | 150             |
+| Plantation              | Mise en place des kiwis, vigne et fraisiers              | 1 semaine     | 150 (Financement : Etienne)            |
 | Suivi et ajustements    | Observation et adaptations post-installation             | 3 mois        | Bénévole        |
 
 {{< badge >}}Projet collectif{{< /badge >}}  
