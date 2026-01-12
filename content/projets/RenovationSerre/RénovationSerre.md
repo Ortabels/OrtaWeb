@@ -8,7 +8,7 @@ authors: "Jérémy"
 ---
 
 {{< lead >}}
-La serre semi-enterrée actuelle, construite dans l’urgence, présente aujourd’hui de nombreux défauts : infiltrations d’air, isolation défaillante, jonctions fragiles entre plexiglas, bois et polycarbonate.  
+La serre semi-enterrée actuelle, construite dans l’urgence, présente aujourd’hui de nombreux défauts : infiltrations d’air, isolation défaillante, jonctions fragiles entre plexiglas, bois et polycarbonate. De plus les récents intempéries ont mis en mal l'installation. 
 Résultat : un espace difficile à chauffer, peu confortable et inutilisable comme support pédagogique régulier.  
 Ce chantier vise à repartir sur une base saine pour créer une serre durable, performante et inspirante pour nos ateliers.
 {{< /lead >}}
