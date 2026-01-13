@@ -1,5 +1,3 @@
-YAML + md
-
 ---
 title: "Une mare au potager"
 date: 2026-03-01
