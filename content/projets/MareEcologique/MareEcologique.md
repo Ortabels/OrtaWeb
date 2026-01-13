@@ -99,5 +99,123 @@ La budgétisation comprend généralement :
 - installations pédagogiques,
 - entretien et suivi.
 
-Les montants exacts sont à ajuster selon l’échelle et les moyens du site.
-Gumloop | OrtaWeb Maker
+
+
+{{< lead >}}À hauteur de regard, une mare change l’échelle : tout devient plus proche, plus lisible.{{< /lead >}}
+
+{{< badge >}}biodiversité{{< /badge >}} {{< badge >}}observation{{< /badge >}} {{< badge >}}apprentissage{{< /badge >}} {{< badge >}}résilience{{< /badge >}} {{< badge >}}agroécologie{{< /badge >}}
+
+En quelques pas, on passe d’un espace ordinaire à un petit monde en mouvement, où l’eau, la terre et le vivant racontent ensemble ce qui se joue, jour après jour.
+
+{{< typeit lifeLike=true tag=h2 >}}
+Un milieu vivant accessible, suivi dans le temps, pour relier connaissances, gestes et attention au vivant.
+{{< /typeit >}}
+
+Le projet vise à créer et faire vivre une mare pédagogique comme support d’apprentissage in situ. Il s’agit de rendre possible l’observation régulière d’un milieu vivant accessible, et d’en faire un point d’appui pour relier connaissances, gestes et attitudes d’attention au vivant.
+
+Dans le contexte du potager et du lieu, la mare rend visibles des relations écologiques concrètes entre l’eau, le sol, les plantes et les animaux, et la diversité des formes de vie qui évoluent au fil des saisons. Elle offre un repère pour aborder le cycle de l’eau, la qualité des milieux et les continuités écologiques, en reliant ces dynamiques à une approche agroécologique attentive aux équilibres et à la résilience des écosystèmes.
+
+Du point de vue des savoirs et des pratiques, la mare fournit un terrain direct pour apprendre à observer, décrire, questionner et documenter. Elle permet d’ancrer des notions souvent abstraites dans un lieu réel, et d’exercer une manière d’agir avec mesure : concevoir, entretenir et accompagner un milieu avec méthode et régularité, sans confondre intervention et dérangement, tout en travaillant autonomie, coopération et responsabilité.
+
+{{< lead >}}Apports pédagogiques{{< /lead >}}
+Apports pédagogiques : un support concret pour développer l’observation, la formulation de questions, la prise de notes et le suivi dans le temps.  
+
+{{< lead >}}Apports écologiques{{< /lead >}}
+Apports écologiques : un milieu vivant de proximité pour explorer les interactions et les changements saisonniers, et relier choix humains et fonctionnement d’un écosystème.  
+
+{{< lead >}}Apports collectifs{{< /lead >}}
+Apports collectifs : un projet partagé qui structure des rôles, des routines d’entretien, et une responsabilité commune autour d’un lieu suivi dans la durée.
+
+{{< lead >}}Actions (timeline){{< /lead >}}
+{{< timeline >}}
+
+{{< timelineItem icon="star" header="Phase 1 — Cadrage" badge="À définir" subheader="Usages, implantation, règles" >}}
+Définition des usages pédagogiques, repérage sur site, choix d’implantation et règles de gestion.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="Phase 2 — Conception" badge="À définir" subheader="Dispositif, accès, plan de suivi" >}}
+Dessin du dispositif, organisation des accès et des zones d’observation, préparation du plan de suivi.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="github" header="Phase 3 — Réalisation" badge="À définir" subheader="Création + aménagements" >}}
+Création de la mare et mise en place des aménagements nécessaires à l’observation.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="star" header="Phase 4 — Mise en activité" badge="À définir" subheader="Premières séances, documentation" >}}
+Premières séances d’observation, démarrage de la documentation, ajustements des routines.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="Phase 5 — Entretien & suivi" badge="Continu" subheader="Suivi saisonnier, capitalisation" >}}
+Entretien régulier, suivi saisonnier, capitalisation des observations.
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+
+{{< lead >}}Budgétisation (à compléter selon périmètre){{< /lead >}}
+
+| Postes | Périmètre | Estimation |
+|---|---|---|
+| Études / cadrage | Repérage, choix d’implantation, règles de gestion | À estimer |
+| Conception | Plan d’aménagement, organisation des zones d’observation | À estimer |
+| Terrassement / création | Creusement, modelage, mise en forme | À estimer |
+| Matériaux & aménagements | Bordures, accès, zones d’observation, protection éventuelle | À estimer |
+| Outils & entretien | Matériel pour entretien régulier | À estimer |
+| Supports pédagogiques | Fiches, protocoles d’observation, documentation | À estimer |
+| Animation / encadrement | Séances pédagogiques, coordination, suivi | À estimer |
+
+{{< lead >}}Quand l’eau revient s’installer dans un lieu, quelque chose se réaccorde.{{< /lead >}}
+
+Une simple dépression dans le sol devient un point d’attention : on s’y arrête, on observe, et le paysage commence à raconter autrement ce qui vit, ce qui circule, ce qui s’équilibre.
+
+Le projet consiste à créer une mare comme aménagement durable, évolutif et suivi dans le temps, à la fois milieu humide et support d’apprentissage. Il vise à rendre possible une observation directe des cycles naturels et des dynamiques du vivant, en ancrant la transmission dans une expérience concrète.
+
+Dans le contexte du potager et du site, réintroduire durablement l’eau contribue à restaurer des équilibres locaux et à recréer un milieu favorable à de nombreuses espèces animales et végétales. La mare soutient la biodiversité, renforce les interactions entre le sol, la faune et la flore, et participe à la résilience globale du lieu. Elle favorise aussi l’installation d’espèces prédatrices (amphibiens, insectes, oiseaux) qui contribuent à une régulation naturelle de certaines populations de ravageurs, notamment les limaces et les escargots, sans recours à des moyens chimiques.
+
+Du point de vue des savoirs et des pratiques, la mare devient un outil d’observation et d’expérimentation qui rend visibles des interactions souvent abstraites. Elle permet d’aborder concrètement les cycles de vie, les chaînes alimentaires, la prédation et les équilibres biologiques, en lien avec les espaces naturels et cultivés environnants. Les observations in situ et les ateliers nature s’appuient sur un milieu vivant, évolutif et accessible.
+
+{{< lead >}}Apports concrets du projet{{< /lead >}}
+
+- Un espace d’observation direct des cycles naturels (faune, flore, végétation rivulaire).
+- Un support d’ateliers et de visites, mobilisable pour l’accueil de groupes.
+- Un milieu humide recréé, favorable à la biodiversité locale.
+- Une contribution à la régulation naturelle de certains ravageurs (limaces, escargots) via l’installation de prédatrices.
+- Un dispositif suivi dans le temps, propice à l’expérimentation et à l’ajustement par l’observation.
+- Une dynamique collective de réalisation et de suivi (animateur, bénévoles selon les phases).
+
+{{< lead >}}Actions (timeline){{< /lead >}}
+{{< timeline >}}
+
+{{< timelineItem icon="star" header="Phase 1 — Réflexion et conception" badge="1 à 2 animateurs" subheader="Emplacement, conception, analyse du contexte" >}}
+Choix de l’emplacement, conception du dispositif à des fins pédagogiques, analyse du sol et du contexte hydrique (1 à 2 animateurs, éco-spécialiste).
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="Phase 2 — Préparation du site" badge="2 à 3 personnes" subheader="Terrassement, berges, fond" >}}
+Mise en forme du terrain, terrassement, modelage des berges et du fond, en respectant la structure et la nature du sol (2 à 3 personnes, matériel de terrassement).
+{{< /timelineItem >}}
+
+{{< timelineItem icon="github" header="Phase 3 — Mise en œuvre" badge="2 personnes" subheader="Étanchéité, remplissage progressif" >}}
+Installation de la mare, mise en place de l’étanchéité (argile ou bâche), remplissage progressif (2 personnes).
+{{< /timelineItem >}}
+
+{{< timelineItem icon="star" header="Phase 4 — Suivi et ajustements" badge="1 animateur" subheader="Observation, suivi, ajustements" >}}
+Observation du fonctionnement, suivi régulier de la faune et de la flore, ajustements ponctuels si nécessaire (1 animateur, bénévoles).
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="Phase 5 — Intégration pédagogique" badge="1 animateur" subheader="Ateliers, accueil de groupes" >}}
+Mise en place d’ateliers, accueil de groupes et visites (1 animateur).
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+
+{{< lead >}}Budgétisation (estimations évolutives){{< /lead >}}
+
+| Poste | Périmètre | Estimation |
+|---|---|---:|
+| Plans et tests de sol | Conception : plans et analyse du sol / contexte hydrique | 50 à 200 € |
+| Matériel de terrassement | Préparation : pelle, brouette, mini-pelle | 100 à 700 € |
+| Étanchéité et eau | Mise en œuvre : argile ou bâche, remplissage progressif | 150 à 500 € |
+| Matériel d’observation | Suivi : outils pour observer faune et flore | 30 à 100 € |
+| Supports pédagogiques | Intégration : supports pour ateliers / visites | 50 à 150 € |
+
+{{< button href="#top" target="_self" >}}Revenir en haut{{< /button >}}
+
