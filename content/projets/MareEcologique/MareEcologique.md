@@ -10,15 +10,6 @@ tags:
 author: "Jérémy R."
 ---
 
-{{< typeit >}}
-À hauteur de regard, une mare change l’échelle : tout devient plus proche, plus lisible. En quelques pas, on passe d’un espace ordinaire à un petit monde en mouvement, où l’eau, la terre et le vivant racontent ensemble ce qui se joue, jour après jour.
-
-Au fil des saisons, la mare s’étire puis se resserre, révélant à ceux qui la côtoient la beauté silencieuse des équilibres naturels.
-
-Chacun, ici, peut ressentir le frémissement discret d’une vie qui trouve sa place, support propice à la curiosité comme à la patience.
-{{< /typeit >}}
-
----
 
 {{< lead >}}
 Un espace aquatique vivant, moteur de biodiversité et outil pédagogique.
@@ -30,6 +21,12 @@ Un espace aquatique vivant, moteur de biodiversité et outil pédagogique.
 Ce projet vise à créer un espace aquatique vivant, pensé à la fois comme moteur de biodiversité sur le site et comme outil pédagogique ouvert.
 
 Il s’agit de permettre la restauration d’un équilibre écologique local, tout en offrant aux apprenants l’opportunité d’observer, d’étudier et de comprendre concrètement les dynamiques qui l’animent.
+
+{{< typeit >}}
+À hauteur de regard, une mare change l’échelle : tout devient plus proche, plus lisible. En quelques pas, on passe d’un espace ordinaire à un petit monde en mouvement, où l’eau, la terre et le vivant racontent ensemble ce qui se joue, jour après jour.
+Au fil des saisons, la mare s’étire puis se resserre, révélant à ceux qui la côtoient la beauté silencieuse des équilibres naturels.
+Chacun, ici, peut ressentir le frémissement discret d’une vie qui trouve sa place, support propice à la curiosité comme à la patience.
+{{< /typeit >}}
 
 ---
 
@@ -67,39 +64,6 @@ Par sa seule présence, elle favorise la sensibilisation active de l’ensemble 
 
 ---
 
-{{< lead >}}
-Phasage : de la conception à l’expérience vivante
-{{< /lead >}}
-
-{{< timeline >}}
-  {{< timelineItem icon="target" header="Réflexion & conception" >}}
-    Diagnostic du site et planification des étapes futures.
-  {{< /timelineItem >}}
-  {{< timelineItem icon="shovel" header="Préparation technique" >}}
-    Emplacement et modelage du terrain.
-  {{< /timelineItem >}}
-  {{< timelineItem icon="droplet" header="Étanchéité & remplissage" >}}
-    Installation de l’étanchéité et remplissage progressif.
-  {{< /timelineItem >}}
-  {{< timelineItem icon="seedling" header="Dynamique vivante" >}}
-    Suivi de la dynamique vivante qui s’y installe.
-  {{< /timelineItem >}}
-  {{< timelineItem icon="education" header="Intégration pédagogique" >}}
-    Mise en place d’ateliers et d’animations autour de la mare.
-  {{< /timelineItem >}}
-{{< /timeline >}}
-
----
-
-La budgétisation comprend généralement :
-
-- études et analyses préalables,
-- travaux de terrassement et d’étanchéité,
-- approvisionnement en plantes et matériaux adaptés,
-- installations pédagogiques,
-- entretien et suivi.
-
-
 
 {{< lead >}}À hauteur de regard, une mare change l’échelle : tout devient plus proche, plus lisible.{{< /lead >}}
 
@@ -126,43 +90,6 @@ Apports écologiques : un milieu vivant de proximité pour explorer les interact
 {{< lead >}}Apports collectifs{{< /lead >}}
 Apports collectifs : un projet partagé qui structure des rôles, des routines d’entretien, et une responsabilité commune autour d’un lieu suivi dans la durée.
 
-{{< lead >}}Actions (timeline){{< /lead >}}
-{{< timeline >}}
-
-{{< timelineItem icon="star" header="Phase 1 — Cadrage" badge="À définir" subheader="Usages, implantation, règles" >}}
-Définition des usages pédagogiques, repérage sur site, choix d’implantation et règles de gestion.
-{{< /timelineItem >}}
-
-{{< timelineItem icon="code" header="Phase 2 — Conception" badge="À définir" subheader="Dispositif, accès, plan de suivi" >}}
-Dessin du dispositif, organisation des accès et des zones d’observation, préparation du plan de suivi.
-{{< /timelineItem >}}
-
-{{< timelineItem icon="github" header="Phase 3 — Réalisation" badge="À définir" subheader="Création + aménagements" >}}
-Création de la mare et mise en place des aménagements nécessaires à l’observation.
-{{< /timelineItem >}}
-
-{{< timelineItem icon="star" header="Phase 4 — Mise en activité" badge="À définir" subheader="Premières séances, documentation" >}}
-Premières séances d’observation, démarrage de la documentation, ajustements des routines.
-{{< /timelineItem >}}
-
-{{< timelineItem icon="code" header="Phase 5 — Entretien & suivi" badge="Continu" subheader="Suivi saisonnier, capitalisation" >}}
-Entretien régulier, suivi saisonnier, capitalisation des observations.
-{{< /timelineItem >}}
-
-{{< /timeline >}}
-
-{{< lead >}}Budgétisation (à compléter selon périmètre){{< /lead >}}
-
-| Postes | Périmètre | Estimation |
-|---|---|---|
-| Études / cadrage | Repérage, choix d’implantation, règles de gestion | À estimer |
-| Conception | Plan d’aménagement, organisation des zones d’observation | À estimer |
-| Terrassement / création | Creusement, modelage, mise en forme | À estimer |
-| Matériaux & aménagements | Bordures, accès, zones d’observation, protection éventuelle | À estimer |
-| Outils & entretien | Matériel pour entretien régulier | À estimer |
-| Supports pédagogiques | Fiches, protocoles d’observation, documentation | À estimer |
-| Animation / encadrement | Séances pédagogiques, coordination, suivi | À estimer |
-
 {{< lead >}}Quand l’eau revient s’installer dans un lieu, quelque chose se réaccorde.{{< /lead >}}
 
 Une simple dépression dans le sol devient un point d’attention : on s’y arrête, on observe, et le paysage commence à raconter autrement ce qui vit, ce qui circule, ce qui s’équilibre.
@@ -178,9 +105,7 @@ Du point de vue des savoirs et des pratiques, la mare devient un outil d’obser
 - Un espace d’observation direct des cycles naturels (faune, flore, végétation rivulaire).
 - Un support d’ateliers et de visites, mobilisable pour l’accueil de groupes.
 - Un milieu humide recréé, favorable à la biodiversité locale.
-- Une contribution à la régulation naturelle de certains ravageurs (limaces, escargots) via l’installation de prédatrices.
-- Un dispositif suivi dans le temps, propice à l’expérimentation et à l’ajustement par l’observation.
-- Une dynamique collective de réalisation et de suivi (animateur, bénévoles selon les phases).
+- Une contribution à la régulation naturelle de certains ravageurs (limaces, escargots) via l’installation naturelle de prédatrices.
 
 {{< lead >}}Actions (timeline){{< /lead >}}
 {{< timeline >}}
@@ -189,12 +114,12 @@ Du point de vue des savoirs et des pratiques, la mare devient un outil d’obser
 Choix de l’emplacement, conception du dispositif à des fins pédagogiques, analyse du sol et du contexte hydrique (1 à 2 animateurs, éco-spécialiste).
 {{< /timelineItem >}}
 
-{{< timelineItem icon="code" header="Phase 2 — Préparation du site" badge="2 à 3 personnes" subheader="Terrassement, berges, fond" >}}
+{{< timelineItem icon="warning" header="Phase 2 — Préparation du site" badge="2 à 4 personnes" subheader="Terrassement, berges, fond" >}}
 Mise en forme du terrain, terrassement, modelage des berges et du fond, en respectant la structure et la nature du sol (2 à 3 personnes, matériel de terrassement).
 {{< /timelineItem >}}
 
-{{< timelineItem icon="github" header="Phase 3 — Mise en œuvre" badge="2 personnes" subheader="Étanchéité, remplissage progressif" >}}
-Installation de la mare, mise en place de l’étanchéité (argile ou bâche), remplissage progressif (2 personnes).
+{{< timelineItem icon="water" header="Phase 3 — Mise en œuvre" badge="2 personnes" subheader="Étanchéité, remplissage progressif" >}}
+Installation de la mare, mise en place de l’étanchéité (bâche EPDM), remplissage progressif (2 personnes).
 {{< /timelineItem >}}
 
 {{< timelineItem icon="star" header="Phase 4 — Suivi et ajustements" badge="1 animateur" subheader="Observation, suivi, ajustements" >}}
@@ -211,11 +136,9 @@ Mise en place d’ateliers, accueil de groupes et visites (1 animateur).
 
 | Poste | Périmètre | Estimation |
 |---|---|---:|
-| Plans et tests de sol | Conception : plans et analyse du sol / contexte hydrique | 50 à 200 € |
-| Matériel de terrassement | Préparation : pelle, brouette, mini-pelle | 100 à 700 € |
-| Étanchéité et eau | Mise en œuvre : argile ou bâche, remplissage progressif | 150 à 500 € |
-| Matériel d’observation | Suivi : outils pour observer faune et flore | 30 à 100 € |
-| Supports pédagogiques | Intégration : supports pour ateliers / visites | 50 à 150 € |
+| Matériel de terrassement | Préparation : pelle, brouette, barre à mine | 100 à 200 € |
+| Étanchéité et eau | Mise en œuvre : bâche EPDM, pompe, floteur de mise à niveau| 900 € |
+| Matériel d’observation | Suivi : outils pour observer faune | 30 à 100 € |
 
 {{< button href="#top" target="_self" >}}Revenir en haut{{< /button >}}
 
