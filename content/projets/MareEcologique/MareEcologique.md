@@ -25,7 +25,7 @@ Ici, l’eau façonne le lieu autant qu’elle offre à chacun l’occasion d’
 
 {{< lead >}}Un dispositif vivant pour la régénération écologique et l’apprentissage{{< /lead >}}
 
-Créer une mare dans un potager vise à installer un dispositif vivant au service de la régénération écologique et de l’apprentissage.  
+Créer une mare dans un potager vise à installer un dispositif vivant au service de la régénération écologique.  
 Ce projet a pour but de rendre possible une expérience directe de la biodiversité, de l’observation naturaliste et de la compréhension des équilibres agroécologiques au sein du lieu.
 
 ---
@@ -35,7 +35,7 @@ Ce projet a pour but de rendre possible une expérience directe de la biodiversi
 Dans le contexte du potager, la présence d’une mare permet d’augmenter significativement la diversité spécifique, tout en créant des niches écologiques complémentaires à celles déjà existantes.
 
 {{< badge >}}Interactions faune-flore-eau{{< /badge >}}  
-Elle établit des interactions fonctionnelles entre faune, flore et cycles de l’eau, agissant comme un levier pour la régulation naturelle des ravageurs et une zone tampon face aux aléas climatiques.
+Elle établit des interactions fonctionnelles entre la faune et la flore, agissant comme un levier pour la régulation naturelle des ravageurs et comme une zone refuge face aux fortes chaleurs.
 
 La mare participe ainsi à renforcer la résilience écologique globale, soutenant l’autonomie et la pérennité du système cultivé.  
 
@@ -47,22 +47,22 @@ Du point de vue des savoirs et des pratiques, la mare offre un terrain pédagogi
 
 L’apprentissage passe par la découverte active des cycles biologiques, la compréhension des chaînes trophiques, et la pratique de gestes précis d’entretien et d’observation.
 
-{{< badge >}}Ethique du soin et suivi écologique{{< /badge >}}  
-Cette proximité avec le réel structure des routines collectives et favorise l’échange autour de l’éthique de soin et du suivi écologique.
+{{< badge >}}Ethique et suivi écologique{{< /badge >}}  
+Cette proximité avec le réel structure et favorise l’échange autour de l’éthique et du suivi écologique.
 
 ---
 
 ## Transmission, animation & expérimentation
 
 L’installation d’une mare permet :
-- d’enrichir la présence floristique et faunistique du site,  
+- d’enrichir la biodiversité du site,  
 - de diversifier les habitats,
-- d’introduire un espace d’observation et de suivi continu,
-- de renforcer la responsabilité partagée autour de sa gestion.
+- d’introduire un espace d’observation,
+- de renforcer notre responsabilité autour des enjeux de la gestion de l'eau.
 
 {{< lead >}}Cadre d’expérimentation collective{{< /lead >}}
 
-Le projet apporte un cadre d’expérimentation collective : il structure la transmission des connaissances agroécologiques, permet l’acquisition de gestes techniques, facilite la coopération entre usagers et anime le quotidien pédagogique par l’observation et le suivi des évolutions saisonnières.
+Le projet apporte un cadre d’expérimentation collective : il structure la transmission des connaissances agroécologiques, permet l’acquisition d'éco-gestes simples.
 
 ---
 
@@ -83,7 +83,7 @@ Le projet apporte un cadre d’expérimentation collective : il structure la tra
 | Poste                        | Périmètre                                    | Estimation     |
 |------------------------------|----------------------------------------------|---------------|
 | Terrassement et aménagement  | Préparation du terrain, creusement, modelage | à préciser    |
-| Matériel d’étanchéité        | Bâche, argile, géotextile                    | à préciser    |
-| Plantation et semis          | Plantes aquatiques, végétation de berges     | à préciser    |
+| Matériel d’étanchéité        | Bâche EPDM, géotextile                    | à préciser    |
+| Plantation et semis,         | Plantes aquatiques, végétation de berges     | à préciser    |
 | Matériel pédagogique         | Guides, outils d’observation, supports       | à préciser    |
-| Animation collective         | Temps de suivi, ateliers, documentation      | à pré
+| Animation collective         | Temps de suivi, ateliers, documentation      | à prévoir 
