@@ -76,19 +76,19 @@ Les résultats attendus sont concrets et observables :
 {{< /lead >}} 
  
 {{< timeline >}} 
-{{< timelineItem icon="compass" header="Conception" badge="2 semaines" subheader="Implantation, dimensions, orientation" >}} 
+{{< timelineItem icon="check" header="Conception" badge="2 semaines" subheader="Implantation, dimensions, orientation" >}} 
 Implantation, dimensions et orientation selon les cultures prévues (fraisiers, actinidias, vigne, akébia) et les contraintes du site. 
 {{< /timelineItem >}} 
-{{< timelineItem icon="shopping-cart" header="Achat des matériaux" badge="1 semaine" subheader="Approvisionnement" >}} 
+{{< timelineItem icon="check" header="Achat des matériaux" badge="1 semaine" subheader="Approvisionnement" >}} 
 Achat des barres d’acier nécessaires à la structure. 
 {{< /timelineItem >}} 
-{{< timelineItem icon="hammer" header="Installation" badge="2 semaines" subheader="Montage et préparation des zones de culture" >}} 
+{{< timelineItem icon="check" header="Installation" badge="2 semaines" subheader="Montage et préparation des zones de culture" >}} 
 Montage, ancrages et stabilisation, puis préparation des zones de culture sous et autour des pergolas. 
 {{< /timelineItem >}} 
-{{< timelineItem icon="sprout" header="Plantation" badge="1 semaine" subheader="Mise en place des cultures" >}} 
+{{< timelineItem icon="check" header="Plantation" badge="1 semaine" subheader="Mise en place des cultures" >}} 
 Mise en place des kiwis/actinidias, de la vigne et des fraisiers, en respectant les besoins et le développement futur. 
 {{< /timelineItem >}} 
-{{< timelineItem icon="eye" header="Suivi et ajustements" badge="3 mois" subheader="Observation et réglages" >}} 
+{{< timelineItem icon="check" header="Suivi et ajustements" badge="3 mois" subheader="Observation et réglages" >}} 
 Observation et réglages : ombrage, arrosage et conduite des plantes, pour stabiliser le fonctionnement agronomique. 
 {{< /timelineItem >}} 
 {{< /timeline >}} 
