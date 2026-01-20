@@ -97,41 +97,37 @@ L’eau disponible varie selon les saisons : le système doit permettre d’**ad
  
 {{< timeline >}} 
  
-{{< timelineItem header="Repérage et choix des emplacements" icon="spinner" >}} 
-{{< badge >}} Mars {{< /badge >}} 
-*Identifier les points d’implantation et le cheminement du réseau.*  
+{{< timelineItem header="Repérage et choix des emplacements" icon="spinner" subheader="Identifier les points d’implantation et le cheminement du réseau." >}} 
+{{< badge >}} Préparation {{< /badge >}}   
 - Repérer les zones à irriguer (arbres prioritaires).  
 - Valider les emplacements des cuves (stabilité, accessibilité, sécurité).  
 - Préparer une logique de réseau (gravitaire/basse pression) et les points de vanne. 
 {{< /timelineItem >}} 
  
-{{< timelineItem header="Achat et installation des cuves" icon="spinner" >}} 
-{{< badge >}} Avril {{< /badge >}} 
-*Installer les cuves et sécuriser leur stabilité.*  
+{{< timelineItem header="Achat et installation des cuves" icon="spinner" subheader="Installer les cuves et sécuriser leur stabilité." >}} 
+{{< badge >}} Réserves en eau {{< /badge >}} 
 - Acheter 1 à 2 cuves de 1000 L.  
 - Mettre en place stabilisation/ancrage.  
 - Prévoir/installer les éléments nécessaires à la collecte (récupération pluie ou appoint, selon contexte). 
 {{< /timelineItem >}} 
  
-{{< timelineItem header="Pose du réseau et tests" icon="spinner" >}} 
-{{< badge >}} Mai {{< /badge >}} 
-*Déployer le PEHD, le goutte-à-goutte et valider l’étanchéité.*  
+{{< timelineItem header="Pose du réseau et tests" icon="spinner" subheader="Déployer le PEHD, le goutte-à-goutte et valider l’étanchéité." >}} 
+{{< badge >}} Installation {{< /badge >}}  
 - Poser le réseau PEHD et les lignes de goutte-à-goutte.  
 - Installer vannes, raccords, filtres et clapets anti-retour.  
 - Tester le débit, repérer les fuites, ajuster pour un arrosage lent et ciblé. 
 {{< /timelineItem >}} 
  
-{{< timelineItem header="Usage réel et ajustements en période estivale" icon="spinner" >}} 
-{{< badge >}} Été {{< /badge >}} 
-*Observer, régler, entretenir pour tenir la saison.*  
+{{< timelineItem header="Usage réel et ajustements en période estivale" icon="spinner" subheader="Observer, régler, entretenir pour tenir la saison." >}} 
+{{< badge >}} L'arrosage {{< /badge >}} 
+Observer, régler, entretenir pour tenir la saison.  
 - Utiliser le système en conditions réelles (selon disponibilité en eau et restrictions).  
 - Contrôler régulièrement filtres/fuites et corriger les points faibles.  
 - Ajuster les réglages (vannes/débits) selon les besoins des arbres. 
 {{< /timelineItem >}} 
  
-{{< timelineItem header="Bilan de fin de saison et compléments de pilotage" icon="spinner" >}} 
-{{< badge >}} Fin d’été {{< /badge >}} 
-*Documenter les résultats et compléter le suivi/bilan.*  
+{{< timelineItem header="Bilan de fin de saison et compléments de pilotage" icon="spinner" subheader="Documenter les résultats et compléter le suivi/bilan." >}} 
+{{< badge >}} Amélioration continue {{< /badge >}}  
 - Relever les indicateurs (économie d’eau, arbres irrigués, taux de survie, temps bénévole).  
 - Compléter les champs de pilotage (porteur, décision, dates, ajustements, bilan).  
 - Lister les améliorations à prévoir pour la saison suivante. 
