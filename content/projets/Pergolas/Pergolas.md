@@ -112,7 +112,8 @@ Observation et réglages : ombrage, arrosage et conduite des plantes, pour stabi
 {{< button href="https://www.helloasso.com/associations/ortabels" target="_self" >}} 
 Soutenir le projet 
 {{< /button >}} 
-<br> 
+<br>
+</br>
 {{< button href="https://www.ortabels.fr/contact/" target="_blank" >}} 
 Nous contacter 
 {{< /button >}} 
