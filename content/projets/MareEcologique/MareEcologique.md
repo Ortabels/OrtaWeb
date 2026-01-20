@@ -8,13 +8,13 @@ author: "Etienne R."
 
 
 {{< typeit >}}
-<h3>Une mare, c’est un petit monde qui change tout autour de lui.<h3>
+<h3>Une mare, c’est un petit monde qui change tout autour de lui.</h3>
 {{< /typeit >}}
 
 ---
 
 {{< lead >}}
-<h2>Créer une mare écologique au sein du potager et inviter des personnes à la construire pour comprendre, en contexte maraîcher, ce qu’elle apporte à l’équilibre vivant.<h2>
+<h2>Créer une mare écologique au sein du potager et inviter des personnes à la construire pour comprendre, en contexte maraîcher, ce qu’elle apporte à l’équilibre vivant.</h2>
 {{< /lead >}}
 
 {{< badge >}} Mare écologique {{< /badge >}}
@@ -34,7 +34,7 @@ Enfin, il est important de préciser que cette mare n’a pas vocation à servir
 ---
 
 {{< lead >}}
-<h2>Une mare bien pensée devient un support concret pour comprendre la régulation naturelle, les équilibres écologiques et l’observation du vivant au potager.<h2>
+<h2>Une mare bien pensée devient un support concret pour comprendre la régulation naturelle, les équilibres écologiques et l’observation du vivant au potager.</h2>
 {{< /lead >}}
 
 {{< badge >}} Équilibres {{< /badge >}}
@@ -42,24 +42,24 @@ Enfin, il est important de préciser que cette mare n’a pas vocation à servir
 {{< badge >}} Observation {{< /badge >}}
 
 {{< lead >}}
-<h3>Favoriser la régulation naturelle des ravageurs<h3>
+<h3>Favoriser la régulation naturelle des ravageurs</h3>
 {{< /lead >}}
 La mare, en contexte maraîcher, peut soutenir l’installation naturelle d’organismes prédateurs utiles. L’enjeu est de mieux comprendre comment ces présences participent à limiter certains ravageurs du potager, et comment un milieu aquatique diversifié s’inscrit dans l’équilibre général du site.
 
 {{< lead >}}
-<h3>Déconstruire les idées reçues et partager des pratiques simples<h3>
+<h3>Déconstruire les idées reçues et partager des pratiques simples</h3>
 {{< /lead >}}
 Le projet est l’occasion d’aborder des représentations fréquentes, notamment sur les moustiques, et de diffuser des principes de base : une végétalisation adaptée, l’absence de poissons, et une mare conçue pour que la vie s’installe d’elle-même.
 
 {{< lead >}}
-<h3>Créer un point d’observation pour les sorties pédagogiques<h3>
+<h3>Créer un point d’observation pour les sorties pédagogiques</h3>
 {{< /lead >}}
 Au-delà de l’installation, la mare devient un lieu d’observation régulier, mobilisable dans les sorties pédagogiques extrascolaires organisées au potager, pour suivre l’apparition du vivant et comprendre les interactions au fil du temps.
 
 ---
 
 {{< lead >}}
-<h2>Les participants repartent avec des repères clairs sur le rôle écologique d’une mare au potager et sur les pratiques qui favorisent une installation naturelle du vivant.<h2>
+<h2>Les participants repartent avec des repères clairs sur le rôle écologique d’une mare au potager et sur les pratiques qui favorisent une installation naturelle du vivant.</h2>
 {{< /lead >}}
 
 {{< badge >}} Comprendre {{< /badge >}}
@@ -77,7 +77,7 @@ Les points clés partagés avec les participants :
 ---
 
 {{< lead >}}
-<h2>Actions & budgétisation participatives<h2>
+<h2>Actions & budgétisation participatives</h2>
 {{< /lead >}}
 
 {{< timeline >}}
