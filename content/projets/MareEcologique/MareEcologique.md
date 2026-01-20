@@ -1,89 +1,141 @@
 ---
-title: "Une mare au potager"
-date: 2026-03-01
-description: "Projet pédagogique : créer une mare au potager pour la régénération écologique, l'observation naturaliste et la transmission collective."
-tags:
-  - écologie
-  - mare
-  - pédagogie
-  - agroécologie
-  - biodiversité
-author: "Jérémy R."
+title: "Créer une mare écologique au potager"
+date: 2026-01-20
+description: "Un projet participatif pour installer une mare écologique au potager, comprendre ses équilibres et en faire un support d’observation pédagogique."
+tags: ["agroécologie", "maraîchage", "biodiversité", "pédagogie", "mare"]
+author: "Etienne R."
 ---
 
-{{< lead >}}Créer une mare au potager : régénérer, observer, transmettre{{< /lead >}}
 
-## Lumière d’eau
-
-On imagine d’abord la lumière sur l’eau, le trouble des berges colonisées, l’immobilité apparente et l’agitation discrète d’un nouvel écosystème en place.  
-La mare attire les regards les plus curieux ; elle fait silence, mais donne à voir la vie qui s’y invente, le temps qui s’élargit et la main de celui qui observe, patiente, attentive.  
-Ici, l’eau façonne le lieu autant qu’elle offre à chacun l’occasion d’en comprendre le sens.
+{{< typeit >}}
+Une mare, c’est un petit monde qui change tout autour de lui.
+{{< /typeit >}}
 
 ---
 
-## Pourquoi installer une mare ?
+{{< lead >}}
+Créer une mare écologique au sein du potager et inviter des personnes à la construire pour comprendre, en contexte maraîcher, ce qu’elle apporte à l’équilibre vivant.
+{{< /lead >}}
 
-{{< lead >}}Un dispositif vivant pour la régénération écologique et l’apprentissage{{< /lead >}}
+{{< badge >}} Mare écologique {{< /badge >}}
+{{< badge >}} Potager maraîcher {{< /badge >}}
+{{< badge >}} Participation {{< /badge >}}
 
-Créer une mare dans un potager vise à installer un dispositif vivant au service de la régénération écologique.  
-Ce projet a pour but de rendre possible une expérience directe de la biodiversité, de l’observation naturaliste et de la compréhension des équilibres agroécologiques au sein du lieu.
+Nous souhaitons installer une mare écologique au sein du potager et proposer à des personnes de participer à ce projet.
 
----
+L’objectif, pour les participants, est de comprendre l’intérêt écologique d’une mare en contexte maraîcher : favoriser l’installation naturelle de prédateurs utiles (notamment contre certains ravageurs du potager), et mieux saisir les équilibres que cela permet de soutenir.
 
-## Bénéfices écologiques
+Le projet vise aussi à déconstruire certaines idées reçues (par exemple sur les moustiques) et à partager des bonnes pratiques : végétalisation adaptée, absence de poissons, et principe d’une mare où la vie s’installe d’elle-même.
 
-Dans le contexte du potager, la présence d’une mare permet d’augmenter significativement la diversité spécifique, tout en créant des niches écologiques complémentaires à celles déjà existantes.
+Cette mare deviendra également un point d’observation pour les sorties pédagogiques extrascolaires organisées au potager.
 
-{{< badge >}}Interactions faune-flore-eau{{< /badge >}}  
-Elle établit des interactions fonctionnelles entre la faune et la flore, agissant comme un levier pour la régulation naturelle des ravageurs et comme une zone refuge face aux fortes chaleurs.
-
-La mare participe ainsi à renforcer la résilience écologique globale, soutenant l’autonomie et la pérennité du système cultivé.  
-
----
-
-## Terrain pédagogique
-
-Du point de vue des savoirs et des pratiques, la mare offre un terrain pédagogique concret où chacun peut développer une observation attentive et rigoureuse du vivant.
-
-L’apprentissage passe par la découverte active des cycles biologiques, la compréhension des chaînes trophiques, et la pratique de gestes précis d’entretien et d’observation.
-
-{{< badge >}}Ethique et suivi écologique{{< /badge >}}  
-Cette proximité avec le réel structure et favorise l’échange autour de l’éthique et du suivi écologique.
+Enfin, il est important de préciser que cette mare n’a pas vocation à servir de réserve d’eau ni de zone tampon pour l’arrosage.
 
 ---
 
-## Transmission, animation & expérimentation
+{{< lead >}}
+Une mare bien pensée devient un support concret pour comprendre la régulation naturelle, les équilibres écologiques et l’observation du vivant au potager.
+{{< /lead >}}
 
-L’installation d’une mare permet :
-- d’enrichir la biodiversité du site,  
-- de diversifier les habitats,
-- d’introduire un espace d’observation,
-- de renforcer notre responsabilité autour des enjeux de la gestion de l'eau.
+{{< badge >}} Équilibres {{< /badge >}}
+{{< badge >}} Prédation utile {{< /badge >}}
+{{< badge >}} Observation {{< /badge >}}
 
-{{< lead >}}Cadre d’expérimentation collective{{< /lead >}}
+{{< lead >}}
+Favoriser la régulation naturelle des ravageurs
+{{< /lead >}}
+La mare, en contexte maraîcher, peut soutenir l’installation naturelle d’organismes prédateurs utiles. L’enjeu est de mieux comprendre comment ces présences participent à limiter certains ravageurs du potager, et comment un milieu aquatique diversifié s’inscrit dans l’équilibre général du site.
 
-Le projet apporte un cadre d’expérimentation collective : il structure la transmission des connaissances agroécologiques, permet l’acquisition d'éco-gestes simples.
+{{< lead >}}
+Déconstruire les idées reçues et partager des pratiques simples
+{{< /lead >}}
+Le projet est l’occasion d’aborder des représentations fréquentes, notamment sur les moustiques, et de diffuser des principes de base : une végétalisation adaptée, l’absence de poissons, et une mare conçue pour que la vie s’installe d’elle-même.
+
+{{< lead >}}
+Créer un point d’observation pour les sorties pédagogiques
+{{< /lead >}}
+Au-delà de l’installation, la mare devient un lieu d’observation régulier, mobilisable dans les sorties pédagogiques extrascolaires organisées au potager, pour suivre l’apparition du vivant et comprendre les interactions au fil du temps.
 
 ---
 
-## Phases de réalisation
+{{< lead >}}
+Les participants repartent avec des repères clairs sur le rôle écologique d’une mare au potager et sur les pratiques qui favorisent une installation naturelle du vivant.
+{{< /lead >}}
+
+{{< badge >}} Comprendre {{< /badge >}}
+{{< badge >}} Observer {{< /badge >}}
+{{< badge >}} Partager {{< /badge >}}
+
+Le projet met l’accent sur des repères concrets : pourquoi une mare peut soutenir des équilibres utiles en maraîchage, ce que signifie “laisser la vie s’installer”, et quelles pratiques simples facilitent cette dynamique.
+
+Les points clés partagés avec les participants :
+- le rôle écologique d’une mare dans un potager maraîcher, en lien avec l’installation de prédateurs utiles ;
+- les idées reçues à questionner (dont celles sur les moustiques) et les explications associées ;
+- les bonnes pratiques : végétalisation adaptée, absence de poissons, et respect du principe d’une mare qui se colonise naturellement ;
+- le fait que la mare n’est pas conçue comme réserve d’eau ni comme zone tampon pour l’arrosage.
+
+---
+
+{{< lead >}}
+Actions & budgétisation participatives
+{{< /lead >}}
 
 {{< timeline >}}
-{{< timelineItem icon="comments" header="Phase de concertation et conception" subheader="Choix de l’emplacement, réflexion commune sur le design" >}}{{< /timelineItem >}}
-{{< timelineItem icon="spade" header="Préparation et aménagement du terrain" subheader="Délimitation, modelage des berges" >}}{{< /timelineItem >}}
-{{< timelineItem icon="water" header="Etanchéité et remplissage" subheader="Mise en place de l’étanchéité, remplissage progressif" >}}{{< /timelineItem >}}
-{{< timelineItem icon="leaf" header="Installation végétale initiale" subheader="Plantation et observation de la colonisation" >}}{{< /timelineItem >}}
-{{< timelineItem icon="book" header="Intégration pédagogique et suivi" subheader="Premières activités pédagogiques, suivi collectif de l’écosystème" >}}{{< /timelineItem >}}
+
+{{< timelineItem header="Préparation du projet (intention, règles, observation)"
+    icon="check-circle" >}}
+Présenter l’intention de la mare écologique au potager, clarifier ce qu’elle vise (équilibres, prédateurs utiles, observation) et ce qu’elle ne vise pas (réserve d’eau / zone tampon). Poser les repères partagés : végétalisation adaptée, absence de poissons, mare colonisée naturellement, et points d’attention sur les idées reçues (dont les moustiques).
+{{< /timelineItem >}}
+
+{{< timelineItem header="Préparation du projet (cadrage + emplacement + conception)"
+    icon="check-circle" >}}
+Choisir l’emplacement : zone stable, accessible, hors ruissellement boueux, plutôt mi-ombre/soleil doux, loin des grosses racines et des chutes massives de feuilles.
+Dessiner la mare : forme simple, pentes douces, plusieurs paliers (berges très peu profondes + zones plus profondes), sortie faune (rampe/pierres/branche) et ceinture végétale autour.
+    {{< /timelineItem >}}
+
+{{< timelineItem header="Terrassement et mise en forme"
+    icon="check-circle" >}}
+Tracer au sol, décaper, creuser en respectant paliers/pentes.
+Enlever pierres/racines pointues, égaliser et tasser légèrement.
+    {{< /timelineItem >}}
+
+{{< timelineItem header="Étanchéité & Berges sécurisées"
+    icon="loader" >}}
+Poser géotextile de protection.
+Installer l’étanchéité (bâche EPDM), remplir progressivement, ajuster, puis ancrer/fixer les bords.
+Stabiliser les bords (pierres, mottes, pente douce).
+Prévoir accès et “anti-noyade” pour la faune.
+Sécuriser si accueil du public (cheminement, signalétique, barrière végétale).
+    {{< /timelineItem >}}
+
+{{< timelineItem header="Mise en eau, démarrage biologique & Plantations"
+    icon="loader" >}}
+Remplir doucement (eau non chlorée si possible).
+Laisser le milieu s’installer.
+Planter par gradient : berge / faible profondeur / immergées + végétation autour (refuges, fleurs, abris)
+Pas de poissons.
+    {{< /timelineItem >}}
+
+
+{{< timelineItem header="Observation"
+    icon="circle" >}}
+Organiser un temps d’observation : suivre l’installation progressive du vivant et faire de la mare un support pour les sorties pédagogiques extrascolaires.
+{{< /timelineItem >}}
+
 {{< /timeline >}}
+
+| Poste | Périmètre | Estimation |
+| ------------- | ----------------- | ------------------ |
+| Matériaux et aménagement | Installation de la mare et mise en place des éléments nécessaires au projet | À définir |
+| Animation et pédagogie | Organisation des temps participatifs et utilisation comme support d’observation extrascolaire | À définir |
 
 ---
 
-## Budget prévisionnel
+{{< button href="https://www.helloasso.com/associations/ortabels" target="_self" >}}
+Soutenir le projet
+{{< /button >}}
 
-| Poste                        | Périmètre                                    | Estimation     |
-|------------------------------|----------------------------------------------|---------------|
-| Terrassement et aménagement  | Préparation du terrain, creusement, modelage | à préciser    |
-| Matériel d’étanchéité        | Bâche EPDM, géotextile                    | à préciser    |
-| Plantation et semis,         | Plantes aquatiques, végétation de berges     | à préciser    |
-| Matériel pédagogique         | Guides, outils d’observation, supports       | à préciser    |
-| Animation collective         | Temps de suivi, ateliers, documentation      | à prévoir 
+{{< button href="https://www.ortabels.fr/contact/" target="_blank" >}}
+Nous contacter
+{{< /button >}}
+ à prévoir 
