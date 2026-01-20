@@ -8,13 +8,13 @@ author: "Etienne R."
 
 
 {{< typeit >}}
-Une mare, c’est un petit monde qui change tout autour de lui.
+## Une mare, c’est un petit monde qui change tout autour de lui.
 {{< /typeit >}}
 
 ---
 
 {{< lead >}}
-Créer une mare écologique au sein du potager et inviter des personnes à la construire pour comprendre, en contexte maraîcher, ce qu’elle apporte à l’équilibre vivant.
+# Créer une mare écologique au sein du potager et inviter des personnes à la construire pour comprendre, en contexte maraîcher, ce qu’elle apporte à l’équilibre vivant.
 {{< /lead >}}
 
 {{< badge >}} Mare écologique {{< /badge >}}
@@ -34,7 +34,7 @@ Enfin, il est important de préciser que cette mare n’a pas vocation à servir
 ---
 
 {{< lead >}}
-Une mare bien pensée devient un support concret pour comprendre la régulation naturelle, les équilibres écologiques et l’observation du vivant au potager.
+# Une mare bien pensée devient un support concret pour comprendre la régulation naturelle, les équilibres écologiques et l’observation du vivant au potager.
 {{< /lead >}}
 
 {{< badge >}} Équilibres {{< /badge >}}
@@ -42,24 +42,24 @@ Une mare bien pensée devient un support concret pour comprendre la régulation 
 {{< badge >}} Observation {{< /badge >}}
 
 {{< lead >}}
-Favoriser la régulation naturelle des ravageurs
+## Favoriser la régulation naturelle des ravageurs
 {{< /lead >}}
 La mare, en contexte maraîcher, peut soutenir l’installation naturelle d’organismes prédateurs utiles. L’enjeu est de mieux comprendre comment ces présences participent à limiter certains ravageurs du potager, et comment un milieu aquatique diversifié s’inscrit dans l’équilibre général du site.
 
 {{< lead >}}
-Déconstruire les idées reçues et partager des pratiques simples
+## Déconstruire les idées reçues et partager des pratiques simples
 {{< /lead >}}
 Le projet est l’occasion d’aborder des représentations fréquentes, notamment sur les moustiques, et de diffuser des principes de base : une végétalisation adaptée, l’absence de poissons, et une mare conçue pour que la vie s’installe d’elle-même.
 
 {{< lead >}}
-Créer un point d’observation pour les sorties pédagogiques
+## Créer un point d’observation pour les sorties pédagogiques
 {{< /lead >}}
 Au-delà de l’installation, la mare devient un lieu d’observation régulier, mobilisable dans les sorties pédagogiques extrascolaires organisées au potager, pour suivre l’apparition du vivant et comprendre les interactions au fil du temps.
 
 ---
 
 {{< lead >}}
-Les participants repartent avec des repères clairs sur le rôle écologique d’une mare au potager et sur les pratiques qui favorisent une installation naturelle du vivant.
+# Les participants repartent avec des repères clairs sur le rôle écologique d’une mare au potager et sur les pratiques qui favorisent une installation naturelle du vivant.
 {{< /lead >}}
 
 {{< badge >}} Comprendre {{< /badge >}}
@@ -77,30 +77,34 @@ Les points clés partagés avec les participants :
 ---
 
 {{< lead >}}
-Actions & budgétisation participatives
+# Actions & budgétisation participatives
 {{< /lead >}}
 
 {{< timeline >}}
 
 {{< timelineItem header="Préparation du projet (intention, règles, observation)"
     icon="check-circle" >}}
+    {{< badge >}} Déja réalisé {{< /badge >}}
 Présenter l’intention de la mare écologique au potager, clarifier ce qu’elle vise (équilibres, prédateurs utiles, observation) et ce qu’elle ne vise pas (réserve d’eau / zone tampon). Poser les repères partagés : végétalisation adaptée, absence de poissons, mare colonisée naturellement, et points d’attention sur les idées reçues (dont les moustiques).
 {{< /timelineItem >}}
 
 {{< timelineItem header="Préparation du projet (cadrage + emplacement + conception)"
     icon="check-circle" >}}
+    {{< badge >}} Déja réalisé {{< /badge >}}
 Choisir l’emplacement : zone stable, accessible, hors ruissellement boueux, plutôt mi-ombre/soleil doux, loin des grosses racines et des chutes massives de feuilles.
 Dessiner la mare : forme simple, pentes douces, plusieurs paliers (berges très peu profondes + zones plus profondes), sortie faune (rampe/pierres/branche) et ceinture végétale autour.
     {{< /timelineItem >}}
 
 {{< timelineItem header="Terrassement et mise en forme"
     icon="check-circle" >}}
+      {{< badge >}} Déja réalisé {{< /badge >}}
 Tracer au sol, décaper, creuser en respectant paliers/pentes.
 Enlever pierres/racines pointues, égaliser et tasser légèrement.
     {{< /timelineItem >}}
 
 {{< timelineItem header="Étanchéité & Berges sécurisées"
     icon="loader" >}}
+      {{< badge >}} En cours {{< /badge >}}
 Poser géotextile de protection.
 Installer l’étanchéité (bâche EPDM), remplir progressivement, ajuster, puis ancrer/fixer les bords.
 Stabiliser les bords (pierres, mottes, pente douce).
@@ -109,7 +113,8 @@ Sécuriser si accueil du public (cheminement, signalétique, barrière végétal
     {{< /timelineItem >}}
 
 {{< timelineItem header="Mise en eau, démarrage biologique & Plantations"
-    icon="loader" >}}
+    icon="loader" >}} 
+    {{< badge >}} En cours {{< /badge >}}
 Remplir doucement (eau non chlorée si possible).
 Laisser le milieu s’installer.
 Planter par gradient : berge / faible profondeur / immergées + végétation autour (refuges, fleurs, abris)
@@ -138,4 +143,3 @@ Soutenir le projet
 {{< button href="https://www.ortabels.fr/contact/" target="_blank" >}}
 Nous contacter
 {{< /button >}}
- à prévoir 
