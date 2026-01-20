@@ -10,70 +10,105 @@ tags:
 author: "Jérémy"
 ---
 
-{{< lead >}}Au creux de la garrigue, naît un souffle fragile et généreux.{{< /lead >}}
-
-{{< badge >}} Équilibre vivant {{< /badge >}} {{< badge >}} Partage & sagesse {{< /badge >}} {{< badge >}} Regénération {{< /badge >}}
-
-{{< typeit lifeLike=true >}}
-Quarante mètres carrés suffisent pour faire naître un potager où chaque pierre, plante ou insecte tisse un équilibre profond. Plus qu’un espace de production, ce lieu cultive une sagesse partagée entre humain et nature, célébrant le vivant dans toute sa complexité.
-{{< /typeit >}}
-
-{{< lead >}}Regénérer la terre, ressouder les liens humains.{{< /lead >}}
-
-{{< badge >}} Sols vivants {{< /badge >}} {{< badge >}} Communautés solidaires {{< /badge >}}
-
-Dans un monde où sols et liens sociaux s’étiolement, ce potager démontre qu’à petite échelle, il est possible de redonner souffle à la terre et de retisser la solidarité. Restaurer la vie, du bourdonnement des abeilles aux micro-organismes invisibles, devient un acte essentiel.
-
-{{< button href="#actions" target="_self" >}}Voir les actions concrètes{{< /button >}}
-
-{{< lead >}}Un laboratoire vivant, une expérience partagée.{{< /lead >}}
-
-{{< badge >}} Biodiversité {{< /badge >}} {{< badge >}} Savoirs transmis {{< /badge >}}
-
-On cultive le compost, on protège la terre par le paillage, on associe les plantes pour leur santé mutuelle. Le jardin s’ouvre à tous, terrain fertile pour échanger, expérimenter, transmettre ; chaque geste simple participe à la vigueur du sol et à la résilience commune.
-
-{{< lead >}}Une démarche progressive et collective{{< /lead >}}
-
-{{< badge >}} Observation {{< /badge >}} {{< badge >}} Participation {{< /badge >}} {{< badge >}} Pédagogie {{< /badge >}}
-
-{{< button href="#budget" target="_self" >}}Découvrir la budgétisation{{< /button >}}
-
-{{< lead >}}Actions & étapes clés{{< /lead >}}
-
-{{< timeline >}}
-{{< timelineItem icon="leaf" header="Diagnostic du terrain" badge="Départ" subheader="Analyse & observation" >}}
-Première étape : analyser sol, biodiversité, exposition afin de comprendre les forces et faiblesses du futur jardin.
-{{< /timelineItem >}}
-{{< timelineItem icon="layout" header="Conception & planification" badge="Design du potager" >}}
-Élaboration du plan de cultures, choix des associations bénéfiques, programmation saisonnière.
-{{< /timelineItem >}}
-{{< timelineItem icon="seedling" header="Préparation du sol" badge="Fertilité" >}}
-Compostage, amendement, paillage : rendre la terre accueillante, protéger et nourrir le sol naturellement.
-{{< /timelineItem >}}
-{{< timelineItem icon="flower" header="Plantation & aménagement" badge="Vie en place" >}}
-Installation des cultures, plantations, structures de protection : donner vie au plan.
-{{< /timelineItem >}}
-{{< timelineItem icon="users" header="Ateliers pédagogiques" badge="Savoir partagé" >}}
-Animations mensuelles ou trimestrielles pour apprendre ensemble et diffuser les pratiques.
-{{< /timelineItem >}}
-{{< timelineItem icon="clipboard" header="Suivi & documentation" badge="Pérennité" subheader="Évaluation continue" >}}
-Monitoring biologique, documentation, mise à disposition de ressources pour ancrer le projet dans la durée.
-{{< /timelineItem >}}
-{{< /timeline >}}
-
-{{< lead >}}Budgétisation{{< /lead >}}
-
-| Étapes du projet              | Description                                               | Coût estimé (euros)           | Durée approximative          |
-|------------------------------|-----------------------------------------------------------|----------------------------|-----------------------------
-| Diagnostic du terrain        | Analyse du sol, de la biodiversité et des conditions     | 100 - 300                   | 1 à 2 semaines              |
-| Conception et planification  | Élaboration du plan de culture et choix des associations | 100 - 200                   | 1 semaine                   |
-| Préparation du sol           | Compostage, amendement, paillage                         | 150 - 400                   | 2 à 3 semaines              |
-| Plantation et aménagement    | Mise en place des plantes, installation des protections  | 150 - 500                   | 1 à 2 semaines              |
-| Ateliers pédagogiques        | Sessions d’apprentissage collectif et échanges           | 150 - 350                   | Régulier (mensuel/trimestriel) |
-| Suivi et documentation       | Monitoring, rapports, ressources pédagogiques            | 50 - 150                    | Continu                     |
-
-{{< button href="#rejoindre" target="_self" >}}Rejoindre le mouvement{{< /button >}}
-
 {{< typeit >}}
-Patience et simplicité façonnent une résilience partagée. Chaque geste humble devient espoir, chaque apprentissage, une vitalité retrouvée.
+<h3>Patience et simplicité façonnent une résilience partagée. Chaque geste humble devient espoir, chaque apprentissage, une vitalité retrouvée.</h3>
 {{< /typeit >}}
+
+--- 
+ 
+{{< lead >}} 
+<h2>Créer un micro-potager vivace (≈ 40 m²) pour régénérer la terre et rendre visible le retour de la vie du sol.</h2> 
+{{< /lead >}} 
+ 
+{{< badge >}} compost {{< /badge >}} 
+{{< badge >}} paillage {{< /badge >}} 
+{{< badge >}} expérimentation {{< /badge >}} 
+ 
+Ce projet consiste à installer un micro-potager d’environ 40 m² au cœur de la garrigue, pensé comme un laboratoire vivant. L’intention centrale est de régénérer la terre en montrant que, même à petite échelle, on peut restaurer la vie du sol (micro-organismes, insectes, pollinisateurs).  
+L’approche se veut simple et basée sur l’expérimentation, afin d’apprendre à reconnaître et à cultiver des plantes vivaces et perpétuelles.  
+Les méthodes mobilisées reposent sur : compost, paillage, associations de plantes, protection du sol, observation et expérimentation, documentation.  
+
+Le jardin devient aussi un support pédagogique, avec des temps d’ouverture au public (mensuels ou trimestriels). On y apprend à reconnaître des plantes et à explorer des alternatives aux plantes annuelles : installer des cultures qui s’inscrivent dans la durée, limiter la replantation, maintenir une couverture du sol plus continue, observer des systèmes racinaires et des interactions qui se construisent au fil du temps. 
+ 
+--- 
+ 
+{{< lead >}} 
+<h2>Parce que la santé du sol se construit dans la durée, ce micro-potager sert de démonstrateur concret et accessible de pratiques régénératives.</h2> 
+{{< /lead >}} 
+ 
+{{< badge >}} compost {{< /badge >}} 
+{{< badge >}} paillage {{< /badge >}} 
+{{< badge >}} expérimentation {{< /badge >}} 
+ 
+{{< lead >}} 
+<h3>Régénération du sol et retour du vivant</h3> 
+{{< /lead >}} 
+Le projet met l’accent sur la protection du sol et la stimulation de son activité biologique : apports organiques (compost), couverture (paillage) et limitation des perturbations. L’objectif est de rendre visibles les signes de reprise du vivant (micro-organismes, insectes, pollinisateurs) à travers l’observation et la documentation. 
+ 
+{{< lead >}} 
+<h3>Expérimenter des vivaces et des plantes perpétuelles</h3> 
+{{< /lead >}} 
+Le micro-potager est conçu comme un espace d’essai pour apprendre à reconnaître, installer et suivre des espèces vivaces. Les choix de design, les associations et la saisonnalité sont pensés pour comparer, ajuster et capitaliser sur ce qui fonctionne dans ce contexte de garrigue. 
+ 
+{{< lead >}} 
+<h3>Pédagogie, transmission et apprentissage collectif</h3> 
+{{< /lead >}} 
+Ces ateliers (mensuelle ou trimestrielle) transforment le jardin en support d’apprentissage : reconnaître des plantes, comprendre les principes de protection du sol, partager les retours d’expérience, et diffuser une méthode simple et progressive fondée sur l’observation. 
+ 
+--- 
+ 
+{{< lead >}} 
+<h2>Produire un lieu d’apprentissage, des retours d’expérience et une documentation simple pour apprendre à reconnaître et cultiver des vivaces en régénérant le sol.</h2> 
+{{< /lead >}} 
+ 
+{{< badge >}} compost {{< /badge >}} 
+{{< badge >}} paillage {{< /badge >}} 
+{{< badge >}} expérimentation {{< /badge >}} 
+ 
+Un micro-potager aménagé comme laboratoire vivant, avec des pratiques de régénération du sol mises en œuvre et observées.  
+Une progression par étapes, déjà engagée : diagnostic, conception, préparation du sol, puis plantation/aménagement et ateliers pédagogiques.  
+Des temps de transmission pour apprendre à reconnaître des plantes, comprendre les associations, et explorer des alternatives vivaces aux annuelles.  
+Une documentation continue pour garder la trace des essais, des observations et des ajustements (journal de bord, notes d’observation, synthèses). 
+ 
+--- 
+ 
+{{< lead >}} 
+<h2>Plan d’action & budget</h2> 
+{{< /lead >}} 
+ 
+{{< timeline >}} 
+{{< timelineItem icon="check" header="Diagnostic du terrain" badge="1–2 sem." subheader="0 €" >}} 
+Statut : ok fait. Périmètre : sol, biodiversité, exposition. 
+{{< /timelineItem >}} 
+{{< timelineItem icon="check" header="Conception & planification" badge="1 sem." subheader="0 €" >}} 
+Statut : ok fait. Périmètre : design, associations, saisonnalité. 
+{{< /timelineItem >}} 
+{{< timelineItem icon="check" header="Préparation du sol" badge="2–3 sem." subheader="150 €" >}} 
+Statut : ok fait. Périmètre : compost, amendements, paillage. 
+{{< /timelineItem >}} 
+{{< timelineItem icon="triangle-exclamation" header="Plantation & aménagement" badge="1–2 sem." subheader="150–250 €" >}} 
+Statut : à faire. Périmètre : cultures + protections/structures. 
+{{< /timelineItem >}} 
+{{< timelineItem icon="triangle-exclamation" header="Ateliers pédagogiques" badge="0–400 €" subheader="Selon intervenants" >}} 
+Statut : à faire. Rythme : mensuel ou trimestriel (support pédagogique). 
+{{< /timelineItem >}} 
+{{< /timeline >}} 
+ 
+ 
+| Poste | Périmètre | Estimation | 
+| ------------- | ----------------- | ------------------ | 
+| Diagnostic du terrain | Sol, biodiversité, exposition | 0 € ; 1–2 sem. | 
+| Conception & planification | Design, associations, saisonnalité | 0 € ; 1 sem. | 
+| Préparation du sol | Compost, amendements, paillage | 150 € ; 2–3 sem. | 
+| Plantation & aménagement | Cultures + protections/structures | 150–250 € ; 1–2 sem. | 
+| Ateliers pédagogiques | Apprendre et diffuser (selon intervenants) | 0–400 € | 
+ 
+--- 
+ 
+{{< button href="https://www.helloasso.com/associations/ortabels" target="_self" >}} 
+Soutenir le projet 
+{{< /button >}} 
+<br> 
+{{< button href="https://www.ortabels.fr/contact/" target="_blank" >}} 
+Nous contacter 
+{{< /button >}} 
